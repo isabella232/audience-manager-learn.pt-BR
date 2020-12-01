@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Introdução ao Gerenciamento em massa (BAAAM)
 
-Saiba mais sobre a ferramenta Audience Manager [!UICONTROL Bulk Management] , geralmente chamada de &quot;BAAAM&quot;. Veja como autenticar para que você possa usar a planilha BAAAM para criar, editar e excluir características e segmentos por meio da REST API.
+Saiba mais sobre a ferramenta Audience Manager [!UICONTROL Bulk Management], geralmente chamada de &quot;BAAAM&quot;. Veja como autenticar para que você possa usar a planilha BAAAM para criar, editar e excluir características e segmentos por meio da REST API.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
