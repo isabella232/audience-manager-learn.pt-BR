@@ -17,14 +17,14 @@ ht-degree: 0%
 ---
 
 
-# Uso de relatórios [!UICONTROL Second Party] e [!UICONTROL Third Party] dados em [!UICONTROL Audience Marketplace] no [!UICONTROL Segment] nível {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
+# Relatórios [!UICONTROL Second Party] e [!UICONTROL Third Party] Uso de dados em [!UICONTROL Audience Marketplace] no [!UICONTROL Segment] Nível {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
-Este vídeo mostra um novo método de uso de dados de relatórios na [!UICONTROL Payables] seção da [!UICONTROL Audience Marketplace] interface do usuário. Além do processo existente de relatórios no nível do feed, impressões mensais podem ser enviadas no [!UICONTROL segment] nível, o que elimina a necessidade de cálculos offline para atribuição de custos.
+Este vídeo mostra um novo método de uso de dados de relatórios na seção [!UICONTROL Payables] da interface do usuário [!UICONTROL Audience Marketplace]. Além do processo existente de relatórios no nível do feed, impressões mensais podem ser enviadas no nível [!UICONTROL segment], o que elimina a necessidade de cálculos offline para atribuição de custo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25522/?quality=12)
 
-Esta versão oferecerá mais flexibilidade e um fluxo de trabalho aprimorado para [!UICONTROL second party] e uso de [!UICONTROL third party] dados que permite aos clientes relatar impressões no [!UICONTROL segment] nível por meio da interface do usuário ou usando a funcionalidade de upload em massa.
+Esta versão oferecerá mais flexibilidade e um fluxo de trabalho aprimorado para a utilização de [!UICONTROL second party] e [!UICONTROL third party] dados que permite aos clientes relatar impressões no nível [!UICONTROL segment] por meio da interface do usuário ou usando a funcionalidade de upload em massa.
 
-Além disso, os clientes que comprarem [!UICONTROL second party] ou [!UICONTROL third party] dados da [!UICONTROL Audience Marketplace] serão beneficiados por uma política de atribuição de custos aprimorada. Essa nova política atribuirá custos aos provedores de dados com base nas contagens exclusivas de usuários [!UICONTROL traits] em um [!UICONTROL rule-based] [!UICONTROL segment], resultando em mais transparência e cobrança de uso equitativa. Mais detalhes sobre o algoritmo de cobrança podem ser encontrados na [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html).
+Além disso, os clientes que comprarem [!UICONTROL second party] ou [!UICONTROL third party] dados de [!UICONTROL Audience Marketplace] se beneficiarão de uma política de atribuição de custo aprimorada. Essa nova política atribuirá custos aos provedores de dados com base nas contagens exclusivas de usuários de [!UICONTROL traits] em [!UICONTROL rule-based] [!UICONTROL segment], resultando em mais transparência e cobrança de uso equitativa. Mais detalhes sobre o algoritmo de cobrança podem ser encontrados na [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html).
 
 Para obter mais informações sobre o uso do CPM do relatórios, visite a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html).
