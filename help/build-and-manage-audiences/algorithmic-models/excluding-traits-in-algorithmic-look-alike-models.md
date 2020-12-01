@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Excluindo [!UICONTROL Traits] em Algoritmo (Aparência) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# Excluindo [!UICONTROL Traits] no algorítmico (semelhante) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
 Neste vídeo, você aprenderá como e por que excluir grupos específicos (ou grupos de) [!UICONTROL traits] de um Algoritmo (Aparência) [!UICONTROL Model].
 
@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá como e por que excluir grupos específicos (ou gr
 
 Os casos de uso para este recurso incluem:
 
-* Extremamente comum [!UICONTROL traits] como o viés do visitante do site [!UICONTROL traits] que não será útil [!UICONTROL model] para encontrar uma audiência semelhante de qualidade. Os clientes não precisam mais criar um arquivo separado [!UICONTROL data source] e armazenar em comum [!UICONTROL traits] no novo [!UICONTROL data source], mas agora podem simplesmente excluí-los.
-* Há agora uma maneira de usar um subconjunto [!UICONTROL traits] de um [!UICONTROL third party], como interesses comportamentais, em vez de toda a informação em um [!UICONTROL model]. [!UICONTROL Third parties] geralmente envia muitos dados que podem não ser úteis para o cliente. Em alguns casos, eles não poderão usar todos os dados de uma perspectiva legal em modelagem. Agora você pode excluir [!UICONTROL traits] ou pastas de [!UICONTROL traits] que não deseja incluir no [!UICONTROL model].
+* Extremamente comum [!UICONTROL traits] como o visitante do site [!UICONTROL traits] distorce [!UICONTROL model], o que não será útil para encontrar uma audiência semelhante de qualidade. Os clientes não precisam mais criar um [!UICONTROL data source] separado e armazenar um [!UICONTROL traits] comum no novo [!UICONTROL data source], mas agora podem simplesmente excluí-los.
+* Agora há uma maneira de usar um subconjunto de [!UICONTROL traits] de um [!UICONTROL third party], como interesses comportamentais, em vez de todas as informações em um [!UICONTROL model]. [!UICONTROL Third parties] geralmente envia muitos dados que podem não ser úteis para o cliente. Em alguns casos, eles não poderão usar todos os dados de uma perspectiva legal em modelagem. Agora você pode excluir [!UICONTROL traits] ou pastas de [!UICONTROL traits] que não deseja incluir no [!UICONTROL model].
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html).
