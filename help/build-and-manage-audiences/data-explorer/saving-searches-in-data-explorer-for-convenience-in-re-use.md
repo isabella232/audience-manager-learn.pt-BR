@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# Salvando pesquisas para conveniência [!DNL Data Explorer] na reutilização {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Salvar pesquisas em [!DNL Data Explorer] para conveniência em Reutilizar {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-Neste vídeo, você aprenderá a configurar uma pesquisa no, executá-la [!DNL Data Explorer]e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que ela esteja imediatamente disponível quando você entrar no [!UICONTROL Signals] aplicativo.
+Neste vídeo, você aprenderá a configurar uma pesquisa em [!DNL Data Explorer], executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que ela esteja imediatamente disponível quando você acessar o aplicativo [!UICONTROL Signals].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
