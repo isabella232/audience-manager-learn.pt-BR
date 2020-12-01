@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Criação de uma [!UICONTROL First Party] aparência semelhante [!UICONTROL Model] em AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-Neste vídeo você aprenderá a criar uma [!UICONTROL first party] aparência semelhante [!UICONTROL model], para que você possa encontrar mais visitantes que se pareçam com seus conversores.
+Neste vídeo, você aprenderá a criar [!UICONTROL first party] sósia [!UICONTROL model], para que possa encontrar mais visitantes que se pareçam com os seus conversores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
