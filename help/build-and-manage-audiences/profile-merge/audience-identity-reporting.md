@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Relatório
 
-[!DNL Audience Identity] O Relatórios fornece aos clientes a capacidade de comunicar a população total de uma pessoa [!UICONTROL trait] ou [!UICONTROL segment] por definições de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
+[!DNL Audience Identity] O Relatórios fornece aos clientes a capacidade de relatar a população total de uma pessoa  [!UICONTROL trait] ou  [!UICONTROL segment] por definições de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
