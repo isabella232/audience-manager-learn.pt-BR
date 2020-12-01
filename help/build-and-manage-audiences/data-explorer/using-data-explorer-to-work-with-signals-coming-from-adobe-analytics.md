@@ -17,14 +17,14 @@ ht-degree: 0%
 ---
 
 
-# Usar [!DNL Data Explorer] para trabalhar com a [!UICONTROL Signals] Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
+# Usando [!DNL Data Explorer] para trabalhar com [!UICONTROL Signals] vindo da Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
-Este vídeo mostra como trabalhar [!DNL Data Explorer] para descobrir e usar seus dados do Adobe Analytics, incluindo a busca por dados usados e não utilizados [!UICONTROL signals], a criação [!DNL Analytics] [!UICONTROL traits]e a compreensão dos dados.
+Este vídeo mostra como trabalhar em [!DNL Data Explorer] para descobrir e usar seus dados do Adobe Analytics, incluindo a pesquisa por [!UICONTROL signals] usados e não utilizados, a criação de [!DNL Analytics] [!UICONTROL traits] e a compreensão dos dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
 É provável que uma de suas principais fontes de dados chegando ao Audience Manager seja uma solução de análise, e, claro, esperamos que essa seja a Adobe Analytics. :)
 
-[!DNL Data Explorer] está preparado e pronto para ajudá-lo a ver o que está vindo de vários conjuntos de relatórios e, à medida que você descobre [!DNL Analytics] sinais que ainda não são usados em [!UICONTROL traits], você pode clicar diretamente na guia [!DNL Trait Builder] e criar o [!UICONTROL traits] para utilizar esses dados comportamentais avançados em sua segmentação.
+[!DNL Data Explorer] está preparado e pronto para ajudá-lo a ver o que está vindo de vários conjuntos de relatórios e, à medida que você descobre  [!DNL Analytics] sinais que ainda não são usados em  [!UICONTROL traits], você pode clicar diretamente no  [!DNL Trait Builder] e criar o recurso  [!UICONTROL traits] para utilizar esses poderosos dados comportamentais em sua segmentação.
 
 Para obter mais informações sobre [!DNL Data Explorer], visite a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
