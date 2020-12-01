@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] - Vídeos e Tutorials
 
-Com [!UICONTROL Profile Merge Rules] você obtém controle sobre os conjuntos de dados usados [!UICONTROL segmentation] e pode público alvo uma pessoa com precisão em vários dispositivos.
+Com [!UICONTROL Profile Merge Rules] você obtém controle sobre os conjuntos de dados usados para [!UICONTROL segmentation] e pode público alvo uma pessoa com precisão em vários dispositivos.
 
 Esta seção contém os seguintes vídeos para [!UICONTROL Profile Merge Rules]:
 
