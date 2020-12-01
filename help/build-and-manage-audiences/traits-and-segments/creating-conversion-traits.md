@@ -18,14 +18,14 @@ ht-degree: 0%
 ---
 
 
-# Criação de conversão [!UICONTROL Traits] no Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Criando Conversão [!UICONTROL Traits] no Audience Manager {#creating-conversion-traits-in-audience-manager}
 
-Alguns de seus relatórios [!UICONTROL traits] são baseados em conversões no site. Neste vídeo, aprenda como designá-los como tal e aprenda uma dica muito importante.
+Alguns de seus [!UICONTROL traits] são baseados em conversões no site. Neste vídeo, aprenda como designá-los como tal e aprenda uma dica muito importante.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-O que você está tentando fazer com que as pessoas façam em seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em todo o caso, é comum em AAM criar para visitantes que tenham cumprido esses critérios. [!UICONTROL traits]
+O que você está tentando fazer com que as pessoas façam em seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum em AAM criar [!UICONTROL traits] para visitantes que atenderam a esses critérios.
 
-Em AAM, há um campo em que você pode marcar seu [!UICONTROL trait] como um [!UICONTROL conversion] , especialmente para uso em [!UICONTROL trait][!UICONTROL Audience Lab].
+No AAM, há um campo em que você pode marcar seu [!UICONTROL trait] como um [!UICONTROL conversion] [!UICONTROL trait], especialmente para uso em [!UICONTROL Audience Lab].
 
-Além disso, ao usar eventos para criar [!UICONTROL traits], há uma grande armadilha que você precisa ter em mente, para que você não colete mais usuários do que deveria no [!UICONTROL trait]. Assista a este vídeo para a grande revelação. :)
+Além disso, ao usar eventos para criar [!UICONTROL traits], há um grande ganho que você precisa ter em mente, para que você não colete mais usuários do que deveria no [!UICONTROL trait]. Assista a este vídeo para a grande revelação. :)
