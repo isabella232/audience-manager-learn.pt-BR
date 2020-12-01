@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Aprimoramentos - Pré-requisitos
 
-Uma visão geral de como melhor se preparar para a versão do [!UICONTROL Profile Merge Rule] Enhancements.
+Uma visão geral de como melhor se preparar para o lançamento de [!UICONTROL Profile Merge Rule] Aprimoramentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
