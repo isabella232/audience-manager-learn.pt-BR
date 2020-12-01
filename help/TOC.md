@@ -23,12 +23,12 @@ ht-degree: 5%
    + [Noções básicas sobre termos e conceitos básicos](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Como entender o fluxo de dados no Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Introdução à identidade no Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + Realização de valor {#value-realization}
+   + Realização de valores {#value-realization}
       + [Avaliação do ROI em um caso de uso de supressão de clientes](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Configuração e administração {#setup-and-admin}
    + Fontes de dados {#data-sources}
       + [Criar uma fonte de dados para dados do Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
-   + Controle de dados e privacidade {#data-governance-and-privacy}
+   + Privacidade e controle de dados {#data-governance-and-privacy}
       + [Validação da ID do dispositivo global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Suporte a IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Ofuscação de IP por país](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
@@ -49,11 +49,11 @@ ht-degree: 5%
    + [Implementação em aplicativos iOS Objetive-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
    + [Implementação em aplicativos Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + Audience Marketplace {#audience-marketplace}
-   + Comprar dados {#buying-data}
+   + Comprando Dados {#buying-data}
       + [Relatórios Uso de dados de terceiros e de 2º em Audience Marketplace no nível do segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Upload de dados em massa no Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Usando Filtros e Recommendations para escolher dados de terceiros no Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ Criar e gerenciar Audiências {#build-and-manage-audiences}
++ Criar e gerenciar Audiência {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Uso do Painel de Sinais para Visualização rápida dos principais sinais disponíveis](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Usando a Data Explorer para procurar pares de chave/valor usados e não usados](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -86,8 +86,8 @@ ht-degree: 5%
       + [Como entender números no gráfico de segmentos](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Dicas do cliente - Práticas recomendadas para características e segmentos](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelos algorítmicos {#algorithmic-models}
-      + [Noções básicas [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurar e relatar em [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Noções básicas  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configurar e relatar em  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Criação de um modelo de aparência original](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Excluindo características em modelos algorítmicos (semelhantes)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Aumente o ROAS usando modelos algorítmicos (semelhantes)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -107,7 +107,7 @@ ht-degree: 5%
       + [Entendendo as métricas entre dispositivos no Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Dicas do cliente - Aproveitando ao máximo as regras de mesclagem de Perfis](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Ativação de dados {#data-activation}
-   + Noções básicas sobre destinos {#destinations-basics}
+   + Conceitos básicos de destinos {#destinations-basics}
       + [Como entender os tipos de destino de Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Noções Gerais das Taxas de Correspondência](data-activation/destinations-basics/understanding-match-rates.md)
       + [Noções Gerais da Interface de Taxa de Correspondência](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
@@ -130,7 +130,7 @@ ht-degree: 5%
    + [Uso de relatórios gerais com características e segmentos](reports/using-general-reports-with-traits-and-segments.md)
    + [Uso de relatórios de tendências com características e segmentos](reports/using-trended-reports-with-traits-and-segments.md)
 + Outras integrações {#other-integrations}
-   + Integração com a Ad Cloud {#integrating-with-ad-cloud}
+   + Integração com o Ad Cloud {#integrating-with-ad-cloud}
       + [Integração Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + administração {#api}
-   + [Recuperar credenciais de API em E/S Adobe](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Recuperar credenciais da API no Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
