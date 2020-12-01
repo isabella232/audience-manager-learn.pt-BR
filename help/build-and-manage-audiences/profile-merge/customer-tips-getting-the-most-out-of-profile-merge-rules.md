@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Dicas do cliente - Aproveitando ao máximo as regras de mesclagem de Perfis
 
-**Varun Kalra**, Consultor de várias soluções da **Conforme**, dá dicas sobre a escolha e o uso de Regras de mesclagem de Perfis (PMRs).
+**Varun Kalra**, Consultor de várias soluções da  **Conforme**, dá dicas sobre a escolha e o uso de Regras de mesclagem de Perfis (PMRs).
 
 A Varun Kalra é uma consultora de várias soluções que trabalha em um parceiro de soluções de Adobe com base em Sydney - Conforme. A Varun trabalha principalmente em projetos Audience Manager, Adobe Analytics e AEP que envolvem detecção, implementação, suporte e ativação de dados. As dicas incluem tópicos como:
 
