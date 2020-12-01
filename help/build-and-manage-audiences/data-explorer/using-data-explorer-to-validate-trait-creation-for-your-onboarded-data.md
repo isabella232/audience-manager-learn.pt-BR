@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Uso [!DNL Data Explorer] para validar a [!UICONTROL Trait] criação de seus dados integrados {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
+# Usando [!DNL Data Explorer] para validar [!UICONTROL Trait] criação para seus dados integrados {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-Um dos recursos mais avançados do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar [!DNL Data Explorer] para validar se você criou todos os dados necessários [!UICONTROL traits] para potencializar esses dados integrados.
+Um dos recursos mais avançados do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar [!DNL Data Explorer] para validar que você criou todos os [!UICONTROL traits] necessários para aproveitar esses dados integrados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-Em muitos casos, você está criando dados integrados [!UICONTROL traits] antes de realmente integrar os dados. No entanto, é possível que novas chaves e/ou valores sejam adicionados ao longo do caminho, e talvez você não tenha mais todas as chaves [!UICONTROL traits] criadas para aproveitar esses excelentes dados. Com [!DNL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os seus dados integrados e até filtrá-los por dados específicos [!UICONTROL Data Source]ou até mesmo filtrá-los até a chave e/ou valor. Isso permitirá que você valide seus dados com eficiência.
+Em muitos casos, você está criando [!UICONTROL traits] para dados integrados antes de realmente integrar os dados. No entanto, é possível que novas chaves e/ou valores sejam adicionados ao longo do caminho, e talvez você não tenha mais todos os [!UICONTROL traits] criados, necessários para aproveitar esses excelentes dados. Com [!DNL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os seus dados integrados e até filtrá-los por [!UICONTROL Data Source] específicos, ou até mesmo filtrá-los até a chave e/ou o valor. Isso permitirá que você valide seus dados com eficiência.
 
 Para obter mais informações sobre [!DNL Data Explorer], visite [a documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
