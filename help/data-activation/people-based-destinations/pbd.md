@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!UICONTROL People-Based Destinations] Vídeos e Tutorials
 
-[!UICONTROL People-Based Destinations] permite aplicar a segmentação em dados online e offline para criar segmentos de audiência com base em identificadores com hash, como endereços de email ou números de telefone. Em seguida, é possível enviar esses segmentos para plataformas sociais, como [!DNL Facebook] ou [!DNL LinkedIn], onde você pode público alvo sua audiência.
+[!UICONTROL People-Based Destinations] permite aplicar a segmentação em dados online e offline para criar segmentos de audiência com base em identificadores com hash, como endereços de email ou números de telefone. Em seguida, você pode enviar esses segmentos para plataformas sociais como [!DNL Facebook] ou [!DNL LinkedIn], onde você pode público alvo sua audiência.
 
 Esta seção contém vídeos e tutoriais para tópicos relacionados a [!UICONTROL People-Based Destinations]. Eles foram listados nesta ordem de propósito, à medida que você percorre o fluxo/processo de configuração [!UICONTROL People-Based Destinations]:
 
