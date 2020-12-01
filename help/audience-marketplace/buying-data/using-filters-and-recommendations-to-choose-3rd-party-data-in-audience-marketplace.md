@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Uso de Filtros e Recommendations para escolher [!UICONTROL Third Party] dados em [!UICONTROL Audience Marketplace]
+# Usando Filtros e Recommendations para escolher [!UICONTROL Third Party] dados em [!UICONTROL Audience Marketplace]
 
-Este vídeo apresenta as opções de filtros e recomendações no [!UICONTROL Audience Marketplace] para ajudá-lo a escolher o provedor de [!UICONTROL third party] dados certo para suas necessidades.
+Este vídeo apresenta as opções de filtros e recomendações no [!UICONTROL Audience Marketplace] para ajudá-lo a escolher o provedor de dados [!UICONTROL third party] certo para suas necessidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
