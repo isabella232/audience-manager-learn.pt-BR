@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Como inserir PII com hash para [!UICONTROL People-Based Destinations]
+# Inserindo PII com Hash para [!UICONTROL People-Based Destinations]
 
 Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo, para unir suas IDs de cliente (CRM IDs) a endereços de email com hash. Isso permitirá que você envie os endereços de email com hash para [!UICONTROL People-Based Destinations], como [!DNL Facebook].
 
