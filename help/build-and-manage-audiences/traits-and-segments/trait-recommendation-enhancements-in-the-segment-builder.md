@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] Aprimoramentos na variável [!DNL Segment Builder]
+# [!DNL Trait Recommendation] Aprimoramentos na variável  [!DNL Segment Builder]
 
-Neste vídeo, você verá como usar a atualização [!DNL trait recommendations] no [!DNL segment builder], que são recomendações de Audience Marketplace. Isso lhe dará um insight adicional sobre [!DNL third party] os dados que podem estender o alcance de seu [!UICONTROL segments].
+Neste vídeo você verá como usar o [!DNL trait recommendations] atualizado em [!DNL segment builder], que são recomendações de Audience Marketplace. Isso lhe dará um insight adicional sobre os dados [!DNL third party] que podem estender o alcance de seu [!UICONTROL segments].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
