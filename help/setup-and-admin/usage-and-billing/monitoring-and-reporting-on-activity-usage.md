@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Monitoramento e Relatórios do uso de Atividades
 
-Neste vídeo, nós vamos percorrer como usar o [!DNL Activity Usage Report], incluindo as opções de exibição e download.
+Neste vídeo, iremos percorrer a maneira de usar o [!DNL Activity Usage Report], incluindo as opções de exibição e download.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
