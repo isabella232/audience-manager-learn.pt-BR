@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Como [!UICONTROL Profile Merge Rule] as melhorias afetam [!UICONTROL Segmentation]a Ativação e o Relatórios
+# Como [!UICONTROL Profile Merge Rule] as melhorias afetam [!UICONTROL Segmentation], a Ativação e o Relatórios
 
-Entendendo como [!UICONTROL Profile Merge Rule] as melhorias afetarão o Total [!UICONTROL Trait] e [!UICONTROL Segment] as populações na interface do usuário do Audience Manager.
+Entendendo como as melhorias [!UICONTROL Profile Merge Rule] afetarão as populações Total [!UICONTROL Trait] e [!UICONTROL Segment] na interface do usuário do Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)
