@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Ofuscação de IP por país no Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# Ofuscação de IP por país em Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 O Audience Manager fornece a capacidade de autoatendimento na interface do usuário para permitir que os clientes ativem a ofuscação de IP globalmente ou por país. Este vídeo o orienta pela configuração.
 
