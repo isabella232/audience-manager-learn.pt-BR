@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Usar [!DNL Data Explorer] para pesquisar pares de chave/valor usados e não usados em AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Usando [!DNL Data Explorer] para pesquisar por pares de chave/valor usados e não usados em AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-No trabalho diário no Audience Manager, talvez você precise descobrir rapidamente se um par de chave/valor [!UICONTROL trait] foi criado. Este vídeo mostra como descobrir com [!DNL Data Explorer].
+No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se um [!UICONTROL trait] foi criado a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com [!DNL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Para descobrir se um arquivo [!UICONTROL signal] foi criado em um [!UICONTROL trait], não é mais necessário baixar um [!DNL BAAAM] arquivo e também o [!UICONTROL Unused Signals] relatório. Agora você pode simplesmente procurar por esse par de chave/valor no [!DNL Data Explorer], AKA o [!UICONTROL Signals] aplicativo, em AAM, e encontrar pares de chave/valor que estão dentro [!UICONTROL traits] e aqueles que não estão, todos na mesma lista. Ótimo tempo para salvar!
+Para descobrir se um [!UICONTROL signal] foi criado em um [!UICONTROL trait], não é mais necessário baixar um arquivo [!DNL BAAAM] e também o relatório [!UICONTROL Unused Signals]. Agora você pode simplesmente procurar por esse par de chave/valor em [!DNL Data Explorer], AKA no aplicativo [!UICONTROL Signals], em AAM, e encontrar pares de chave/valor que estão em [!UICONTROL traits] e aqueles que não estão, todos na mesma lista. Ótimo tempo para salvar!
 
 Para obter mais informações sobre [!DNL Data Explorer], visite a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
