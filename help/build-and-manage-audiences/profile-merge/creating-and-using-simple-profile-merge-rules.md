@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Criação e uso do Simples [!UICONTROL Profile Merge Rules]
+# Criação e uso do Simple [!UICONTROL Profile Merge Rules]
 
 Saiba mais sobre as regras de mesclagem de perfis e como atribuí-las a segmentos. Saiba mais sobre o perfil padrão &quot;Dispositivo atual&quot; e quando ele pode/deve ser usado.
 
