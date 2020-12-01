@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Compreensão da interface de taxa de correspondência no Audience Manager
 
-Este vídeo o conduz pela [!UICONTROL destination] interface, mostrando e explicando os números associados às taxas de correspondência e [!DNL addressable audiences].
+Este vídeo o orienta pela interface [!UICONTROL destination], mostrando e explicando os números associados às taxas de correspondência e [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
