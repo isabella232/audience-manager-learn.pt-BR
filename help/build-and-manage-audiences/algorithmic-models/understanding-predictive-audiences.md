@@ -1,6 +1,6 @@
 ---
-title: Compreensão [!UICONTROL Predictive Audiences] em Audience Manager
-description: Neste vídeo, discutiremos o que é Audience Manager [!UICONTROL Predictive Audiences] , apresentaremos detalhes sobre como funcionam e apontaremos casos de uso.
+title: Compreensão de [!UICONTROL Predictive Audiences] no Audience Manager
+description: Neste vídeo, discutiremos quais são os Audience Manager [!UICONTROL Predictive Audiences], apresentaremos detalhes sobre como funcionam e apontaremos casos de uso.
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Compreensão [!UICONTROL Predictive Audiences] em Audience Manager
+# Compreensão de [!UICONTROL Predictive Audiences] no Audience Manager
 
-Neste vídeo, discutiremos o que é Audience Manager [!UICONTROL Predictive Audiences] , apresentaremos detalhes sobre como funcionam e apontaremos casos de uso.
+Neste vídeo, discutiremos quais são os Audience Manager [!UICONTROL Predictive Audiences], apresentaremos detalhes sobre como funcionam e apontaremos casos de uso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
