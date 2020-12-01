@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Visão geral das [!UICONTROL Profile Merge Rule] melhorias
+# Visão geral das melhorias de [!UICONTROL Profile Merge Rule]
 
-Este vídeo explica os aprimoramentos do [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
+Este vídeo explica as melhorias para [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)
