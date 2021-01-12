@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 5%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 5%
       + [Como entender os tipos de destino de Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Noções Gerais das Taxas de Correspondência](data-activation/destinations-basics/understanding-match-rates.md)
       + [Noções Gerais da Interface de Taxa de Correspondência](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [Usando rótulos de exportação de dados para controlar o fluxo de dados](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Usando o Laboratório de Audiências para escolher um DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [Criando características de conversão](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 5%
 + Relatórios {#reports}
    + [Uso de relatórios gerais com características e segmentos](reports/using-general-reports-with-traits-and-segments.md)
    + [Uso de relatórios de tendências com características e segmentos](reports/using-trended-reports-with-traits-and-segments.md)
+   + [Entender Audiências relacionadas com relatórios de sobreposição](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Usando relatórios de Audience Optimization para entender o desempenho da mídia](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Outras integrações {#other-integrations}
    + Integração com o Ad Cloud {#integrating-with-ad-cloud}
       + [Integração Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
