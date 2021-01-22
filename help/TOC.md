@@ -5,10 +5,10 @@ breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 5%
+source-wordcount: '781'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,7 @@ ht-degree: 5%
       + [Melhorias na recomendação de características no Construtor de segmentos](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Uso de Idade e Frequência em Segmentos](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [Uso da Visualização de código ao construir segmentos](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Importar segmentos do Adobe Analytics para o Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Criação de um segmento para suprimir anúncios aos clientes](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [Mapeamento de segmentos Audience Manager para destinos](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Mapeamento de segmentos para um destino baseado em dispositivo](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
