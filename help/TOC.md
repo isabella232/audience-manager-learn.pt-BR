@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + Configuração e administração {#setup-and-admin}
    + Fontes de dados {#data-sources}
       + [Criar uma fonte de dados para dados do Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Criação de uma fonte de dados entre dispositivos e autenticação](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gerenciamento de usuários {#user-management}
       + [Definindo permissões com Controle de acesso baseado em função](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Privacidade e controle de dados {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [Uso dos gerentes de tags para implementar o Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Como identificar sua ID de parceiro ou subdomínio](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Uso de práticas recomendadas em páginas SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Integração de dados offline {#integrating-offline-data}
+   + [Formatação e inserção de dados baseados em arquivo](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Etapas para inserir dados baseados em arquivo](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementação móvel {#mobile-implementation}
    + [Implementação em aplicativos iOS Swift](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementação em aplicativos iOS Objetive-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
