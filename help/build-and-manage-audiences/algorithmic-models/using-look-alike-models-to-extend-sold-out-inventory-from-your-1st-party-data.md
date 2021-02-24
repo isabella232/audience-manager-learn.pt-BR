@@ -1,17 +1,18 @@
 ---
 title: Uso de modelos semelhantes para estender o inventário vendido para fora dos seus dados primários
 description: Neste tutorial, iremos percorrer as etapas que você deve seguir para configurar e usar os Modelos semelhantes, para que você possa criar novas audiências semelhantes e vendê-las como uma extensão para seu segmento de conversão.
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
