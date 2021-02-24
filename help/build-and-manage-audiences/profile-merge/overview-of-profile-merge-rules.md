@@ -1,17 +1,18 @@
 ---
 title: Visão geral das regras de mesclagem de Perfis
 description: Entenda quais são as Regras de mesclagem de Perfis, como elas funcionam e seu valor para o profissional de marketing.
-feature: profile merge
+feature: união de perfis
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28974.jpg
 kt: 3708
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
