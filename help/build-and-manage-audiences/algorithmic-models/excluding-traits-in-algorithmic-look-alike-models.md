@@ -1,17 +1,18 @@
 ---
 title: Excluindo características em modelos algorítmicos (semelhantes)
 description: 'Neste vídeo, você aprenderá como e por que excluir características específicas (ou grupos de) de um Modelo algorítmico (Aparência). '
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25569.jpg
 kt: 1759
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
