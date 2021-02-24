@@ -1,23 +1,24 @@
 ---
 title: Criação de um modelo de aparência semelhante a terceiros em AAM
 description: Neste vídeo, você aprenderá a criar um modelo parecido, para que você possa encontrar mais visitantes que se pareçam com seus conversores.
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23504.jpg
 kt: 1805
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 
-# Criação de uma [!UICONTROL First Party] aparência semelhante [!UICONTROL Model] em AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Criação de uma [!UICONTROL First Party] aparência semelhante a [!UICONTROL Model] em AAM {#creating-a-first-party-look-alike-model-in-aam}
 
 Neste vídeo, você aprenderá a criar [!UICONTROL first party] sósia [!UICONTROL model], para que possa encontrar mais visitantes que se pareçam com os seus conversores.
 
