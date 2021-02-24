@@ -1,17 +1,18 @@
 ---
 title: Upload de dados em massa no Audience Marketplace
 description: 'Ao relatar o uso de dados de terceiros e de segundo no Audience Marketplace, você pode ter entradas suficientes para que não queira fazer isso manualmente. Neste vídeo, você aprenderá a usar a ferramenta de carregamento em massa de relatórios de uso de dados, para que possa relatar facilmente o uso de dados, mesmo que tenha muitos itens para atualizar. '
-feature: audience marketplace
+feature: Mercado de audiências
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
