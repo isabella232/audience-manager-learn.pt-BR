@@ -1,17 +1,18 @@
 ---
 title: Relatórios Uso de dados de terceiros e de 2º em Audience Marketplace no nível do segmento
 description: Este vídeo mostra um novo método de uso de dados de relatórios na seção do Payables da interface do usuário do Audience Marketplace. Além do processo existente de relatórios no nível do feed, impressões mensais podem ser enviadas no nível do segmento, o que elimina a necessidade de cálculos offline para atribuição de custos.
-feature: audience marketplace
+feature: Mercado de audiências
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
