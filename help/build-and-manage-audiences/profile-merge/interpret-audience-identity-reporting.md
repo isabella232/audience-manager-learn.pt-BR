@@ -1,17 +1,18 @@
 ---
 title: Interpretar o Relatórios de identidade da Audiência
 description: O Relatórios de identidade da audiência fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade da pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
-feature: profile merge
+feature: união de perfis
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28973.jpg
 kt: 3694
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
