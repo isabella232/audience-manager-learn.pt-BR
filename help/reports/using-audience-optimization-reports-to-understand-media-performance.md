@@ -1,26 +1,27 @@
 ---
-title: Usando relatórios de Audience Optimization para entender o desempenho da mídia
-description: Saiba mais sobre como usar os Relatórios de Audience Optimization para melhorar suas campanhas, como entender onde investir seus dólares de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
-feature: audience optimization reports
+title: Usar relatórios de otimização de público-alvo para entender o desempenho da mídia
+description: Saiba como usar os Relatórios de otimização de público-alvo para melhorar suas campanhas, entender onde investir seu dinheiro de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
+feature: Relatórios de otimização de público-alvo
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
 kt: 6838
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 3b0e5754a857160fd0dc0d2d97f7ea18ba71bf46
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 2%
 
 ---
 
 
-# Usando relatórios de Audience Optimization para entender o desempenho da mídia
+# Usar relatórios de otimização de público-alvo para entender o desempenho da mídia
 
-Saiba mais sobre como usar os Relatórios de Audience Optimization para melhorar suas campanhas, como entender onde investir seus dólares de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
+Saiba como usar os Relatórios de otimização de público-alvo para melhorar suas campanhas, entender onde investir seu dinheiro de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
