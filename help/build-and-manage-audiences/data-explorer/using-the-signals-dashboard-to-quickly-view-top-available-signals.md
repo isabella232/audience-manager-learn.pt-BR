@@ -1,29 +1,30 @@
 ---
-title: Uso do Painel de Sinais para Visualização rápida dos principais sinais disponíveis
-description: Ao usar tabelas incorporadas e personalizadas no painel de Sinais na Data Explorer, você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
-feature: data explorer
+title: Usar o painel de sinais para exibir rapidamente os principais sinais disponíveis
+description: Ao usar tabelas incorporadas e personalizadas no painel Sinais no Data Explorer, você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até mesmo clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
 
-# Usando o Painel [!UICONTROL Signals] para Visualização rápida disponível [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# Usar o painel [!UICONTROL Signals] para visualizar rapidamente os principais disponíveis [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-Ao usar tabelas incorporadas e personalizadas no painel [!UICONTROL Signals] em [!DNL Data Explorer], você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
+Ao usar tabelas incorporadas e personalizadas no painel [!UICONTROL Signals] em [!DNL Data Explorer], você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até mesmo clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-Ao clicar até [!DNL Data Explorer], AKA o aplicativo [!UICONTROL Signals], você receberá um painel padrão do [!UICONTROL signals] superior, bem como do novo [!UICONTROL signals]. Além desses dois padrões, você pode salvar pesquisas e adicioná-las ao painel, para que possa visualização rapidamente seus dados mais importantes diretamente na página inicial do recurso.
+Ao clicar até [!DNL Data Explorer], AKA o [!UICONTROL Signals] aplicativo, você verá um painel padrão do [!UICONTROL signals] superior, bem como um novo [!UICONTROL signals]. Além desses dois padrões, você pode salvar pesquisas e adicioná-las ao painel, para que possa visualizar rapidamente seus dados mais importantes na primeira página do recurso.
 
 Para obter mais informações sobre [!DNL Data Explorer], visite a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
