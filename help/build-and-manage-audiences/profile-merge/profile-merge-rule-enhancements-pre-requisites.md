@@ -1,18 +1,19 @@
 ---
 title: Aprimoramentos da regra de mesclagem de perfis - Pré-requisitos
-description: Uma visão geral de como melhor se preparar para o lançamento dos Aprimoramentos de regras de mesclagem de Perfis.
-feature: união de perfis
+description: Uma visão geral de como se preparar melhor para o lançamento das Melhorias da Regra de mesclagem de perfis.
+feature: Mesclar perfis
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Aprimoramentos - Pré-requisitos
 
-Uma visão geral de como melhor se preparar para o lançamento de [!UICONTROL Profile Merge Rule] Aprimoramentos.
+Uma visão geral de como se preparar melhor para o lançamento de [!UICONTROL Profile Merge Rule] aprimoramentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
