@@ -1,25 +1,26 @@
 ---
-title: Usando regras de mesclagem de Perfis para extensão de dispositivo e alcance aumentado
-description: Use as Regras de mesclagem de Perfis para estender o alcance a todos os dispositivos de um usuário, para que você possa comercializar pessoas em vez de dispositivos.
-feature: profile merge
+title: Uso das regras de mesclagem de perfis para a extensão do dispositivo e o alcance aumentado
+description: Use Regras de mesclagem de perfil para estender o alcance para todos os dispositivos de um usuário, de modo que você possa vender para pessoas em vez de dispositivos.
+feature: Mesclar perfis
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 
-# Usando [!UICONTROL Profile Merge Rules] para extensão de dispositivo e alcance aumentado
+# Uso de [!UICONTROL Profile Merge Rules] para Extensão do dispositivo e Alcance aumentado
 
-Use [!UICONTROL Profile Merge Rules] para estender o alcance a todos os dispositivos de um usuário, para que você possa comercializar pessoas em vez de dispositivos.
+Use [!UICONTROL Profile Merge Rules] para estender o alcance para todos os dispositivos de um usuário, de modo que você possa vender para pessoas em vez de dispositivos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
