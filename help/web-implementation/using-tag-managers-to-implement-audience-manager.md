@@ -1,31 +1,32 @@
 ---
-title: Uso dos gerentes de tags para implementar o Audience Manager
+title: Uso de gerenciadores de tags para implementar o Audience Manager
 description: Neste vídeo, você aprenderá as noções básicas da implementação do Adobe Audience Manager ao usar uma solução de gerenciamento de tags.
-feature: implementation basics
+feature: Noções básicas da implementação
 topics: null
-audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 
-# Uso dos gerentes de tags para implementar o Audience Manager
+# Uso de gerenciadores de tags para implementar o Audience Manager
 
 Neste vídeo, você aprenderá as noções básicas da implementação do Adobe Audience Manager ao usar uma solução de gerenciamento de tags.
 
-Os casos de uso a seguir são destacados:
+Destacados os seguintes casos de uso:
 
-* Implementação via Adobe Experience Platform Launch quando você também estiver usando o Adobe Analytics
-* Implementação via Adobe Experience Platform Launch quando você NÃO estiver usando o Adobe Analytics
-* Implementação por meio de um gerenciador de tags que não seja de Adobe quando você estiver usando o Adobe Analytics
-* Implementação por meio de um gerenciador de tags que não seja de Adobe quando você NÃO estiver usando o Adobe Analytics
+* Implementação do Adobe Experience Platform Launch quando você também está usando o Adobe Analytics
+* Implementação do Adobe Experience Platform Launch quando você NÃO estiver usando o Adobe Analytics
+* Implementação por meio de um gerenciador de tags que não é da Adobe quando você está usando o Adobe Analytics
+* Implementação por meio de um gerenciador de tags que não seja da Adobe quando você NÃO estiver usando o Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
