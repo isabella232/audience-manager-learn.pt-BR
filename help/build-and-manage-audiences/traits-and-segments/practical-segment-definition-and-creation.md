@@ -1,25 +1,26 @@
 ---
-title: Definição e criação de segmentos práticos
-description: Este vídeo o orienta por um processo de definição de seus segmentos e, em seguida, detalhá-los pelos traços/sinais necessários para criá-los.
-feature: segments
+title: Definição e criação prática de segmentos
+description: Este vídeo o orienta por um processo de definição de segmentos e depois os detalha pelas características/sinais que você precisará para criá-los.
+feature: 'Segmentos '
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 77c4eb9f4113d9322f1fc9574e4d9ad6fb480e1d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 
-# Definição e criação de segmentos práticos
+# Definição e criação prática de segmentos
 
-Este vídeo o orienta por um processo de definição de seus segmentos e, em seguida, detalhá-los pelos traços/sinais necessários para criá-los.
+Este vídeo o orienta por um processo de definição de segmentos e depois os detalha pelas características/sinais que você precisará para criá-los.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
