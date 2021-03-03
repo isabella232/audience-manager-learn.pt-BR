@@ -1,25 +1,26 @@
 ---
-title: Criação de uma Taxonomia de segmento
-description: Quando você cria um segmento no Audience Manager, armazena-o em uma estrutura baseada em pastas ou em uma "taxonomia". Aprenda algumas dicas para criar e gerenciar a taxonomia do segmento.
-feature: segments
+title: Criar uma taxonomia de segmentos
+description: Ao criar um segmento no Audience Manager, você os armazena em uma estrutura de pastas ou em uma "taxonomia". Aprenda algumas dicas para criar e gerenciar a taxonomia de segmentos.
+feature: 'Segmentos '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37909.jpg
 kt: 5933
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: fe85b41c17f87a6ffb8ca6aa1fa9093bf60da4dd
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
 
-# Criação de uma Taxonomia de segmento
+# Criar uma taxonomia de segmentos
 
-Quando você cria um segmento no Audience Manager, armazena-o em uma estrutura baseada em pastas ou em uma &quot;taxonomia&quot;. Aprenda algumas dicas para criar e gerenciar a taxonomia do segmento.
+Ao criar um segmento no Audience Manager, você os armazena em uma estrutura de pastas ou em uma &quot;taxonomia&quot;. Aprenda algumas dicas para criar e gerenciar a taxonomia de segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
