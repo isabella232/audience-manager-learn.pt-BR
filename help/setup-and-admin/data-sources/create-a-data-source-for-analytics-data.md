@@ -2,25 +2,26 @@
 title: Criar uma fonte de dados para dados do Analytics
 description: Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criação de um Data Source no AAM que você pode usar para dados que entram ao vivo de uma solução de análise, como o Adobe Analytics. Isso deve ser feito antes da criação de características para os dados de análise.
 landing-page-description: Saiba como criar uma Fonte de dados para dados que entram em funcionamento a partir de uma solução de análise, como o Adobe Analytics. Faça isso antes de criar características para os dados de análise.
-feature: fontes de dados
+feature: Fontes de dados
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
 
 # Criar um [!UICONTROL Data Source] para [!DNL Analytics] Dados {#create-a-data-source-for-analytics-data}
 
-Neste vídeo, percorremos as etapas, incluindo dicas e truques, da criação de um [!UICONTROL Data Source] no AAM que você pode usar para dados que entram ao vivo de uma solução de análise, como a Adobe Analytics. Isso deve ser feito antes da criação de [!UICONTROL traits] para os dados de análise.
+Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criar um [!UICONTROL Data Source] no AAM que você pode usar para dados que entram ao vivo de uma solução de análise, como o Adobe Analytics. Isso deve ser feito antes de criar [!UICONTROL traits] para os dados de análise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
 
