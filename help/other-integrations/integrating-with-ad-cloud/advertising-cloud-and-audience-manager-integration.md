@@ -1,25 +1,27 @@
 ---
-title: Integração Adobe Advertising Cloud e Adobe Audience Manager
-description: Saiba como funciona a integração entre a Adobe Audience Manager e a Adobe Ad Cloud. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
-feature: integração com a nuvem de anúncios
+title: Integração do Adobe Advertising Cloud e do Adobe Audience Manager
+description: Saiba como funciona a integração entre o Adobe Audience Manager e a Adobe Ad Cloud. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
+feature: Integração com a Advertising Cloud
 topics: null
-audience: all
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
+topic: Integrações
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 
-# Integração Adobe Advertising Cloud e Adobe Audience Manager {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Integração do Adobe Advertising Cloud e do Adobe Audience Manager {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
-Saiba como funciona a integração entre a Adobe Audience Manager e [!DNL Adobe Ad Cloud]. Obtenha também respostas sobre taxas de correspondência e [!UICONTROL third party] sincronização de cookies.
+Saiba como funciona a integração entre o Adobe Audience Manager e [!DNL Adobe Ad Cloud]. Obtenha também respostas sobre taxas de correspondência e [!UICONTROL third party] sincronização de cookies.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
