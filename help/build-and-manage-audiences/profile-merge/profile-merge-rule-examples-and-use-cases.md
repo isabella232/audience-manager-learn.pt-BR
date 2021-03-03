@@ -1,18 +1,19 @@
 ---
 title: Exemplos de regras de mesclagem de perfis e casos de uso
-description: Neste vídeo, você verá exemplos de Regras de mesclagem de Perfis e o que elas significam, bem como os casos de uso para os quais as Regras de mesclagem de Perfis são resolvidas.
-feature: união de perfis
+description: Neste vídeo, você verá exemplos de Regras de mesclagem de perfis e seu significado, bem como os casos de uso para os quais as Regras de mesclagem de perfis resolvem.
+feature: Mesclar perfis
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Exemplos e casos de uso
 
-Neste vídeo você verá exemplos de [!UICONTROL Profile Merge Rules] e o que eles significam, bem como os casos de uso para os quais [!UICONTROL Profile Merge Rules] são resolvidos.
+Neste vídeo, você verá exemplos de [!UICONTROL Profile Merge Rules] e o que eles significam, bem como os casos de uso para os quais [!UICONTROL Profile Merge Rules] resolver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)
