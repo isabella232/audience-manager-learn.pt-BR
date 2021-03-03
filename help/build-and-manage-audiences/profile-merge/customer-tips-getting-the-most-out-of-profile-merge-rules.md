@@ -1,31 +1,32 @@
 ---
-title: Dicas do cliente - Aproveitando ao máximo as regras de mesclagem de Perfis
-description: A Varun Kalra, Consultor Multisolução da Conformant, dá dicas sobre a escolha e o uso das Regras de Mesclagem de Perfis (PMRs).
-feature: profile merge
+title: Dicas do cliente - Como aproveitar ao máximo as regras de mesclagem de perfis
+description: Varun Kalra, consultor de várias soluções da empresa de acordo, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
+feature: Mesclar perfis
 topics: null
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: daefaa6b0d81d1c5246ffec7897feb7f2375aee8
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 
-# Dicas do cliente - Aproveitando ao máximo as regras de mesclagem de Perfis
+# Dicas do cliente - Como aproveitar ao máximo as regras de mesclagem de perfis
 
-**Varun Kalra**, Consultor de várias soluções da  **Conforme**, dá dicas sobre a escolha e o uso de Regras de mesclagem de Perfis (PMRs).
+**Varun Kalra**, consultor de várias soluções da  **Corant**, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
 
-A Varun Kalra é uma consultora de várias soluções que trabalha em um parceiro de soluções de Adobe com base em Sydney - Conforme. A Varun trabalha principalmente em projetos Audience Manager, Adobe Analytics e AEP que envolvem detecção, implementação, suporte e ativação de dados. As dicas incluem tópicos como:
+A Varun Kalra é uma consultora de várias soluções que trabalha em um Parceiro de soluções da Adobe baseado em Sydney - Conforme. A Varun funciona principalmente em projetos do Audience Manager, Adobe Analytics e AEP que envolvem detecção de dados, implementação, suporte e ativação. As dicas incluem tópicos como:
 
-* Identificação de metas de campanha para a configuração de PMR
-* Mergulhe mais fundo em um caso de uso de direcionamento
+* Identificação de metas de campanha para configuração de PMR
+* Detalhe sobre um caso de uso de direcionamento
 * Casos de uso para várias configurações de PMR
 
-[Leia as dicas da Varun na comunidade Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leia as Dicas da Varun na Comunidade da Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
