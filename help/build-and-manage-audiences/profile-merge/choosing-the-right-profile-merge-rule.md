@@ -1,25 +1,26 @@
 ---
-title: Escolhendo a regra de mesclagem de Perfil certa
-description: Neste vídeo, descubra três dos casos de uso mais comuns para Regras de mesclagem de Perfis e como eles podem ajudar seus esforços de marketing.
-feature: profile merge
+title: Escolher a regra de mesclagem de perfil correta
+description: Neste vídeo, descubra três dos casos de uso mais comuns para Regras de mesclagem de perfis e como eles podem ajudar em suas iniciativas de marketing.
+feature: Mesclar perfis
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37908.jpg
 kt: 5833
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 
-# Escolhendo o botão direito [!UICONTROL Profile Merge Rule]
+# Escolha do [!UICONTROL Profile Merge Rule] direito
 
-Neste vídeo, descubra três dos casos de uso mais comuns para [!UICONTROL Profile Merge Rules] e como eles podem ajudar seus esforços de marketing.
+Neste vídeo, descubra três dos casos de uso mais comuns para [!UICONTROL Profile Merge Rules] e como eles podem ajudar em seus esforços de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)
