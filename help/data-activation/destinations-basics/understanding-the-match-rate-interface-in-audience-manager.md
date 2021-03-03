@@ -1,24 +1,25 @@
 ---
-title: Compreensão da interface de taxa de correspondência no Audience Manager
-description: Este vídeo aborda a interface de destino, mostrando e explicando os números associados às taxas de correspondência e audiências endereçáveis.
-feature: match rates
+title: Como entender a interface de taxa de correspondência no Audience Manager
+description: Este vídeo o orienta pela interface de destino, mostrando e explicando os números associados às taxas de correspondência e públicos endereçáveis.
+feature: Taxas de correspondência
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 2%
 
 ---
 
 
-# Compreensão da interface de taxa de correspondência no Audience Manager
+# Como entender a interface de taxa de correspondência no Audience Manager
 
 Este vídeo o orienta pela interface [!UICONTROL destination], mostrando e explicando os números associados às taxas de correspondência e [!DNL addressable audiences].
 
