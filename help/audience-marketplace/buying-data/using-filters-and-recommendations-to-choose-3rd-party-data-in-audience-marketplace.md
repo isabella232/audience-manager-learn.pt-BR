@@ -1,26 +1,27 @@
 ---
-title: Uso de Filtros e Recommendations para escolher dados de terceiros no Audience Marketplace
-description: Este vídeo apresenta as opções de filtros e recomendações no Audience Marketplace para ajudá-lo a escolher o provedor de dados de terceiros certo para suas necessidades.
-feature: Mercado de audiências
+title: Usando filtros e recomendações para escolher dados de terceiros no Audience Marketplace
+description: Este vídeo aborda as opções de filtros e recomendações no Audience Marketplace para ajudá-lo a escolher o provedor de dados de terceiros adequado para suas necessidades.
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 
-# Usando Filtros e Recommendations para escolher [!UICONTROL Third Party] dados em [!UICONTROL Audience Marketplace]
+# Usando filtros e recomendações para escolher [!UICONTROL Third Party] dados em [!UICONTROL Audience Marketplace]
 
-Este vídeo apresenta as opções de filtros e recomendações no [!UICONTROL Audience Marketplace] para ajudá-lo a escolher o provedor de dados [!UICONTROL third party] certo para suas necessidades.
+Este vídeo aborda as opções de filtros e recomendações no [!UICONTROL Audience Marketplace] para ajudá-lo a escolher o provedor de dados [!UICONTROL third party] apropriado para suas necessidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
