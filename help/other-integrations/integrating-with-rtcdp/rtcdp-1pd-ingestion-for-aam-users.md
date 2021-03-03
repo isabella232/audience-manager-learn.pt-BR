@@ -1,37 +1,39 @@
 ---
-title: Compreensão da ingestão de dados primários no CDP em tempo real para usuários do Audience Manager
-description: Este vídeo discute a inclusão de dados offline próprios na Plataforma de dados do cliente em tempo real (CDP em tempo real) para os usuários do Adobe Audience Manager. Analisamos algumas das principais diferenças entre os dois produtos em relação à ingestão de dados e mostramos como o Conector de dados do Audience Manager pode ser usado como uma lacuna de interrupção até que os processos tenham sido movidos para a CDP em tempo real.
+title: Compreensão da assimilação de dados primários na CDP em tempo real para usuários do Audience Manager
+description: Este vídeo discute a assimilação de dados offline próprios na Plataforma de dados do cliente em tempo real (CDP em tempo real) para aqueles que têm usado o Adobe Audience Manager. Observamos algumas das principais diferenças entre os dois produtos em relação à assimilação de dados e mostramos como o Conector de dados do Audience Manager pode ser usado como uma lacuna até que os processos tenham sido transferidos para a CDP em tempo real.
 feature: Integração da plataforma
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
+topic: Integrações
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 0%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
 
-# Compreensão da ingestão de dados primários no CDP em tempo real para usuários do Audience Manager
+# Compreensão da assimilação de dados primários na CDP em tempo real para usuários do Audience Manager
 
-Este vídeo discute a inclusão de dados offline próprios na Plataforma de dados do cliente em tempo real (CDP em tempo real) para os usuários do Adobe Audience Manager. Analisamos algumas das principais diferenças entre os dois produtos em relação à ingestão de dados e mostramos como o Conector de dados do Audience Manager pode ser usado como uma lacuna de interrupção até que os processos tenham sido movidos para a CDP em tempo real.
+Este vídeo discute a assimilação de dados offline próprios na Plataforma de dados do cliente em tempo real (CDP em tempo real) para aqueles que têm usado o Adobe Audience Manager. Observamos algumas das principais diferenças entre os dois produtos em relação à assimilação de dados e mostramos como o Conector de dados do Audience Manager pode ser usado como uma lacuna até que os processos tenham sido transferidos para a CDP em tempo real.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
 
 ## Recursos adicionais
 
-Veja a seguir alguns vídeos e tutoriais que podem ajudá-lo a aprender sobre a Plataforma de dados do cliente em tempo real. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre eles para saber mais sobre a Plataforma.
+Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a aprender mais sobre a Plataforma de dados do cliente em tempo real. Você pode explorar outros vídeos e tutoriais sobre eles para saber mais sobre a Platform.
 
-* [Ingressar dados usando o conector de dados Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Visão geral da assimilação de dados de transmissão](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
-* [Visão geral da ingestão de dados em lote](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
-* [Criar um schema usando o Editor de Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Assimilar dados usando o conector de dados do Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Visão geral da assimilação de dados de fluxo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
+* [Visão geral da assimilação de dados em lote](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
+* [Criar um esquema usando o Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
 * [Criar conjuntos de dados](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
 * [Criar segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
