@@ -1,19 +1,20 @@
 ---
-title: Fluxo de Dados de Destinos Baseados em Pessoas
-description: Este vídeo fornece uma visão geral dos Destinos baseados em pessoas e mostra o fluxo de dados pelo processo.
-feature: people-based destinations
+title: Fluxo de dados de destinos com base em pessoas
+description: Este vídeo fornece uma visão geral de Destinos com base em pessoas e mostra o fluxo de dados pelo processo.
+feature: '"Destinos com base em pessoas"'
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 5%
+source-wordcount: '49'
+ht-degree: 4%
 
 ---
 
