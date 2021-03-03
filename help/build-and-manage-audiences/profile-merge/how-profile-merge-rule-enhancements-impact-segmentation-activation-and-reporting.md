@@ -1,25 +1,26 @@
 ---
-title: Como os aprimoramentos da regra de mesclagem de Perfis afetam a segmentação, a Ativação e o Relatórios
-description: Compreender como os Aprimoramentos de regras de mesclagem de Perfis afetarão a característica total e as populações de segmentos na interface do usuário do Audience Manager
-feature: união de perfis
+title: Como os aprimoramentos da regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios
+description: Entendendo como as melhorias na regra de mesclagem de perfis afetarão o total de características e preenchimentos de segmentos na interface do usuário do Audience Manager
+feature: Mesclar perfis
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 
-# Como [!UICONTROL Profile Merge Rule] as melhorias afetam [!UICONTROL Segmentation], a Ativação e o Relatórios
+# Como as melhorias [!UICONTROL Profile Merge Rule] afetam [!UICONTROL Segmentation], a ativação e os relatórios
 
-Entendendo como as melhorias [!UICONTROL Profile Merge Rule] afetarão as populações Total [!UICONTROL Trait] e [!UICONTROL Segment] na interface do usuário do Audience Manager.
+Entendendo como [!UICONTROL Profile Merge Rule] as melhorias afetarão as populações totais [!UICONTROL Trait] e [!UICONTROL Segment] na interface do usuário do Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)
