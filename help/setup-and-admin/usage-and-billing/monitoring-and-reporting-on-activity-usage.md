@@ -1,25 +1,27 @@
 ---
-title: Monitoramento e Relatórios do uso de Atividades
-description: Neste vídeo, nós vamos percorrer como usar o Relatório de uso de Atividade, incluindo as opções de exibição e download.
-feature: usage and billing
+title: Monitoramento e relatórios sobre o uso de atividades
+description: Neste vídeo, abordaremos como usar o Relatório de uso de atividade, incluindo as opções de exibição e download.
+feature: Uso e faturamento
 topics: null
-audience: administrator, implementer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
+topic: Administração
+role: '"Desenvolvedor, Engenheiro de Dados, Administrador"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: d44d3dac986881c9660190aae3b4d012741ad4bc
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 
-# Monitoramento e Relatórios do uso de Atividades
+# Monitoramento e relatórios sobre o uso de atividades
 
-Neste vídeo, iremos percorrer a maneira de usar o [!DNL Activity Usage Report], incluindo as opções de exibição e download.
+Neste vídeo, abordaremos como usar o [!DNL Activity Usage Report], incluindo as opções de exibição e download.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
