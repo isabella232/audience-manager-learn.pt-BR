@@ -1,27 +1,28 @@
 ---
-title: Salvando pesquisas em Data Explorer de conveniência na reutilização
-description: Neste vídeo, você aprenderá a configurar uma pesquisa na Data Explorer, executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que ela esteja imediatamente disponível quando você acessar o aplicativo Sinais.
-feature: data explorer
+title: Como salvar pesquisas no Data Explorer quanto à conveniência na reutilização
+description: Neste vídeo, você aprenderá a configurar uma pesquisa no Data Explorer, executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que fique imediatamente disponível ao entrar no aplicativo Sinais .
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
 
-# Salvar pesquisas em [!DNL Data Explorer] para conveniência em Reutilizar {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Salvando pesquisas em [!DNL Data Explorer] quanto à conveniência na reutilização {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-Neste vídeo, você aprenderá a configurar uma pesquisa em [!DNL Data Explorer], executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que ela esteja imediatamente disponível quando você acessar o aplicativo [!UICONTROL Signals].
+Neste vídeo, você aprenderá a configurar uma pesquisa em [!DNL Data Explorer], executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que ela fique imediatamente disponível ao entrar no aplicativo [!UICONTROL Signals].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
