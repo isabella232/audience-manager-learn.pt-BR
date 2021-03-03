@@ -1,26 +1,27 @@
 ---
-title: Noções Gerais das Taxas de Correspondência
-description: Este vídeo ajuda você a entender as taxas de correspondência no Adobe Audience Manager, o que são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
-feature: match rates
+title: Como entender as taxas de correspondência
+description: Este vídeo ajuda você a entender as taxas de correspondência no Adobe Audience Manager, o que são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma baixa taxa de correspondência.
+feature: Taxas de correspondência
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
 
-# Noções Gerais das Taxas de Correspondência
+# Como entender as taxas de correspondência
 
-Este vídeo ajuda você a entender as taxas de correspondência no Adobe Audience Manager, o que são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
+Este vídeo ajuda você a entender as taxas de correspondência no Adobe Audience Manager, o que são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma baixa taxa de correspondência.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
