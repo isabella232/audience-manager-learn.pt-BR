@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: f46f94124aeb9cec80573dec28dfd42400eb98e4
+source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '866'
 ht-degree: 4%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 4%
    + Uso e faturamento {#usage-and-billing}
       + [Monitoramento e relatórios sobre o uso de atividades](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Implementação da Web {#web-implementation}
-   + DIL (Biblioteca de integração de dados) {#dil}
-      + [Atualização para DIL versão 8.0 (ou superior)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
+   + DIL (Data Integration Library) {#dil}
+      + [Atualização para o DIL versão 8.0 (ou superior)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (encaminhamento pelo lado do servidor) {#ssf}
       + [Implementar em sites com o Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
-      + [Migração da implementação do AAM de seu site do DIL do lado do cliente para o encaminhamento do lado do servidor](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
+      + [Migração da implementação de AAM do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migração do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Uso de gerenciadores de tags para implementar o Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Como identificar a ID ou o subdomínio do parceiro](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
@@ -58,16 +58,16 @@ ht-degree: 4%
    + Comprando dados {#buying-data}
       + [Como relatar o uso de dados de terceiros e secundários no Audience Marketplace no nível do segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Upload em massa do uso de dados no Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-      + [Usando filtros e recomendações para escolher dados de terceiros no Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+      + [Usando filtros e Recommendations para escolher dados de terceiros no Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Vender dados {#selling-data}
       + [Comercializar públicos próprios no Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Criar e gerenciar públicos {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Usar o painel de sinais para exibir rapidamente os principais sinais disponíveis](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Usando o Data Explorer para procurar pares de chave/valor usados e não utilizados](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-      + [Como salvar pesquisas no Data Explorer quanto à conveniência na reutilização](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
-      + [Uso do Data Explorer para criar características e segmentos retroativos](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
-      + [Uso do Data Explorer para validar a criação de características para seus dados integrados](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+      + [Salvando pesquisas na Data Explorer por conveniência na reutilização](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+      + [Usar a Data Explorer para criar características e segmentos retroativos](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
+      + [Usar o Data Explorer para validar a criação de características para seus dados integrados](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
       + [Usar o Data Explorer para trabalhar com sinais provenientes do Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
    + Características e segmentos {#traits-and-segments}
       + [Planejamento da criação de características com dados do Analytics](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
@@ -85,13 +85,13 @@ ht-degree: 4%
       + [Definição e criação prática de segmentos](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
       + [Criação de segmentos a partir de várias fontes de dados](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
       + [Como escolher uma fonte de dados ao criar um segmento](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
-      + [Aprimoramento de seus segmentos com recomendações de características](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
+      + [Aprimoramento de seus segmentos com o Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
       + [Aprimoramentos da recomendação de características no Construtor de segmentos](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Usar recenticidade e frequência em segmentos](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [Uso da Visualização de código ao construir segmentos](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
       + [Importar segmentos do Adobe Analytics para o Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Criação de um segmento para suprimir anúncios para os clientes](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
-      + [Mapeamento de segmentos do Audience Manager para destinos](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
+      + [Mapeamento de segmentos de Audience Manager para destinos](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Mapeamento de segmentos para um destino com base em dispositivo](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
       + [Como entender números no gráfico de características](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
       + [Como entender números no gráfico de segmentos](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
@@ -127,7 +127,7 @@ ht-degree: 4%
       + [Uso do Audience Lab para escolher um DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [Criar características de conversão](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
    + Destinos com base em pessoas {#people-based-destinations}
-      + [Vídeos e tutoriais de destinos com base em pessoas](data-activation/people-based-destinations/pbd.md)
+      + [Vídeos e Tutorials de destinos com base em pessoas](data-activation/people-based-destinations/pbd.md)
       + [Fluxo de dados de destinos com base em pessoas](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [Criação de uma fonte de dados para destinos com base em pessoas](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
       + [Como entender a assimilação de dados de PII com hash para destinos com base em pessoas](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
@@ -142,15 +142,16 @@ ht-degree: 4%
    + [Uso de relatórios gerais com características e segmentos](reports/using-general-reports-with-traits-and-segments.md)
    + [Uso de relatórios de tendência com características e segmentos](reports/using-trended-reports-with-traits-and-segments.md)
    + [Entender públicos-alvo relacionados com relatórios de sobreposição](reports/understand-related-audiences-with-overlap-reports.md)
-   + [Usar relatórios de otimização de público-alvo para entender o desempenho da mídia](reports/using-audience-optimization-reports-to-understand-media-performance.md)
+   + [Usar relatórios do Audience Optimization para entender o desempenho da mídia](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Outras integrações {#other-integrations}
    + Integração com a Plataforma de dados do cliente em tempo real {#integrating-with-rtcdp}
       + [Assimilar dados usando o conector de dados do Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Compreensão da assimilação de dados primários na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Compreensão da assimilação de dados da Web na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [Noções básicas sobre esquemas e XDM na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [Compreensão de características na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [Compreensão de segmentos na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
-   + Integração com a Ad Cloud {#integrating-with-ad-cloud}
-      + [Integração do Adobe Advertising Cloud e do Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
+   + Integração com o Ad Cloud {#integrating-with-ad-cloud}
+      + [Integração do Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + administração {#api}
    + [Recuperar credenciais de API no Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
