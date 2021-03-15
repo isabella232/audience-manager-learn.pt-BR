@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '877'
 ht-degree: 4%
 
 ---
@@ -150,7 +150,9 @@ ht-degree: 4%
       + [Compreensão da assimilação de dados da Web na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Noções básicas sobre esquemas e XDM na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [Compreensão de características na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [Compreensão de sinais na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [Compreensão de segmentos na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Compreensão do controle de acesso na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
    + Integração com o Ad Cloud {#integrating-with-ad-cloud}
       + [Integração do Adobe Advertising Cloud e Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + administração {#api}
