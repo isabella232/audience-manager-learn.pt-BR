@@ -3,16 +3,16 @@ title: Compreensão do controle de acesso na CDP em tempo real para usuários do
 description: Ao migrar do Audience Manager para a Plataforma de dados do cliente em tempo real, você deve saber onde as permissões de usuário e grupo foram definidas. Este vídeo mostra como o controle de acesso agora estará na Adobe Admin Console.
 feature: Integração da plataforma
 topic: Integrações
-role: Profissional
+role: Praticante de negócios, arquiteto, administrador, líder
 level: Intermediário
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
