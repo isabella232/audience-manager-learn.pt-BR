@@ -3,15 +3,15 @@ title: Noções básicas sobre esquemas e XDM na CDP em tempo real para usuário
 description: Ao migrar do Audience Manager para a Real-time Customer Data Platform (CDP em tempo real), você encontrará alguns novos conceitos e práticas. Os esquemas e o XDM se encaixam nessa categoria. Este vídeo explica esses conceitos.
 feature: Integração da plataforma
 topic: Integrações
-role: Profissional
+role: Praticante de negócios, arquiteto, administrador, líder
 level: Intermediário
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
