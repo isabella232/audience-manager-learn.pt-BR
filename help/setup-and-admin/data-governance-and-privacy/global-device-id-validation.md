@@ -1,22 +1,22 @@
 ---
 title: Validação da ID do dispositivo global
 description: Os identificadores de anúncios de dispositivos (ou seja, iDFA, GAID, Roku ID) têm padrões de formatação que devem ser atendidos para serem utilizáveis no ecossistema de publicidade digital. Atualmente, os clientes e parceiros podem fazer upload de IDs em nossas fontes de dados globais em qualquer formato sem ser notificados sobre a formatação correta da ID. Esse recurso introduzirá a validação das IDs de dispositivo enviadas às fontes de dados globais para formatação adequada e fornecerá mensagens de erro quando as IDs estiverem formatadas incorretamente. Ofereceremos suporte à validação para iDFA, Google Advertising e Roku IDs na inicialização.
-feature: '"Governança de dados e privacidade"'
+feature: Governança e privacidade de dados
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: '"Desenvolvedor, engenheiro de dados, arquiteto"'
-level: Experienciado
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # Validação de ID de dispositivo global {#global-device-id-validation}
 
@@ -24,12 +24,12 @@ Os identificadores de anúncios de dispositivos (ou seja, iDFA, GAID, Roku ID) t
 
 ## Visão geral dos padrões de formato {#overview-of-format-standards}
 
-A seguir estão os pools globais de IDs de publicidade de dispositivo que são reconhecidos e compatíveis com o AAM. Eles são implementados como [!UICONTROL Data Sources] compartilhado que pode ser usado por qualquer cliente ou parceiro de dados que funcione com dados vinculados aos usuários dessas plataformas.
+A seguir estão os pools globais de IDs de publicidade de dispositivo que são reconhecidos e suportados atualmente pela AAM. Eles são implementados como [!UICONTROL Data Sources] compartilhado que pode ser usado por qualquer cliente ou parceiro de dados que funcione com dados vinculados aos usuários dessas plataformas.
 
 <table>
   <tr>
    <td>Plataforma </td>
-   <td>ID da fonte de dados AAM </td>
+   <td>ID da Fonte de Dados AAM </td>
    <td>Formato de ID </td>
    <td>PID AAM </td>
    <td>Notas </td>
@@ -73,12 +73,12 @@ A seguir estão os pools globais de IDs de publicidade de dispositivo que são r
 
 ## Definir um identificador de publicidade no aplicativo {#setting-an-advertising-identifier-in-the-app}
 
-Definir a ID do anunciante no aplicativo é um processo de duas etapas, primeiro recuperar a ID do anunciante e depois enviá-la para a Experience Cloud. Os links são encontrados abaixo para executar essas etapas.
+Definir a ID do anunciante no aplicativo é um processo de duas etapas, primeiro recuperar a ID do anunciante e depois enviá-la para o Experience Cloud. Os links são encontrados abaixo para executar essas etapas.
 
 1. Recuperar a ID
    1. [!DNL Apple] informações sobre o  [!DNL advertising ID] podem ser encontradas  [AQUI](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
    1. Algumas informações sobre como configurar o [!DNL advertiser ID] para [!DNL Android] desenvolvedores podem ser encontradas [HERE](http://www.androiddocs.com/google/play-services/id.html).
-1. Envie-o para a Experience Cloud usando o método [!DNL setAdvertisingIdentifier] no SDK
+1. Envie-o para o Experience Cloud usando o método [!DNL setAdvertisingIdentifier] no SDK
    1. As informações para usar `setAdvertisingIdentifier` estão na [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) para [!DNL iOS] e [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
