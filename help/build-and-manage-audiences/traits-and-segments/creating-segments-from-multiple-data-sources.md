@@ -1,15 +1,15 @@
 ---
 title: Criação de segmentos a partir de várias fontes de dados
 description: Ao criar segmentos no Audience Manager, você pode adicionar características de várias fontes de dados. Este vídeo mostra como fazer isso e discute outras configurações que precisam ser consideradas.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

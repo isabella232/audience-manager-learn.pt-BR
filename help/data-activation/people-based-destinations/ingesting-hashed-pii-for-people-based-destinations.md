@@ -1,15 +1,15 @@
 ---
 title: Assimilar PII com Hash para destinos com base em pessoas
 description: Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash.
-feature: '"Destinos com base em pessoas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

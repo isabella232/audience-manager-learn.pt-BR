@@ -1,15 +1,15 @@
 ---
 title: Entender públicos-alvo relacionados com relatórios de sobreposição
 description: Relatórios de sobreposição permitem ver como os públicos-alvo de características e segmentos se sobrepõem (mesmo visitante em várias características ou segmentos), para que você saiba onde pode agir com seus dados para aumentar a conversão ou se concentrar em expandir o alcance.
-feature: Relatórios de sobreposição
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

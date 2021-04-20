@@ -1,15 +1,15 @@
 ---
 title: Interpretar os relatórios de identidade do público-alvo
 description: O Relatório de identidade de público-alvo fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

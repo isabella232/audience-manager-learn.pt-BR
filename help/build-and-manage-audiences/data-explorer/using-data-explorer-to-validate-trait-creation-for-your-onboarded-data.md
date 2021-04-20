@@ -1,15 +1,15 @@
 ---
 title: 'Uso do Data Explorer para validar a criação de características para seus dados integrados '
 description: Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar o Data Explorer para validar que você criou todas as características necessárias para aproveitar esses dados integrados.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

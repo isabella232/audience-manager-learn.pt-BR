@@ -1,15 +1,15 @@
 ---
 title: Uso de práticas recomendadas em páginas SPA ao enviar dados para o AAM
 description: Neste documento, descreveremos várias práticas recomendadas que você deve seguir e estar ciente ao enviar dados de Aplicativos de página única (SPA) para o Adobe Audience Manager (AAM). Este documento se concentrará em usar o Launch da Adobe, que é o método de implementação recomendado.
-feature: Noções básicas da implementação
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Experienciado
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

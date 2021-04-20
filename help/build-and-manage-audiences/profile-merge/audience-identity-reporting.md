@@ -1,7 +1,7 @@
 ---
 title: Relatórios de identidade da audiência
 description: O Relatórios de identidade da audiência fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade da pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
-feature: união de perfis
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

@@ -1,15 +1,15 @@
 ---
 title: Monitoramento e relatórios sobre o uso de atividades
 description: Neste vídeo, abordaremos como usar o Relatório de uso de atividade, incluindo as opções de exibição e download.
-feature: Uso e faturamento
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administração
-role: '"Desenvolvedor, Engenheiro de Dados, Administrador"'
-level: Iniciante
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

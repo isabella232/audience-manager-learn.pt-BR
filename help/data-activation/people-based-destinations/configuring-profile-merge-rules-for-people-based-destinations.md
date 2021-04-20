@@ -1,15 +1,15 @@
 ---
 title: Configuração de regras de mesclagem de perfis para destinos com base em pessoas
 description: Neste vídeo, saiba como configurar uma Regra de mesclagem de perfis para ser usada em Destinos baseados em pessoas, incluindo quando usar uma nova opção entre dispositivos.
-feature: '"Destinos com base em pessoas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

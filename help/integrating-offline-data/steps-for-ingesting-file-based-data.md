@@ -1,15 +1,15 @@
 ---
 title: Etapas para inserir dados baseados em arquivo
 description: Este vídeo o orienta pelas poucas etapas que você precisa considerar ao integrar dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
-feature: Integração de dados offline
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

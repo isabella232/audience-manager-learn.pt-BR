@@ -1,15 +1,15 @@
 ---
 title: Formatação e inserção de dados baseados em arquivo
 description: Ao trazer seu próprio usuário para o Audience Manager para entender e direcionar melhor seu cliente, há determinados requisitos de formatação para os dados. Este vídeo mostra algumas das principais opções e mostra onde obter mais informações.
-feature: Integração de dados offline
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

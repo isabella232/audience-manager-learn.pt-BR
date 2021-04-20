@@ -1,15 +1,15 @@
 ---
 title: Uso da Visualização de código ao construir segmentos
 description: Saiba como usar a visualização de código para definir segmentos, permitindo criar combinações de características complexas, incluindo o uso de recenticidade e frequência.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

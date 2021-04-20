@@ -1,15 +1,15 @@
 ---
 title: Uso do Data Explorer para procurar pares de chave/valor usados e não utilizados no AAM
 description: No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com o Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

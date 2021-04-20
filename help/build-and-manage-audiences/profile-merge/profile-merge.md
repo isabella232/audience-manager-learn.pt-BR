@@ -1,14 +1,14 @@
 ---
 title: Vídeos e tutoriais de mesclagem de perfis
 description: Esta seção contém vídeos e tutoriais para os recursos de Mesclagem de perfis, como Regras de mesclagem de perfis.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Dicas do cliente - Práticas recomendadas de características e segmentos
 description: Matt Vittorioso, especialista em marketing da Ally Financial, dá dicas sobre como gerenciar características e segmentos.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

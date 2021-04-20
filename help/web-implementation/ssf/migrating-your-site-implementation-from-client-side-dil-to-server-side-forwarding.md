@@ -2,13 +2,13 @@
 title: Migração da implementação de AAM do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor
 description: Este tutorial se aplica a você se tiver o Adobe Audience Manager (AAM) e o Adobe Analytics, e estiver enviando uma ocorrência da página para o AAM usando o código "DIL" (Data Integration Library) e também enviando uma ocorrência da página para o Adobe Analytics. Como você tem ambas as soluções, e como elas são parte da Adobe Experience Cloud, tem a oportunidade de seguir a prática recomendada de ativar o "Encaminhamento pelo lado do servidor (SSF)", que permite que os servidores de coleta de dados do Analytics encaminhem os dados de análise do site em tempo real para o Audience Manager, em vez de fazer com que o código do lado do cliente envie uma ocorrência adicional da página para o AAM. Este tutorial o guiará pelas etapas da mudança da implementação mais antiga do "DIL do lado do cliente" para o método de "encaminhamento do lado do servidor" mais recente.
 product: audience manager
-feature: Integração do Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

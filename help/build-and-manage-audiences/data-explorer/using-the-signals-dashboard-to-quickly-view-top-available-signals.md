@@ -1,15 +1,15 @@
 ---
 title: Usar o painel de sinais para exibir rapidamente os principais sinais disponíveis
 description: Ao usar tabelas incorporadas e personalizadas no painel Sinais no Data Explorer, você pode ver rapidamente os dados mais recentes entrando no Audience Manager e até mesmo clicar para criar características conforme necessário. Bem-vindo ao seu novo fluxo de trabalho mais eficiente!
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

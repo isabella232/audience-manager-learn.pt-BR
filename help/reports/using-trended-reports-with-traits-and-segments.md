@@ -1,15 +1,15 @@
 ---
 title: Uso de relatórios de tendência com características e segmentos
 description: Saiba como usar os relatórios de tendências no Audience Manager para ver o desempenho das características e dos segmentos ao longo do tempo.
-feature: '"Relatórios gerais e de tendências"'
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

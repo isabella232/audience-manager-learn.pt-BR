@@ -1,10 +1,10 @@
 ---
 title: Compreensão da governança de dados na CDP em tempo real para usuários do Audience Manager
 description: Este vídeo orienta os usuários do Audience Manager pela funcionalidade de governança de dados na Plataforma de dados do cliente em tempo real, comparando-a com o que estava disponível no Audience Manager. Ele discute a estrutura DULE (Data Usage and Labeling Enforcement) e onde na plataforma é possível aplicá-la.
-feature: Integração da plataforma
-topic: Integrações
-role: Praticante de negócios, arquiteto, administrador, líder
-level: Intermediário
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337

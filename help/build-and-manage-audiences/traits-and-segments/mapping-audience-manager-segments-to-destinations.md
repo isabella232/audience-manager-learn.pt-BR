@@ -1,15 +1,15 @@
 ---
 title: Mapeamento de segmentos do Audience Manager para destinos
 description: Saiba mais sobre os diferentes tipos de destinos no Audience Manager e os detalhes de segmentos de mapeamento para cada tipo de destino.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

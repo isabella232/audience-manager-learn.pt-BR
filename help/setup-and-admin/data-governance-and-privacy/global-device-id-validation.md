@@ -1,7 +1,7 @@
 ---
 title: Validação da ID do dispositivo global
 description: Os identificadores de anúncios de dispositivos (ou seja, iDFA, GAID, Roku ID) têm padrões de formatação que devem ser atendidos para serem utilizáveis no ecossistema de publicidade digital. Atualmente, os clientes e parceiros podem fazer upload de IDs em nossas fontes de dados globais em qualquer formato sem ser notificados sobre a formatação correta da ID. Esse recurso introduzirá a validação das IDs de dispositivo enviadas às fontes de dados globais para formatação adequada e fornecerá mensagens de erro quando as IDs estiverem formatadas incorretamente. Ofereceremos suporte à validação para iDFA, Google Advertising e Roku IDs na inicialização.
-feature: Governança e privacidade de dados
+feature: Data Governance & Privacy
 topics: mobile
 activity: implement
 doc-type: article

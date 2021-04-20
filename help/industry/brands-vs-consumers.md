@@ -1,7 +1,7 @@
 ---
 title: Uma tabela de duas permissões - marcas e consumidores
 description: Hoje, os profissionais de marketing estão enterrados na desordem de informações dedicadas às práticas de identidade. E apenas 37% dos profissionais de marketing disseram estar muito preparados para um futuro sem cookies, de acordo com pesquisas recentes da Adobe e Advanis. Neste Adobe do webinário, descompacte o nível de compreensão e disponibilidade de anunciantes e editores para um futuro sem cookies, o impacto em seus casos de uso e a percepção deles sobre o ecossistema mais amplo.
-feature: Visão geral
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

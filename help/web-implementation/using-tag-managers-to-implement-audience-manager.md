@@ -1,14 +1,14 @@
 ---
 title: Uso de gerenciadores de tags para implementar o Audience Manager
 description: Neste vídeo, você aprenderá as noções básicas da implementação do Adobe Audience Manager ao usar uma solução de gerenciamento de tags.
-feature: Noções básicas da implementação
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Intermediário
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

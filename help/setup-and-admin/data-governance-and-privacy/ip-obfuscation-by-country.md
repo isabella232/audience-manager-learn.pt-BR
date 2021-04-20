@@ -1,14 +1,14 @@
 ---
 title: Ofuscação de IP por país no Audience Manager
 description: O Audience Manager fornece o recurso de autoatendimento na interface do usuário para permitir que os clientes ativem a ofuscação de IP globalmente ou por país. Este vídeo o orienta pela configuração.
-feature: '"Governança de dados e privacidade"'
+feature: "Data Governance & Privacy"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

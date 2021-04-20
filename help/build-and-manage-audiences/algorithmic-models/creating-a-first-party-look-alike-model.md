@@ -1,15 +1,15 @@
 ---
 title: Criação de um modelo semelhante a primário no AAM
 description: Neste vídeo, você aprenderá a criar um modelo de semelhança primário, para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

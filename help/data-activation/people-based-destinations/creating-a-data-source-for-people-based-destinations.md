@@ -1,15 +1,15 @@
 ---
 title: Criação de uma fonte de dados para destinos com base em pessoas
 description: Este vídeo o orienta pela criação de uma Fonte de Dados no Audience Manager para ser usada em Destinos com base em pessoas.
-feature: '"Destinos com base em pessoas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

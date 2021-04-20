@@ -1,15 +1,15 @@
 ---
 title: Aprimoramentos da regra de mesclagem de perfis - Pré-requisitos
 description: Uma visão geral de como se preparar melhor para o lançamento das Melhorias da Regra de mesclagem de perfis.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

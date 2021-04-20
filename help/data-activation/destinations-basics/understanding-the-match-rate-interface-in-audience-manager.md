@@ -1,15 +1,15 @@
 ---
 title: Como entender a interface de taxa de correspondência no Audience Manager
 description: Este vídeo o orienta pela interface de destino, mostrando e explicando os números associados às taxas de correspondência e públicos endereçáveis.
-feature: Taxas de correspondência
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

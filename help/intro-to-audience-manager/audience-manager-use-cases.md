@@ -1,15 +1,15 @@
 ---
 title: Casos de uso do Audience Manager
 description: Neste vídeo, identificamos quatro casos de uso comuns do Audience Manager e descrevemos as práticas recomendadas associadas a eles.
-feature: Visão geral
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

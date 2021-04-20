@@ -1,15 +1,15 @@
 ---
 title: Aumente o ROAS usando modelos algorítmicos (semelhantes) no Audience Manager
 description: O poder real da Modelagem de semelhança do Audience Manager vem quando você procura expandir seu público-alvo básico em relação a uma qualidade, um novo conjunto de usuários de fontes de dados de terceiros e de segunda geração. Neste tutorial, aprenda as etapas para criar um modelo a partir desses dados.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

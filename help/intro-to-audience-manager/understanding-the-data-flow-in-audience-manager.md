@@ -1,15 +1,15 @@
 ---
 title: Como entender o fluxo de dados no Audience Manager
 description: Este vídeo ajuda você a entender o Adobe Audience Manager descrevendo o fluxo de dados para dentro, através e para fora do aplicativo.
-feature: Visão geral
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

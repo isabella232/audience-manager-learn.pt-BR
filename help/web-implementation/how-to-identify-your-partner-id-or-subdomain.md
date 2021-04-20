@@ -1,14 +1,14 @@
 ---
 title: Como identificar a ID ou o subdomínio do parceiro do Audience Manager
 description: Ao implementar alguns recursos da Experience Cloud, você precisa saber o que é a "ID do parceiro" do Audience Manager (também chamada às vezes de "ID do cliente" ou "Subdomínio"). Neste vídeo, mostraremos dois locais onde você pode obter essa ID na interface do usuário do Audience Manager.
-feature: Noções básicas da implementação
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Intermediário
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

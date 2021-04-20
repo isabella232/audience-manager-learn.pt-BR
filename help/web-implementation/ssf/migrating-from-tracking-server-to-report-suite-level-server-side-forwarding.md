@@ -2,13 +2,13 @@
 title: Migração do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios
 description: Este artigo e vídeo mostram como habilitar o encaminhamento pelo lado do servidor de dados do Analytics para o Audience Manager em um nível de conjunto de relatórios em vez de em um nível de servidor de rastreamento.
 product: audience manager
-feature: Integração do Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: O futuro do gerenciamento de dados e do ambiente de mudança
 description: À medida que as forças de mercado trazem mudanças ao nosso panorama digital, as empresas precisam se adaptar a uma nova realidade em relação à governança de dados, à resolução de identidades e a como engajar prospetos e visitantes pseudônimos com conteúdo significativo. Para isso, estão surgindo muitos caminhos diferentes para aproveitar identificadores duráveis com sistemas externos para alcançar escala. Neste webinário, veja como o Adobe e a 451 Research estão pensando sobre o futuro da tecnologia e dos dados para lidar com o novo ambiente de marketing e começar a preparar sua empresa para o futuro do gerenciamento de dados.
-feature: Visão geral
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,15 +1,15 @@
 ---
 title: Excluindo características em modelos algorítmicos (semelhantes)
 description: 'Neste vídeo, você aprenderá como e por que excluir características específicas (ou grupos de) de um modelo algorítmico (semelhante). '
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

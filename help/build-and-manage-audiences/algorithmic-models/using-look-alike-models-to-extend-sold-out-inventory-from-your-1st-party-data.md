@@ -1,15 +1,15 @@
 ---
 title: Uso de modelos semelhantes para estender o inventário vendido dos dados primários
 description: Neste tutorial, vamos analisar as etapas que você deve seguir para configurar e usar Modelos semelhantes, para que você possa criar novos públicos semelhantes e vendê-los como uma extensão para seu segmento de conversão.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

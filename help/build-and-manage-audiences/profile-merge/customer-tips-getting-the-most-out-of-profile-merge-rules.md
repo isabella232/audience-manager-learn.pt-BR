@@ -1,15 +1,15 @@
 ---
 title: Dicas do cliente - Como aproveitar ao máximo as regras de mesclagem de perfis
 description: Varun Kalra, consultor de várias soluções da empresa de acordo, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
