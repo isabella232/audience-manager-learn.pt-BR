@@ -1,24 +1,23 @@
 ---
-title: Vídeos e tutoriais de destinos com base em pessoas
+title: Vídeos e Tutorials de destinos com base em pessoas
 description: Esta seção contém vídeos e tutoriais para tópicos sobre Destinos com base em pessoas.
-feature: "People-based Destinations"
+feature: '"Destinos com base em pessoas"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Administrator
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL People-Based Destinations] Vídeos e tutoriais
+# [!UICONTROL People-Based Destinations] Vídeos e Tutorials
 
 [!UICONTROL People-Based Destinations] permitem aplicar a segmentação em dados online e offline para criar segmentos de público com base em identificadores com hash, como endereços de email ou números de telefone. Em seguida, é possível enviar esses segmentos para plataformas sociais, como [!DNL Facebook] ou [!DNL LinkedIn], onde você pode direcionar seu público-alvo.
 
