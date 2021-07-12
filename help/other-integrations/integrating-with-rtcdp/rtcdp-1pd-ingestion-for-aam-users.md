@@ -1,21 +1,20 @@
 ---
 title: Compreensão da assimilação de dados primários na CDP em tempo real para usuários do Audience Manager
 description: Este vídeo discute a assimilação de dados offline próprios na Plataforma de dados do cliente em tempo real (CDP em tempo real) para aqueles que têm usado o Adobe Audience Manager. Observamos algumas das principais diferenças entre os dois produtos em relação à assimilação de dados e mostramos como o Audience Manager Data Connector pode ser usado como uma lacuna até que os processos tenham sido transferidos para a CDP em tempo real.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integração da plataforma
+topic: Integrações
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
-
 
 # Compreensão da assimilação de dados primários na CDP em tempo real para usuários do Audience Manager
 
