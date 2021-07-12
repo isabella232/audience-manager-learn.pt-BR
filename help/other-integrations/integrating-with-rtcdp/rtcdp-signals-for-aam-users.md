@@ -1,21 +1,20 @@
 ---
 title: Compreensão de sinais na CDP em tempo real para usuários do Audience Manager
 description: Este vídeo destina-se aos usuários do Audience Manager que estão migrando para a Plataforma de dados do cliente em tempo real (CDP em tempo real) e discute como os sinais (pares de valores chave) usados no Audience Manager para criar características são usados na plataforma.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integração da plataforma
+topic: Integrações
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 96f841c9-d185-4b0b-b0de-e4ea708b518c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
-
 
 # Compreensão de sinais na CDP em tempo real para usuários do Audience Manager
 
