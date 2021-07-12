@@ -1,23 +1,22 @@
 ---
-title: 'Uso do Data Explorer para validar a criação de características para seus dados integrados '
+title: 'Usar o Data Explorer para validar a criação de características para seus dados integrados '
 description: Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar o Data Explorer para validar que você criou todas as características necessárias para aproveitar esses dados integrados.
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d52786ba-8d3d-4a52-be11-21b78353b28b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Usar [!DNL Data Explorer] para validar [!UICONTROL Trait] a criação para seus dados integrados {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
