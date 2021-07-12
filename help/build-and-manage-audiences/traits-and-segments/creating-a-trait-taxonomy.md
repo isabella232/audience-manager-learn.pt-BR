@@ -1,23 +1,22 @@
 ---
 title: Criar uma taxonomia de características
 description: Obtenha dicas sobre como criar as estruturas de pastas que mantêm suas características no Audience Manager.
-feature: Traits
+feature: 'Características '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 9444e976-a569-412c-8ba4-dd2a66ab5c53
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '37'
 ht-degree: 2%
 
 ---
-
 
 # Criar uma taxonomia de características
 
