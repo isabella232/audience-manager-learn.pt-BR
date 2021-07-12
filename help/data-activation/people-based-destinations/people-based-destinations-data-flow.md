@@ -1,23 +1,22 @@
 ---
 title: Fluxo de dados de destinos com base em pessoas
 description: Este vídeo fornece uma visão geral de Destinos com base em pessoas e mostra o fluxo de dados pelo processo.
-feature: "People-based Destinations"
+feature: '"Destinos com base em pessoas"'
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: bd516fdb-dadc-47f5-b5cd-dda2e1b528a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 4%
+source-wordcount: '38'
+ht-degree: 5%
 
 ---
-
 
 # [!UICONTROL People-Based Destinations] Fluxo de dados
 
