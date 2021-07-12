@@ -1,25 +1,24 @@
 ---
-title: Vídeos e tutoriais do Analytics
+title: Vídeos e Tutorials do Analytics
 description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
-feature: Overview
+feature: Visão geral
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '338'
 ht-degree: 12%
 
 ---
 
-
 # Visão geral
 
-Bem-vindo ao Site de tutoriais do Audience Manager.  Usar esses tutoriais juntamente com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) fornecerá uma melhor compreensão de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o melhor da Adobe [!DNL data management platform].
+Bem-vindo ao Audience Manager Tutorials Site.  Usar esses tutoriais juntamente com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) fornecerá um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o Adobe melhor na classe [!DNL data management platform].
 
 * **A** seleção da equipe destaca alguns de nossos conteúdos favoritos
 * Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
@@ -45,11 +44,11 @@ Bem-vindo ao Site de tutoriais do Audience Manager.  Usar esses tutoriais juntam
 <tr>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-      <img alt="imagem em miniatura do tutorial "Implementação da Experience Cloud em aplicativos móveis em Swift para iOS"" src="assets/thumb_swift.png" />
+      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos móveis em Swift para iOS"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-    <strong>Implementação da Experience Cloud em aplicativos para dispositivos móveis iOS</strong>
+    <strong>Implementação do Experience Cloud em aplicativos móveis para iOS</strong>
     </a>
     </div>
     <p>
@@ -58,11 +57,11 @@ Bem-vindo ao Site de tutoriais do Audience Manager.  Usar esses tutoriais juntam
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-      <img alt="imagem em miniatura do tutorial "Implementação da Experience Cloud em aplicativos móveis de Android"" src="assets/thumb_android.png" />
+      <img alt="imagem em miniatura para o tutorial "Implementação do Experience Cloud em aplicativos para dispositivos móveis Android"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-    <strong>Implementação da Experience Cloud em aplicativos móveis do [!DNL Android]</strong>
+    <strong>Implementação do Experience Cloud em aplicativos móveis do [!DNL Android]</strong>
     </a>
     </div>
     <p>
@@ -71,11 +70,11 @@ Bem-vindo ao Site de tutoriais do Audience Manager.  Usar esses tutoriais juntam
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-      <img alt="imagem em miniatura do tutorial "Implementação da Experience Cloud em aplicativos móveis em Objetive-C"" src="assets/thumb_objective_c.png" />
+      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos móveis em Objetive-C"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-    <strong>Implementação da Experience Cloud em aplicativos móveis em Objetive-C</strong>
+    <strong>Implementação do Experience Cloud em aplicativos móveis em Objetive-C</strong>
     </a>
     </div>
     <p>
