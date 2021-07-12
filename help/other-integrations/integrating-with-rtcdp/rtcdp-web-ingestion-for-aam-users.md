@@ -1,21 +1,20 @@
 ---
 title: Entendendo a assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
 description: Este vídeo mostra aos usuários do Audience Manager os conceitos sobre como trazer dados do site para a Plataforma de dados do cliente em tempo real (CDP em tempo real), e inclui um toque de alto nível sobre onde o Conector de dados do Audience Manager se encaixa, bem como como como os dados podem se mover do site diretamente pelo SDK da Web para a CDP em tempo real.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integração da plataforma
+topic: Integrações
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: e0ea393d-b332-4754-b855-25c838a463b4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 4%
 
 ---
-
 
 # Entendendo a assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
 
