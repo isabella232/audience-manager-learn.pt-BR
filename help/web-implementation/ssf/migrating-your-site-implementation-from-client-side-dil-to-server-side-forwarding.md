@@ -2,24 +2,23 @@
 title: Migração da implementação de AAM do seu site do DIL do lado do cliente para o encaminhamento do lado do servidor
 description: Este tutorial se aplica a você se tiver o Adobe Audience Manager (AAM) e o Adobe Analytics, e estiver enviando uma ocorrência da página para o AAM usando o código "DIL" (Data Integration Library) e também enviando uma ocorrência da página para o Adobe Analytics. Como você tem ambas as soluções, e como elas são parte da Adobe Experience Cloud, tem a oportunidade de seguir a prática recomendada de ativar o "Encaminhamento pelo lado do servidor (SSF)", que permite que os servidores de coleta de dados do Analytics encaminhem os dados de análise do site em tempo real para o Audience Manager, em vez de fazer com que o código do lado do cliente envie uma ocorrência adicional da página para o AAM. Este tutorial o guiará pelas etapas da mudança da implementação mais antiga do "DIL do lado do cliente" para o método de "encaminhamento do lado do servidor" mais recente.
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Integração do Adobe Analytics
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '2322'
 ht-degree: 0%
 
 ---
 
-# Migrando a implementação de AAM do seu site de [!DNL Client-Side] DIL para [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
+# Migrando a implementação de AAM do seu site do [!DNL Client-Side] DIL para [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
 Este tutorial se aplica a você se tiver o Adobe Audience Manager (AAM) e o Adobe Analytics, e estiver enviando uma ocorrência da página para AAM usando o código &quot;DIL&quot; ([!DNL Data Integration Library]) e também enviando uma ocorrência da página para o Adobe Analytics. Como você tem ambas as soluções, e como elas são parte da Adobe Experience Cloud, você tem a oportunidade de seguir a prática recomendada de ativar o &quot;[!DNL Server-Side Forwarding] (SSF)&quot;, que permite que os servidores de coleta de dados [!DNL Analytics] encaminhem os dados de análise do site em tempo real para o Audience Manager, em vez de ter o código [!DNL client-side] envie uma ocorrência adicional da página para o AAM. Este tutorial o guiará pelas etapas da mudança da implementação mais antiga &quot;[!DNL Client-Side DIL]&quot; para o método mais recente &quot;[!DNL Server-Side forwarding]&quot;.
 
@@ -29,7 +28,7 @@ Ao comparar e contrastar esses dois métodos de colocar os dados do Adobe Analyt
 
 ![do lado do cliente para o lado do servidor](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] Implementação de DIL  {#client-side-dil-implementation}
+### [!DNL Client-side] Implementação de DIL {#client-side-dil-implementation}
 
 Se estiver usando esse método para obter dados do Adobe Analytics no AAM, significa que você tem duas ocorrências provenientes de suas páginas da Web: Um indo para [!DNL Analytics], e outro indo para AAM (após ter copiado os dados [!DNL Analytics] na página da Web. [!UICONTROL Segments] são retornadas de AAM para a página, onde podem ser usadas para personalização, etc. Essa é uma implementação &quot;herdada&quot; e não é mais recomendada.
 
@@ -48,7 +47,7 @@ Como mostrado na imagem acima, uma ocorrência vem da página da Web para o Adob
 
 Não há tempo para mudar para o encaminhamento pelo lado do servidor. Recomendamos que qualquer pessoa que tenha Audience Manager e [!DNL Analytics] utilize esse método de implementação.
 
-## Existem DUAS Tarefas Principais {#you-have-two-main-tasks}
+## Você Tem DUAS Tarefas Principais {#you-have-two-main-tasks}
 
 Há bastante informação nesta página, e é tudo importante, é claro. No entanto, **tudo se resume a duas coisas principais que você precisa fazer**:
 
@@ -79,7 +78,7 @@ Se você estiver usando um TMS que não seja do Adobe ou nenhum TMS, implemente 
 >
 >Leia este documento inteiro antes de implementar. A seção &quot;Tempo&quot; abaixo tem informações importantes sobre *quando* você deve implementar cada parte, incluindo ECID (se ainda não estiver implementada).
 
-### Etapa 1: Registrar opções atualmente usadas no código DIL {#step-record-currently-used-options-from-dil-code}
+### Etapa 1: Registrar opções atualmente utilizadas do código DIL {#step-record-currently-used-options-from-dil-code}
 
 À medida que você se prepara para migrar do [!DNL Client-Side] DIL para [!UICONTROL Server-Side Forwarding], a primeira etapa é identificar tudo o que você está fazendo com o DIL code, incluindo configurações personalizadas e dados enviados para o AAM. As coisas a serem notadas e consideradas incluem:
 
@@ -99,7 +98,7 @@ Assista ao vídeo abaixo para saber mais sobre como mover as opções de impleme
 
 >[!VIDEO](https://video.tv.adobe.com/v/26310/?quality=12)
 
-#### &quot;Na página&quot; ou não Adobe Tag Manager {#on-the-page-or-non-adobe-tag-manager}
+#### &quot;Na página&quot; ou &quot;não-Adobe Tag Manager&quot; {#on-the-page-or-non-adobe-tag-manager}
 
 Assista ao vídeo abaixo para saber mais sobre como mover as opções de implementação do [!DNL Client-Side] DIL code para [!UICONTROL Server-Side Forwarding] no código [!DNL AppMeasurement], residindo em um arquivo ou em um sistema de gerenciamento de tags que não seja o Adobe.
 
@@ -135,7 +134,7 @@ O motivo pelo qual o tempo e a ordem são importantes é por causa de como o enc
 
 Com base nesses detalhes técnicos, aqui estão as recomendações para o tempo de &quot;o que fazer quando&quot;:
 
-#### Se você NÃO tiver a ECID implementada {#if-you-do-not-have-ecid-yet-implemented}
+#### Se você ainda NÃO tiver a ECID implementada {#if-you-do-not-have-ecid-yet-implemented}
 
 1. Inverta o switch em [!DNL Analytics] para cada [!UICONTROL report suite] que você ativará para SSF
 
