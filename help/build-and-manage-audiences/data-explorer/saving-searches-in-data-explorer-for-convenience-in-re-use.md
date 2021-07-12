@@ -1,7 +1,7 @@
 ---
-title: Como salvar pesquisas no Data Explorer quanto à conveniência na reutilização
+title: Salvando pesquisas na Data Explorer por conveniência na reutilização
 description: Neste vídeo, você aprenderá a configurar uma pesquisa no Data Explorer, executá-la e salvá-la para reutilização posteriormente. você também pode colocar a pesquisa salva no painel para que fique imediatamente disponível ao entrar no aplicativo Sinais .
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
@@ -9,16 +9,15 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---
-
 
 # Salvando pesquisas em [!DNL Data Explorer] quanto à conveniência na reutilização {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
