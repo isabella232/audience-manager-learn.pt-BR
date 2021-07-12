@@ -1,22 +1,21 @@
 ---
 title: Como um DMP pode mudar sua empresa
 description: As Plataformas de gerenciamento de dados são a palestra do mundo tecnológico agora, mas quais são e mais importante, como elas podem ajudá-lo enquanto profissionais de marketing a atingir suas metas? Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de casos reais em que os clientes tiveram um retorno surpreendente sobre seu investimento, desde compras de mídia mais eficientes a conversões significativamente maiores.
-feature: Overview
+feature: Visão geral
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Como um DMP pode mudar sua empresa
 
