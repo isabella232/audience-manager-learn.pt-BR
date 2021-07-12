@@ -1,23 +1,22 @@
 ---
-title: Uso do Data Explorer para criar características e segmentos retroativos
+title: Usar a Data Explorer para criar características e segmentos retroativos
 description: Este vídeo mostra como criar características retroativas, ou seja, características que preenchem dados retroativamente na característica de antes de sua criação. Este é um grande avanço na sua criação de características!
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
-
 
 # Usando [!DNL Data Explorer] para Criar Retroativo [!UICONTROL Traits] e [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
