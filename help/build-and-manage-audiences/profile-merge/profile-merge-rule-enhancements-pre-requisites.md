@@ -1,23 +1,22 @@
 ---
 title: Aprimoramentos da regra de mesclagem de perfis - Pré-requisitos
 description: Uma visão geral de como se preparar melhor para o lançamento das Melhorias da Regra de mesclagem de perfis.
-feature: Profile Merge
+feature: Mesclar perfis
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge Rule] Aprimoramentos - Pré-requisitos
 
