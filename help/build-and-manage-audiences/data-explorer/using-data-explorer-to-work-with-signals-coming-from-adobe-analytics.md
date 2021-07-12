@@ -1,23 +1,22 @@
 ---
 title: Usar o Data Explorer para trabalhar com sinais provenientes do Adobe Analytics
 description: Este vídeo mostra como trabalhar no Data Explorer para descobrir e usar seus dados do Adobe Analytics, incluindo a pesquisa de sinais usados e não utilizados, a criação de características do Analytics e a compreensão dos dados.
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 82507055-0072-48fe-8031-225fb55351be
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
-
 
 # Usar [!DNL Data Explorer] para trabalhar com [!UICONTROL Signals] vindo do Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
@@ -25,7 +24,7 @@ Este vídeo mostra como trabalhar em [!DNL Data Explorer] para descobrir e usar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
-É provável que uma de suas principais fontes de dados que entram no Audience Manager seja uma solução de análise e, claro, esperamos que seja o Adobe Analytics. :)
+É provável que uma de suas principais fontes de dados que entram no Audience Manager seja uma solução de análise, e, é claro, esperamos que seja o Adobe Analytics. :)
 
 [!DNL Data Explorer] O está preparado e pronto para ajudá-lo a ver o que está vindo de vários conjuntos de relatórios e, à medida que você descobre  [!DNL Analytics] sinais que ainda não estão sendo usados no  [!UICONTROL traits], você pode clicar diretamente no  [!DNL Trait Builder] e criar o  [!UICONTROL traits] para utilizar esses poderosos dados comportamentais em sua segmentação.
 
