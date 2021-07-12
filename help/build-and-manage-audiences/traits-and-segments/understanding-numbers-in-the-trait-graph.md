@@ -1,23 +1,22 @@
 ---
 title: Como entender números no gráfico de características
 description: Obtenha algumas dicas sobre como entender os números relatados para características na tela de informações de características.
-feature: Traits
+feature: 'Características '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 2%
 
 ---
-
 
 # Como entender números no gráfico de características
 
