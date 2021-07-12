@@ -1,6 +1,6 @@
 ---
 title: Upload em massa do uso de dados no Audience Marketplace
-description: 'Ao relatar o uso de dados de terceiros e secundários no Audience Marketplace, você pode ter entradas suficientes para fazer com que não queira fazer isso manualmente. Neste vídeo, você aprenderá a usar a ferramenta de upload em massa de relatórios de uso de dados, para que possa relatar facilmente o uso de dados, mesmo que tenha muitos itens para atualizar. '
+description: 'Ao relatar o uso de dados de terceiros e secundários no Audience Marketplace, talvez você tenha entradas suficientes para fazer com que não queira fazer isso manualmente. Neste vídeo, você aprenderá a usar a ferramenta de upload em massa de relatórios de uso de dados, para que possa relatar facilmente o uso de dados, mesmo que tenha muitos itens para atualizar. '
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: ad725f78-1730-4f42-b185-f868120c7b50
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Upload em massa do uso de dados em [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
