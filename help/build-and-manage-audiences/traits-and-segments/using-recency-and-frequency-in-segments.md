@@ -1,23 +1,22 @@
 ---
 title: Usar recenticidade e frequência em segmentos
 description: Use Recenticidade e Frequência para fornecer aos seus parâmetros de segmento quantas vezes um visitante precisa se qualificar para uma característica em um determinado período de tempo. Excelente para afinidade de conteúdo e casos de uso de limite de frequência, bem como outros.
-feature: Segments
+feature: 'Segmentos '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37698.jpg
 kt: 5866
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
-
 
 # Usar [!UICONTROL Recency] e [!UICONTROL Frequency] em segmentos
 
