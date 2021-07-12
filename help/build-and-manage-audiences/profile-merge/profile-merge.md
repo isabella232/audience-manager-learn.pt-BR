@@ -1,24 +1,23 @@
 ---
-title: Vídeos e tutoriais de mesclagem de perfis
+title: Vídeos e Tutorials de mesclagem de perfis
 description: Esta seção contém vídeos e tutoriais para os recursos de Mesclagem de perfis, como Regras de mesclagem de perfis.
-feature: Profile Merge
+feature: Mesclar perfis
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Profile Merge] - Vídeos e tutoriais
+# [!UICONTROL Profile Merge] - Vídeos e Tutorials
 
 Com [!UICONTROL Profile Merge Rules] você obtém controle sobre os conjuntos de dados usados para [!UICONTROL segmentation] e pode direcionar uma pessoa com precisão em vários dispositivos.
 
