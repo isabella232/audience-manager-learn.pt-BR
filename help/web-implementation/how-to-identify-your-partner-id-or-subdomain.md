@@ -1,28 +1,27 @@
 ---
 title: Como identificar a ID ou o subdomínio do parceiro do Audience Manager
-description: Ao implementar alguns recursos da Experience Cloud, você precisa saber o que é a "ID do parceiro" do Audience Manager (também chamada às vezes de "ID do cliente" ou "Subdomínio"). Neste vídeo, mostraremos dois locais onde você pode obter essa ID na interface do usuário do Audience Manager.
-feature: Implementation Basics
+description: Ao implementar alguns recursos do Experience Cloud, você precisa saber o que é a "ID do parceiro" da Audience Manager (também chamada às vezes de "ID do cliente" ou "Subdomínio"). Neste vídeo, mostraremos dois locais onde você pode obter essa ID na interface do usuário do Audience Manager.
+feature: Noções básicas da implementação
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-
 # Como identificar o subdomínio do Audience Manager {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Ao implementar alguns recursos da Experience Cloud, você precisa saber o que é seu `Subdomain` Audience Manager (também conhecido como `client ID` ou `Partner ID`). Neste vídeo, mostraremos dois locais onde você pode obter essas informações na interface do usuário do Audience Manager.
+Ao implementar alguns recursos do Experience Cloud, você precisa saber o que é seu Audience Manager `Subdomain` (também conhecido como `client ID` ou `Partner ID`). Neste vídeo, mostraremos dois locais onde você pode obter essas informações na interface do usuário do Audience Manager.
 
-## A devolver o final... {#giving-away-the-ending}
+## Dando o final... {#giving-away-the-ending}
 
 Caso prefira apenas entrar e encontrá-lo sem assistir a este pequeno vídeo, você pode encontrar seu `Partner Subdomain` em dois lugares na interface do usuário:
 
