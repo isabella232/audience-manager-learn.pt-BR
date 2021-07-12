@@ -1,21 +1,20 @@
 ---
 title: Compreensão de segmentos na CDP em tempo real para usuários do Audience Manager
 description: À medida que você muda do Audience Manager para a Plataforma de dados do cliente em tempo real, é útil compreender as diferenças nos conceitos. Este vídeo analisa as diferenças nos segmentos e a criação de segmentos entre o Audience Manager e a CDP em tempo real.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Integração da plataforma
+topic: Integrações
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331901.jpg
 kt: 7205
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '195'
+ht-degree: 1%
 
 ---
-
 
 # Compreensão de segmentos na CDP em tempo real para usuários do Audience Manager
 
