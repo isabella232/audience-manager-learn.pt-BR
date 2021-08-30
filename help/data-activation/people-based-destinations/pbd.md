@@ -10,9 +10,9 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Esta seção contém vídeos e tutoriais para tópicos relacionados a [!UICONTRO
 * [Criar e configurar destinos com base em pessoas](create-and-configure-people-based-destinations.md)
 * [Como entender e configurar o destino com base em pessoas do LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Esses vídeos podem ser usados junto com a [documentação](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Esses vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
