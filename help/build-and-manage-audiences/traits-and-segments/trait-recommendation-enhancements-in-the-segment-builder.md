@@ -1,7 +1,7 @@
 ---
 title: Aprimoramentos da recomendação de características no Construtor de segmentos
 description: Neste vídeo, você verá como usar as recomendações de características atualizadas no construtor de segmentos, que são recomendações de Audience Marketplace. Isso lhe dará insight adicional sobre dados de terceiros que podem estender o alcance de seus segmentos.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Neste vídeo, você verá como usar o [!DNL trait recommendations] atualizado no
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

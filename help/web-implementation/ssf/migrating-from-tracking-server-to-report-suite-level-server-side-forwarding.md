@@ -2,7 +2,7 @@
 title: Migração do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios
 description: Este artigo e vídeo mostram como habilitar o encaminhamento pelo lado do servidor de dados do Analytics para o Audience Manager em um nível de conjunto de relatórios em vez de em um nível de servidor de rastreamento.
 product: audience manager
-feature: Integração do Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Se não tiver certeza se [!DNL tracking server forwarding] está habilitado para
 
 ## [!UICONTROL Report Suite]-Nível [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-Um dos maiores benefícios de passar para o encaminhamento [!UICONTROL report suite] a partir do [!UICONTROL tracking server] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta para o Adobe Analytics para análise [!UICONTROL segment] detalhada. Esse excelente recurso NÃO é suportado se você ainda estiver encaminhando [!UICONTROL tracking server] e não [!UICONTROL report suite]. Consulte mais informações sobre o Audience Analytics na [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Um dos maiores benefícios de passar para o encaminhamento [!UICONTROL report suite] a partir do [!UICONTROL tracking server] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta para o Adobe Analytics para análise [!UICONTROL segment] detalhada. Esse excelente recurso NÃO é suportado se você ainda estiver encaminhando [!UICONTROL tracking server] e não [!UICONTROL report suite]. Consulte mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

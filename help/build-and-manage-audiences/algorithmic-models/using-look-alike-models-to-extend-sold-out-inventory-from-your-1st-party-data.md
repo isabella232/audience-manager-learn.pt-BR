@@ -1,7 +1,7 @@
 ---
 title: Uso de modelos semelhantes para estender o inventário vendido dos dados primários
 description: Neste tutorial, vamos analisar as etapas que você deve seguir para configurar e usar Modelos semelhantes, para que você possa criar novos públicos semelhantes e vendê-los como uma extensão para seu segmento de conversão.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Além disso, ao usar eventos para criar [!UICONTROL traits], há um gotcha impor
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro assume que você tem Adobe Analytics. Obviamente, pode não ser esse o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)), e se sua atividade de conversão no seu site for enviada para AAM por GA, você poderá criar sua característica de conversão a partir daí. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda poderá enviar dados para o AAM por meio do nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Em seguida, crie novamente a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
+**OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro assume que você tem Adobe Analytics. Obviamente, pode não ser esse o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)), e se sua atividade de conversão no seu site for enviada para AAM por GA, você poderá criar sua característica de conversão a partir daí. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda poderá enviar dados para o AAM por meio do nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Em seguida, crie novamente a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
 
 ## Criando uma aparência semelhante [!UICONTROL Model] a partir de [!UICONTROL First Party] dados {#creating-a-look-alike-model-from-first-party-data}
 

@@ -1,7 +1,7 @@
 ---
 title: Vídeos e Tutorials de mesclagem de perfis
 description: Esta seção contém vídeos e tutoriais para os recursos de Mesclagem de perfis, como Regras de mesclagem de perfis.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Esta seção contém os seguintes vídeos para [!UICONTROL Profile Merge Rules]:
 * [Interpretar os relatórios de identidade do público-alvo](interpret-audience-identity-reporting.md)
 * [Como entender as métricas entre dispositivos no Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Esses vídeos podem ser usados junto com a [documentação](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Esses vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
