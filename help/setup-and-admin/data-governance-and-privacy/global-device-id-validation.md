@@ -10,15 +10,14 @@ kt: 2977
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
 
-# Validação de ID de dispositivo global {#global-device-id-validation}
+# Validação da ID do dispositivo global {#global-device-id-validation}
 
 Os identificadores de anúncios de dispositivos (ou seja, iDFA, GAID, Roku ID) têm padrões de formatação que devem ser atendidos para serem utilizáveis no ecossistema de publicidade digital. Atualmente, os clientes e parceiros podem fazer upload de IDs para nosso [!UICONTROL data sources] global em qualquer formato sem serem notificados sobre a formatação correta da ID. Esse recurso introduzirá a validação das IDs de dispositivo enviadas para o [!UICONTROL data sources] Global para formatação adequada e fornecerá mensagens de erro quando as IDs estiverem formatadas incorretamente. Ofereceremos suporte à validação para [!DNL iDFA], [!DNL Google Advertising] e [!DNL Roku IDs] na inicialização.
 
@@ -71,20 +70,20 @@ A seguir estão os pools globais de IDs de publicidade de dispositivo que são r
   </tr>
 </table>
 
-## Definir um identificador de publicidade no aplicativo {#setting-an-advertising-identifier-in-the-app}
+## Definição de um identificador de publicidade no aplicativo {#setting-an-advertising-identifier-in-the-app}
 
 Definir a ID do anunciante no aplicativo é um processo de duas etapas, primeiro recuperar a ID do anunciante e depois enviá-la para o Experience Cloud. Os links são encontrados abaixo para executar essas etapas.
 
 1. Recuperar a ID
    1. [!DNL Apple] informações sobre o  [!DNL advertising ID] podem ser encontradas  [AQUI](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
-   1. Algumas informações sobre como configurar o [!DNL advertiser ID] para [!DNL Android] desenvolvedores podem ser encontradas [HERE](http://www.androiddocs.com/google/play-services/id.html).
+   1. Algumas informações sobre como configurar o [!DNL advertiser ID] para [!DNL Android] desenvolvedores podem ser encontradas [HERE](http://android.cn-mirrors.com/google/play-services/id.html).
 1. Envie-o para o Experience Cloud usando o método [!DNL setAdvertisingIdentifier] no SDK
    1. As informações para usar `setAdvertisingIdentifier` estão na [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) para [!DNL iOS] e [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-## Mensagem de erro DCS para IDs incorretas {#dcs-error-messaging-for-incorrect-ids}
+## Mensagem de erro DCS para IDs incorretas  {#dcs-error-messaging-for-incorrect-ids}
 
 Quando uma ID de dispositivo global incorreta (IDFA, GAID etc) é enviada em tempo real para o Audience Manager, um código de erro será retornado na ocorrência. A seguir, um exemplo de um erro retornado porque a ID é enviada como um [!DNL Apple IDFA], que deve conter somente letras maiúsculas e, no entanto, há um &#39;x&#39; em letras minúsculas na ID.
 
@@ -92,7 +91,7 @@ Quando uma ID de dispositivo global incorreta (IDFA, GAID etc) é enviada em tem
 
 Consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obter a lista de códigos de erro.
 
-## Integração das IDs de dispositivo global {#onboarding-global-device-ids}
+## Integração de IDs de dispositivos globais {#onboarding-global-device-ids}
 
 Além do envio em tempo real de IDs de dispositivos globais, você também pode fazer o upload de dados &quot;[!DNL onboard]&quot; em relação às IDs. Esse processo é o mesmo de quando você está incorporando dados às IDs do cliente (normalmente por meio de pares de chave/valor), mas simplesmente usa as IDs de fonte de dados apropriadas, para que os dados sejam atribuídos à ID do dispositivo global. A documentação sobre o processo de integração pode ser encontrada na [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Basta lembrar de usar a ID global [!UICONTROL data source] , dependendo da plataforma que você está usando.
 
