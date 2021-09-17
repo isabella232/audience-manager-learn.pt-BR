@@ -4,9 +4,9 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 4%
    + Realização de valor {#value-realization}
       + [Avaliação do ROI em um caso de uso de supressão de clientes](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Notícias e tendências do setor {#industry}
-   + [O futuro do gerenciamento de dados e do ambiente de mudança](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [10 considerações para o Gerenciamento responsável de dados do cliente](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [Uma tabela de duas permissões - marcas e consumidores](industry/brands-vs-consumers.md)
+   + [O futuro do gerenciamento de dados e do ambiente de mudança](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [10 considerações para o Gerenciamento responsável de dados do cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [Uma tabela de duas permissões - marcas e consumidores](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Evolução do seu centro de excelência de público-alvo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Criar experiências melhores com perfis de clientes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configuração e administração {#setup-and-admin}
    + Fontes de dados {#data-sources}
       + [Criar uma fonte de dados para dados do Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
