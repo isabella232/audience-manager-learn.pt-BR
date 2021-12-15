@@ -3,7 +3,8 @@ user-guide-title: Tutoriais do Adobe Audience Manager
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Audience Manager
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -35,7 +36,7 @@ ht-degree: 4%
       + [Criação de uma fonte de dados entre dispositivos e autenticação](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Gerenciamento de usuários {#user-management}
       + [Definindo permissões com controle de acesso baseado em função](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
-   + Governança de dados e privacidade {#data-governance-and-privacy}
+   + Governança e privacidade de dados {#data-governance-and-privacy}
       + [Validação da ID do dispositivo global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Suporte à TCF 2.0 do IAB](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Ofuscação de IP por país](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
@@ -55,11 +56,11 @@ ht-degree: 4%
    + [Formatação e inserção de dados baseados em arquivo](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Etapas para inserir dados baseados em arquivo](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementação móvel {#mobile-implementation}
-   + [Implementar em aplicativos em Swift para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementar em aplicativos em Objetive-C para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementar em aplicativos Swift para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementar em aplicativos iOS em Objetive-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementar em aplicativos Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Comprando dados {#buying-data}
+   + Comprar dados {#buying-data}
       + [Como relatar o uso de dados de terceiros e secundários no Audience Marketplace no nível do segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Upload em massa do uso de dados no Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Usando filtros e Recommendations para escolher dados de terceiros no Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
@@ -101,7 +102,7 @@ ht-degree: 4%
       + [Como entender números no gráfico de segmentos](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Dicas do cliente - Práticas recomendadas de características e segmentos](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelos algorítmicos {#algorithmic-models}
-      + [Entendendo [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Noções básicas [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
       + [Configurar e relatar em [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Criação de um modelo semelhante a primário](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Excluindo características em modelos algorítmicos (semelhantes)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
@@ -148,7 +149,7 @@ ht-degree: 4%
    + [Entender públicos-alvo relacionados com relatórios de sobreposição](reports/understand-related-audiences-with-overlap-reports.md)
    + [Usar relatórios do Audience Optimization para entender o desempenho da mídia](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Outras integrações {#other-integrations}
-   + Integração com a Plataforma de dados do cliente em tempo real {#integrating-with-rtcdp}
+   + Integração com o Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Assimilar dados usando o conector de dados do Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Compreensão da assimilação de dados primários na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Compreensão da assimilação de dados da Web na CDP em tempo real](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
