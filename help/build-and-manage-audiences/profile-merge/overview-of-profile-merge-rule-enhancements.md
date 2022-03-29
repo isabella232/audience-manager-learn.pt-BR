@@ -1,7 +1,7 @@
 ---
-title: Visão geral das melhorias nas regras de mesclagem de perfis
+title: Visão geral das melhorias nas Regras de mesclagem de perfis
 description: Este vídeo explica as melhorias nas Regras de mesclagem de perfis, lançadas em outubro de 2019.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3710
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: edad121e-fa6e-4ea8-b99a-6830dd51669a
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
 
-# Visão geral de [!UICONTROL Profile Merge Rule] aprimoramentos
+# Visão geral da [!UICONTROL Profile Merge Rule] melhorias
 
-Este vídeo explica as melhorias para [!UICONTROL Profile Merge Rules], lançadas em outubro de 2019.
+Este vídeo explica as melhorias feitas ao [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

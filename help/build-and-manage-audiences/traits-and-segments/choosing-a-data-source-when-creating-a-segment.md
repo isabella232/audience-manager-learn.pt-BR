@@ -1,7 +1,7 @@
 ---
-title: Como escolher uma fonte de dados ao criar um segmento
+title: Escolha uma fonte de dados ao criar um segmento
 description: Saiba mais sobre como escolher a fonte de dados certa ao criar um novo segmento no Audience Manager.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6055
 role: User
 level: Beginner
 exl-id: 54ae8aad-dec6-4c38-bb9c-091ac7f7060f
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 7c0d2c510851c3bae949b62dfa361d85f27e682e
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 1%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Como escolher uma fonte de dados ao criar um segmento
+# Escolha uma fonte de dados ao criar um segmento
 
 Saiba mais sobre como escolher a fonte de dados certa ao criar um novo segmento no Audience Manager.
 

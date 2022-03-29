@@ -1,8 +1,7 @@
 ---
-title: Aprimoramentos da recomendação de características no Construtor de segmentos
-description: Neste vídeo, você verá como usar as recomendações de características atualizadas no construtor de segmentos, que são recomendações de Audience Marketplace. Isso lhe dará insight adicional sobre dados de terceiros que podem estender o alcance de seus segmentos.
+title: Aprimoramentos da recomendação de características na segmentação
+description: Neste vídeo, saiba como usar as recomendações de característica atualizadas em Segmentos, que são recomendações de Audience Marketplace. Obtenha informações adicionais sobre dados de terceiros que podem estender o alcance de seus segmentos.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,17 +10,17 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] Melhorias na  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] melhorias na segmentação
 
-Neste vídeo, você verá como usar o [!DNL trait recommendations] atualizado no [!DNL segment builder], que são recomendações de Audience Marketplace. Isso lhe dará insight adicional sobre dados [!DNL third party] que podem estender o alcance de seu [!UICONTROL segments].
+Neste vídeo, você aprenderá a usar as recomendações de características atualizadas em [!UICONTROL Segments], que [!UICONTROL Audience Marketplace] recomendações. Isso fornecerá informações adicionais sobre dados de terceiros que podem estender o alcance de seus segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Para obter mais informações, visite o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

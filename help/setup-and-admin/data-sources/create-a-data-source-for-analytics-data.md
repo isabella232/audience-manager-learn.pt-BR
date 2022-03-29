@@ -1,22 +1,22 @@
 ---
 title: Criar uma fonte de dados para dados do Analytics
-description: Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criação de um Data Source no AAM que você pode usar para dados que entram ao vivo de uma solução de análise, como o Adobe Analytics. Isso deve ser feito antes da criação de características para os dados de análise.
-landing-page-description: Saiba como criar uma Fonte de dados para dados que entram em funcionamento a partir de uma solução de análise, como o Adobe Analytics. Faça isso antes de criar características para os dados de análise.
+description: Saiba como criar uma fonte de dados para dados que entram ao vivo de uma solução de análise como o Adobe Analytics. Faça isso antes de criar características para os dados de análise.
+landing-page-description: Saiba como criar uma fonte de dados para dados que entram ao vivo de uma solução de análise como o Adobe Analytics. Faça isso antes de criar características para os dados de análise.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
 role: User
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 57%
+source-wordcount: '115'
+ht-degree: 27%
 
 ---
 
-# Criar um [!UICONTROL Data Source] para [!DNL Analytics] Dados {#create-a-data-source-for-analytics-data}
+# Crie um [!UICONTROL Data Source] para [!DNL Analytics] Dados {#create-a-data-source-for-analytics-data}
 
-Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criar um [!UICONTROL Data Source] no AAM que você pode usar para dados que entram ao vivo de uma solução de análise, como o Adobe Analytics. Isso deve ser feito antes de criar [!UICONTROL traits] para os dados de análise.
+Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criar uma [!UICONTROL Data Source] no Audience Manager, que você pode usar para dados que entram ao vivo de uma solução de análise como o Adobe Analytics. Isso deve ser feito antes da criação de características para os dados de análise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

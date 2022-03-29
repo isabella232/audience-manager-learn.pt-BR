@@ -1,6 +1,6 @@
 ---
-title: Vídeos e Tutorials de destinos com base em pessoas
-description: Esta seção contém vídeos e tutoriais para tópicos sobre Destinos com base em pessoas.
+title: Vídeos e tutoriais sobre Destinos com base em pessoas
+description: Saiba mais sobre Destinos com base em pessoas no Audience Manager. Descubra como aplicar a segmentação em dados online e offline para criar segmentos de público com base em identificadores com hash, como endereços de email e muito mais!
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -10,27 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL People-Based Destinations] Vídeos e Tutorials
+# Vídeos e tutoriais sobre Destinos com base em pessoas
 
-[!UICONTROL People-Based Destinations] permitem aplicar a segmentação em dados online e offline para criar segmentos de público-alvo com base em identificadores com hash, como endereços de email. Em seguida, é possível enviar esses segmentos para plataformas sociais, como [!DNL Facebook] ou [!DNL LinkedIn], onde você pode direcionar seu público-alvo.
+Os Destinos com base em pessoas permitem aplicar a segmentação em dados online e offline para criar segmentos de público-alvo com base em identificadores com hash, como endereços de email. Em seguida, é possível enviar esses segmentos para plataformas sociais, como [!DNL Facebook] ou [!DNL LinkedIn], onde você pode direcionar seu público.
 
-Esta seção contém vídeos e tutoriais para tópicos relacionados a [!UICONTROL People-Based Destinations]. Eles foram listados nesta ordem de propósito, à medida que você navega pelo fluxo/processo de configuração [!UICONTROL People-Based Destinations]:
+Esta seção contém vídeos e tutoriais para tópicos sobre Destinos com base em pessoas. Eles foram listados nesta ordem de propósito, à medida que você navega pelo fluxo/processo de configuração de Destinos baseados em pessoas:
 
 * [Fluxo de dados de destinos com base em pessoas](people-based-destinations-data-flow.md)
-* [Criação de uma fonte de dados para destinos com base em pessoas](creating-a-data-source-for-people-based-destinations.md)
-* [Como entender a assimilação de dados de PII com hash para destinos com base em pessoas](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-* [Assimilar PII com Hash para destinos com base em pessoas](ingesting-hashed-pii-for-people-based-destinations.md)
-* [Uso de setCustomerIDs() para Assimilar e Hash PII como uma ID declarada](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-* [Configuração de regras de mesclagem de perfis para destinos com base em pessoas](configuring-profile-merge-rules-for-people-based-destinations.md)
-* [Criação de segmentos para destinos com base em pessoas](creating-segments-for-people-based-destinations.md)
-* [Criar e configurar destinos com base em pessoas](create-and-configure-people-based-destinations.md)
-* [Como entender e configurar o destino com base em pessoas do LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
+* [Criar uma fonte de dados para Destinos com base em pessoas](creating-a-data-source-for-people-based-destinations.md)
+* [Entender a assimilação de dados de PII com hash para destinos com base em pessoas](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+* [PII com hash de assimilação para destinos com base em pessoas](ingesting-hashed-pii-for-people-based-destinations.md)
+* [Uso de setCustomerIDs() para assimilar e Hash PII como uma ID declarada](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+* [Configurar regras de mesclagem de perfis para destinos com base em pessoas](configuring-profile-merge-rules-for-people-based-destinations.md)
+* [Criar segmentos para destinos com base em pessoas](creating-segments-for-people-based-destinations.md)
+* [Criar e configurar Destinos com base em pessoas](create-and-configure-people-based-destinations.md)
+* [Entender e configurar o Destino baseado em pessoas do LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Esses vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Esses vídeos podem ser usados junto com a variável [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

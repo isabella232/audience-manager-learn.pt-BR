@@ -1,7 +1,7 @@
 ---
-title: Usando o Data Explorer para procurar pares de chave/valor usados e não utilizados no AAM
+title: Use o Data Explorer para procurar pares de chave/valor usados e não utilizados
 description: No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com o Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 1760
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 0%
 
 ---
 
-# Usar [!DNL Data Explorer] para procurar pares de chave/valor usados e não utilizados em AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Use [!UICONTROL Data Explorer] para procurar pares de chave/valor usados e não utilizados em AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se um [!UICONTROL trait] foi criado a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com [!DNL Data Explorer].
+No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Para descobrir se um [!UICONTROL signal] foi criado em um [!UICONTROL trait], não é mais necessário baixar um arquivo [!DNL BAAAM] e também o relatório [!UICONTROL Unused Signals]. Agora você pode simplesmente pesquisar esse par de chave/valor em [!DNL Data Explorer], AKA o [!UICONTROL Signals] aplicativo, em AAM, e encontrar pares de chave/valor que estão em [!UICONTROL traits] e aqueles que não estão, todos na mesma lista. Que bom tempo!
+Para descobrir se um sinal foi criado em uma característica, não é mais necessário baixar um arquivo BAAAM e também a variável [!UICONTROL Unused Signals] relatório. Agora você pode simplesmente pesquisar esse par chave/valor em [!DNL Data Explorer], assim como o [!UICONTROL Signals] Aplicativo, em AAM, e encontrar pares de chave/valor que estejam nas características e aquelas que não estão, todos na mesma lista. Que bom tempo!
 
-Para obter mais informações sobre [!DNL Data Explorer], visite a [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obter mais informações sobre [!UICONTROL Data Explorer], visita [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

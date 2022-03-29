@@ -1,6 +1,6 @@
 ---
-title: Uso de setCustomerIDs() para Assimilar e Hash PII como uma ID declarada
-description: Neste vídeo, você aprenderá por que e como usar o método setCustomerIDs() do Serviço da Experience Cloud ID para assimilar e fazer hash em um endereço de email e usá-lo como uma ID declarada. Isso não somente unirá a ID do CRM e o endereço de email, como também os sincronizará com a UUID do Adobe Audience Manager, ou seja, a ID do dispositivo anônimo. Esses endereços de email com hash podem ser enviados para Destinos com base em pessoas.
+title: Use setCustomerIDs() para assimilar e hash PII como uma ID declarada
+description: Saiba mais sobre o método setCustomerIDs() do Serviço de ID de Experience Cloud para assimilar e fazer hash em um endereço de email. Saiba como usá-lo como uma ID declarada.
 feature: People-based Destinations
 topics: null
 activity: implement
@@ -11,17 +11,17 @@ kt: 3689
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 9cc3e0f6-cf68-4048-a34c-513b77777aa2
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Usar [!DNL setCustomerIDs()] para assimilar e hash PII como uma ID declarada
+# Use setCustomerIDs() para assimilar e hash PII como uma ID declarada
 
-Neste vídeo, você aprenderá por que e como usar o método `setCustomerIDs()` do Serviço de ID do Experience Cloud para assimilar e fazer hash em um endereço de email e usá-lo como uma ID declarada. Isso não somente unirá a ID do CRM e o endereço de email, como também os sincronizará com a UUID do Adobe Audience Manager, ou seja, a ID do dispositivo anônimo. Esses endereços de email com hash podem ser enviados para [!UICONTROL People-Based Destinations].
+Neste vídeo, você aprenderá por que e como usar o serviço de Experience Cloud ID `setCustomerIDs()` para assimilar e fazer hash em um endereço de email e usá-lo como uma ID declarada. Isso não somente vincula a ID do CRM ao endereço de email, como também sincroniza com a UUID do Adobe Audience Manager, por exemplo, a ID do dispositivo anônimo. Esses endereços de email com hash podem ser enviados para Destinos com base em pessoas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Para obter mais informações, visite o [documentação](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).

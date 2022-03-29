@@ -1,6 +1,6 @@
 ---
-title: Recuperar credenciais de API no Adobe IO
-description: Em vez de entrar em contato com a Adobe Consulting ou com o Atendimento ao cliente para obter credenciais para usar a REST API, você pode simplesmente acessar o Adobe.io em um navegador e recuperar ou registrar suas próprias credenciais.
+title: Recuperar credenciais da API no Desenvolvedor do Adobe
+description: Em vez de entrar em contato com a Adobe Consulting ou com o Atendimento ao cliente para obter credenciais para usar a REST API, você pode simplesmente acessar developer.adobe.com em um navegador e recuperar ou registrar suas próprias credenciais.
 feature: API
 topics: null
 activity: develop
@@ -10,17 +10,16 @@ thumbnail: 37889.jpg
 kt: 5971
 role: Developer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d1f4d44d-22c8-46d8-a662-0ded13a8566d
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 2%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
+# Recuperar credenciais da API em [!DNL Adobe Developer]
 
-# Recuperar credenciais de API no Adobe I/O
-
-Em vez de entrar em contato com a Adobe Consulting ou com o Atendimento ao cliente para obter credenciais para usar a REST API, você pode simplesmente acessar o Adobe.io em um navegador e recuperar ou registrar suas próprias credenciais.
+Em vez de entrar em contato com a Adobe Consulting ou com o Atendimento ao cliente para obter credenciais para usar a REST API, você pode simplesmente acessar developer.adobe.com em um navegador e recuperar ou registrar suas próprias credenciais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

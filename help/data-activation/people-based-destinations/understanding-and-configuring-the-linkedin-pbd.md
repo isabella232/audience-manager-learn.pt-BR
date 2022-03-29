@@ -11,19 +11,19 @@ kt: 5028
 role: User
 level: Beginner
 exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Entendendo e configurando o [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# Como entender e configurar o [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-Este vídeo o orienta pelos conceitos e etapas para criar um [!UICONTROL People-Based Destination] para [!DNL LinkedIn]. Ele se baseia nos vídeos e na documentação adicionais relacionados a [!UICONTROL People-Based Destinations].
+Este vídeo o orienta pelos conceitos e etapas para criar um [!UICONTROL People-Based Destination] para [!DNL LinkedIn]. Ele se baseia nos vídeos e na documentação adicionais relacionados aos Destinos com base em pessoas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Para obter mais informações, visite o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Você também pode encontrar vídeos adicionais relacionados a [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd).
+Você também pode encontrar vídeos adicionais relacionados a Destinos com base em pessoas [AQUI](https://adobe.ly/aamlearnpbd).

@@ -1,7 +1,7 @@
 ---
-title: Assimilar PII com Hash para destinos com base em pessoas
+title: PII com hash de assimilação para destinos com base em pessoas
 description: Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash.
-feature: '"Destinos com base em pessoas"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: technical video
@@ -11,15 +11,15 @@ kt: 3341
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9e042c20-ddca-4ead-824d-8bbcd718fab9
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Inserção de PII com Hash para [!UICONTROL People-Based Destinations]
+# PII com hash de assimilação para destinos com base em pessoas
 
-Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash. Isso permitirá enviar os endereços de email com hash para [!UICONTROL People-Based Destinations], como [!DNL Facebook].
+Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash. Isso permitirá enviar os endereços de email com hash para Destinos com base em pessoas, como [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

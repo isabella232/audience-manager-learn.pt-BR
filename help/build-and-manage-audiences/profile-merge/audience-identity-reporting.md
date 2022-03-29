@@ -1,6 +1,6 @@
 ---
-title: Relatórios de identidade da audiência
-description: O Relatórios de identidade da audiência fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade da pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
+title: Relatório de identidade do público-alvo
+description: Saiba mais sobre relatórios de identidade de público-alvo. Esse tipo de relatório no Audience Manager permite relatar a população total de uma característica ou segmento por pessoa ou definição de identidade doméstica.
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] Relatório
+# Relatório de identidade do público-alvo
 
-[!DNL Audience Identity] O Relatórios fornece aos clientes a capacidade de relatar a população total de uma pessoa  [!UICONTROL trait] ou  [!UICONTROL segment] por definições de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
+O relatório de identidade de público-alvo fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

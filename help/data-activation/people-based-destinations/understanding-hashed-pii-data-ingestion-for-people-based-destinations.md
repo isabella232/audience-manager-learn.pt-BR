@@ -1,7 +1,7 @@
 ---
 title: Como entender a assimilação de dados de PII com hash para destinos com base em pessoas
 description: Este vídeo aborda as coisas que você precisa considerar conforme se prepara para assimilar PII no Audience Manager para destinos com base em pessoas.
-feature: '"Destinos com base em pessoas"'
+feature: People-based Destinations
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3701
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b0faf25-eeca-4451-8484-0fa0e02f4879
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Como entender a assimilação de dados de PII com hash para [!UICONTROL People-Based Destinations]
+# Como entender a assimilação de dados de PII com hash para destinos com base em pessoas
 
-Este vídeo aborda os itens que você precisa considerar conforme se prepara para assimilar PII no Audience Manager para [!UICONTROL People-Based Destinations].
+Este vídeo aborda as coisas que você precisa considerar conforme se prepara para assimilar PII no Audience Manager para destinos com base em pessoas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

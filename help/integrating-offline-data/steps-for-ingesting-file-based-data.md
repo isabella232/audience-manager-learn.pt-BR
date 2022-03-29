@@ -1,7 +1,7 @@
 ---
-title: Etapas para inserir dados baseados em arquivo
-description: Este vídeo o orienta pelas poucas etapas que você precisa considerar ao integrar dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
-feature: Integração de dados offline
+title: Como assimilar dados baseados em arquivos
+description: Neste vídeo, você aprenderá as etapas a serem seguidas enquanto integra os dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 7027
 role: User
 level: Beginner
 exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Etapas para inserir dados baseados em arquivo
+# Etapas para assimilar dados baseados em arquivo
 
-Este vídeo o orienta pelas poucas etapas que você precisa considerar ao integrar dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
+Neste vídeo, você aprenderá as etapas a serem seguidas enquanto integra os dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-Para assistir a um vídeo com relação à formatação de dados de arquivos de entrada, clique em [HERE](formatting-and-ingesting-file-based-data.md).
+Para assistir a um vídeo sobre a formatação de dados de arquivos de entrada, clique em [AQUI](formatting-and-ingesting-file-based-data.md).
 
-Para obter informações adicionais, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Para obter mais informações, consulte o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

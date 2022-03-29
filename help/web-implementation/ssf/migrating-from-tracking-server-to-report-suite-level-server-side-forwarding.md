@@ -1,6 +1,6 @@
 ---
-title: Migração do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios
-description: Este artigo e vídeo mostram como habilitar o encaminhamento pelo lado do servidor de dados do Analytics para o Audience Manager em um nível de conjunto de relatórios em vez de em um nível de servidor de rastreamento.
+title: Migrar do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios
+description: Saiba como habilitar o encaminhamento pelo lado do servidor dos dados do Adobe Analytics para o Audience Manager em um nível de conjunto de relatórios em vez de em um nível de servidor de rastreamento.
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -11,37 +11,41 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
 
-# Migração de [!UICONTROL Tracking Server] para [!UICONTROL Report Suite]-Nível [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
+# Migrar do servidor de rastreamento para o encaminhamento pelo lado do servidor no nível do conjunto de relatórios {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-Este artigo e vídeo mostram como habilitar [!UICONTROL server-side forwarding] de [!DNL Analytics] Dados para Audience Manager em um nível [!UICONTROL report suite] em vez de em um nível [!UICONTROL tracking server].
+Este artigo e vídeo mostrarão como habilitar o encaminhamento pelo lado do servidor de [!DNL Analytics] Dados para o Audience Manager a [!UICONTROL report suite] em vez de em uma [!UICONTROL tracking server] nível.
 
 ## Introdução {#introduction}
 
-Se você tiver Adobe Audience Manager E Adobe Analytics, poderá implementar &quot;[!UICONTROL Server-side Forwarding]&quot; dos dados [!DNL Analytics] no Audience Manager. Isso significa que, em vez de sua página enviar 2 ocorrências (uma para [!DNL Analytics] e uma para Audience Manager), ela pode simplesmente enviar uma ocorrência para [!DNL Analytics], e [!DNL Analytics] encaminhará esses dados para o Audience Manager. Se você já tiver isso em execução e se ele tiver sido ativado/implementado antes de outubro de 2017, seu [!UICONTROL server-side forwarding] pode ser baseado em seu &quot;[!UICONTROL Tracking Server]&quot;, que deve ser habilitado pelo Atendimento ao cliente do Adobe ou pela Adobe Consulting. A partir de outubro de 2017, você poderá configurar [!UICONTROL server-side forwarding] e fazer isso em um nível [!UICONTROL Report Suite] (encaminhando por [!UICONTROL Report Suite]). Há benefícios significativos para isso, que serão discutidos abaixo.
+Se você tiver o Adobe Audience Manager E o Adobe Analytics, poderá implementar o encaminhamento pelo lado do servidor do [!DNL Analytics] dados para o Audience Manager. Isso significa que, em vez de sua página enviar duas ocorrências (uma para [!DNL Analytics] e um para o Audience Manager), ele pode enviar uma ocorrência para [!DNL Analytics]e [!DNL Analytics] O encaminhará esses dados para o Audience Manager.
 
-## [!UICONTROL Tracking Server] Encaminhamento {#tracking-server-forwarding}
+Se você já estiver executando e se estiver habilitado/implementado antes de outubro de 2017, o encaminhamento pelo lado do servidor pode ser baseado no [!UICONTROL Tracking Server], que precisavam ser ativadas pelo Atendimento ao cliente do Adobe ou pela Adobe Consulting. A partir de outubro de 2017, você poderá configurar o encaminhamento pelo lado do servidor e fazer isso em um nível de conjunto de relatórios (encaminhamento por conjunto de relatórios). Há benefícios significativos para isso, que é discutido abaixo.
 
-Seu [!UICONTROL tracking server] é o local para o qual você está enviando seus dados [!DNL Analytics] e também o domínio em que a solicitação de imagem e o cookie são gravados. Ele deve ser definido no DTM ou [!DNL Experience Platform Launch], ou no arquivo [!DNL AppMeasurement.js], e normalmente será semelhante a isto, com seu site ou nome comercial substituindo &quot;mysite&quot;:
+## [!UICONTROL Tracking server] encaminhamento {#tracking-server-forwarding}
+
+Seu [!UICONTROL tracking server] é o local para o qual você está enviando seu [!DNL Analytics] e também o domínio em que a solicitação de imagem e o cookie são gravados. Ela deve ser definida no DTM ou [!DNL Experience Platform Launch]ou no [!DNL AppMeasurement.js] e normalmente terá esta aparência, com seu site ou nome comercial substituindo &quot;mysite&quot;:
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-Se [!UICONTROL server-side forwarding] estiver configurado para encaminhar no nível [!UICONTROL tracking server] , qualquer ocorrência que esteja sendo enviada para esse [!UICONTROL tracking server] (SE o Serviço de Experience Cloud também estiver habilitado) será encaminhada para o Audience Manager. Isso tinha que ser ativado pelo Adobe Customer Care ou Adobe Consulting. Eles também são aqueles que podem desativá-lo, DEPOIS que você mudar para o encaminhamento [!UICONTROL report suite], conforme descrito abaixo.
+Se o encaminhamento pelo lado do servidor estiver configurado para ser encaminhado no [!UICONTROL tracking server] , qualquer ocorrência que esteja sendo enviada para esse [!UICONTROL tracking server] (SE o Serviço de ID de Experience Cloud também estiver ativado) será encaminhado para o Audience Manager. Isso tinha que ser ativado pelo Adobe Customer Care ou Adobe Consulting. Eles também são aqueles que podem desativá-lo, depois que você mudar para [!UICONTROL report suite] como descrito abaixo.
 
-Se não tiver certeza se [!DNL tracking server forwarding] está habilitado para você, entre em contato com o Atendimento ao Cliente do Adobe ou com a Consultoria do Adobe e eles poderão informá-lo.
+Se não tiver certeza se [!DNL tracking server forwarding] O está habilitado para você, entre em contato com o Atendimento ao cliente do Adobe ou com a Adobe Consulting e eles devem poder informar você.
 
-## [!UICONTROL Report Suite]-Nível [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
+## [!UICONTROL Report-suite]Encaminhamento no nível do servidor {#report-suite-level-server-side-forwarding}
 
-Um dos maiores benefícios de passar para o encaminhamento [!UICONTROL report suite] a partir do [!UICONTROL tracking server] é que agora você poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] de volta para o Adobe Analytics para análise [!UICONTROL segment] detalhada. Esse excelente recurso NÃO é suportado se você ainda estiver encaminhando [!UICONTROL tracking server] e não [!UICONTROL report suite]. Consulte mais informações sobre o Audience Analytics na [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Um dos maiores benefícios para mudar para [!UICONTROL report suite] encaminhar de [!UICONTROL tracking server] o encaminhamento do é que você agora poderá usar o &quot;Audience Analytics&quot;, que é a capacidade de encaminhar o Audience Manager [!UICONTROL segments] volte ao Adobe Analytics para obter a análise detalhada do segmento. Este recurso excelente NÃO é suportado se você ainda estiver em [!UICONTROL tracking server] encaminhamento e não [!UICONTROL report suite] encaminhamento. Veja mais informações sobre o Audience Analytics na seção [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
 ## Dica importante {#additional-resources}
 
-Conforme declarado no vídeo acima, uma vez que tudo o [!UICONTROL report suites] esteja configurado para encaminhar para o Audience Manager, você deve entrar em contato com o Atendimento ao cliente do Adobe ou com a Consultoria do Adobe e fazer com que ele desative o encaminhamento [!UICONTROL tracking server]. Não é uma emergência para você fazer isso, pois ter o encaminhamento [!UICONTROL tracking server] e [!UICONTROL report suite] NÃO resultará em ocorrências duplicadas. No entanto, é uma prática recomendada ter apenas o encaminhamento [!UICONTROL report suite] ativado. Se você deixar o [!UICONTROL tracking server] encaminhamento ativado, não somente os dados de [!UICONTROL report suites] que você não deseja encaminhar, como também no futuro, depois que você (e todos na empresa) esquecer que o [!UICONTROL tracking server] encaminhamento está ativado, você pode pensar que os dados não estão sendo encaminhados para um [!UICONTROL report suite] específico (porque não está ativado no nível de conjunto de relatórios), mas os dados ainda estão sendo encaminhados por &lt;a 4/>. [!UICONTROL tracking server] Em seguida, você perderá tempo e dinheiro descobrindo por que está encaminhando e também pagando por chamadas de servidor AAM que você não esperava. Portanto, é apenas uma boa ideia desativar o encaminhamento [!UICONTROL tracking server] assim que tiver todos os [!UICONTROL report suites] definidos para encaminhar que façam sentido às suas necessidades de negócios.
+Conforme declarado no vídeo acima, uma vez que você tenha todos os [!UICONTROL report suites] configurado para encaminhar para o Audience Manager, você deve entrar em contato com o Atendimento ao cliente do Adobe ou com a Consultoria do Adobe e fazer com que desative o [!UICONTROL tracking server] encaminhamento. Não é uma emergência para você fazer isso, porque ter ambos [!UICONTROL tracking server] encaminhamento e [!UICONTROL report suite] o encaminhamento não resulta em ocorrências duplicadas. No entanto, a prática recomendada é ter apenas [!UICONTROL report suite] encaminhamento em.
+
+Se você sair [!UICONTROL tracking server] encaminhar em, e não somente poderá encaminhar dados de [!UICONTROL report suites] que você não deseja encaminhar, mas no futuro, depois que você (e todos na sua empresa) esquecer que [!UICONTROL tracking server] o encaminhamento está ativado, você pode achar que os dados não estão sendo encaminhados para um [!UICONTROL report suite]. Isso ocorre porque ele não está ativado no nível do conjunto de relatórios, mas os dados ainda estão sendo encaminhados por causa do [!UICONTROL tracking server]. Em seguida, você perderá tempo e dinheiro descobrindo por que está encaminhando e também pagando por chamadas de servidor AAM que você não esperava. Portanto, é uma boa ideia desativar [!UICONTROL tracking server] encaminhar assim que tiver todas as [!UICONTROL report suites] configurada para encaminhar o que faz sentido para as necessidades de sua empresa.

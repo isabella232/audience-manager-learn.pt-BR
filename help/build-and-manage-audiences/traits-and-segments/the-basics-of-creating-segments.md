@@ -11,7 +11,7 @@ kt: 5820
 role: User
 level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Percorra os campos na interface do usuário para criar um segmento no Audience M
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Para obter mais informações sobre segmentos, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Para obter mais informações sobre segmentos, consulte o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).

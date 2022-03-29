@@ -1,6 +1,6 @@
 ---
-title: Vídeos e Tutorials de mesclagem de perfis
-description: Esta seção contém vídeos e tutoriais para os recursos de Mesclagem de perfis, como Regras de mesclagem de perfis.
+title: Vídeos e tutoriais da Mesclagem de perfis
+description: Visualize os vídeos e tutoriais dos recursos de Mesclagem de perfis, incluindo Regras de mesclagem de perfis. Obtenha controle sobre os conjuntos de dados usados para segmentação e direcione a pessoa com precisão em vários dispositivos.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -10,28 +10,26 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - Vídeos e Tutorials
+# [!UICONTROL Profile Merge] - vídeos e tutoriais
 
-Com [!UICONTROL Profile Merge Rules] você obtém controle sobre os conjuntos de dados usados para [!UICONTROL segmentation] e pode direcionar uma pessoa com precisão em vários dispositivos.
-
-Esta seção contém os seguintes vídeos para [!UICONTROL Profile Merge Rules]:
+Visualize os vídeos e tutoriais dos recursos de Mesclagem de perfis, incluindo Regras de mesclagem de perfis. Obtenha controle sobre os conjuntos de dados usados para segmentação e direcione a pessoa com precisão em vários dispositivos.
 
 * [Visão geral das regras de mesclagem de perfis](overview-of-profile-merge-rules.md)
 * [Exemplos de regras de mesclagem de perfis e casos de uso](profile-merge-rule-examples-and-use-cases.md)
-* [Visão geral das melhorias nas regras de mesclagem de perfis](overview-of-profile-merge-rule-enhancements.md)
-* [Criação e uso de regras simples de mesclagem de perfis](creating-and-using-simple-profile-merge-rules.md)
+* [Visão geral das melhorias nas Regras de mesclagem de perfis](overview-of-profile-merge-rule-enhancements.md)
+* [Criar e usar regras de mesclagem de perfis simples](creating-and-using-simple-profile-merge-rules.md)
 * [Usar regras de mesclagem de perfis para personalizar em um estado autenticado](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [Uso das regras de mesclagem de perfis para a extensão do dispositivo e o alcance aumentado](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-* [Aprimoramentos da regra de mesclagem de perfis - Pré-requisitos](profile-merge-rule-enhancements-pre-requisites.md)
-* [Como os aprimoramentos da regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [Interpretar os relatórios de identidade do público-alvo](interpret-audience-identity-reporting.md)
-* [Como entender as métricas entre dispositivos no Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
+* [Usar regras de mesclagem de perfis para extensão de dispositivo e maior alcance](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [Aprimoramentos da Regra de mesclagem de perfis - pré-requisitos](profile-merge-rule-enhancements-pre-requisites.md)
+* [Como os aprimoramentos da Regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [Interpretar relatórios de identidade do público-alvo](interpret-audience-identity-reporting.md)
+* [Entender métricas entre dispositivos no Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Esses vídeos podem ser usados junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Esses vídeos podem ser usados junto com a variável [Documentação das Regras de mesclagem de perfis](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

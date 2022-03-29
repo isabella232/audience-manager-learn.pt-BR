@@ -1,6 +1,6 @@
 ---
-title: Excluindo características em modelos algorítmicos (semelhantes)
-description: 'Neste vídeo, você aprenderá como e por que excluir características específicas (ou grupos de) de um modelo algorítmico (semelhante). '
+title: Excluir características em modelos algorítmicos (semelhantes)
+description: 'Saiba como e por que excluir características específicas (ou grupos de) de um modelo algorítmico (semelhante). '
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -11,20 +11,20 @@ kt: 1759
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Excluir [!UICONTROL Traits] em Algoritmo (Semelhante) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
+# Excluir características em modelos algorítmicos (semelhantes) {#excluding-traits-in-algorithmic-look-alike-models}
 
-Neste vídeo, você aprenderá como e por que excluir grupos específicos (ou de) [!UICONTROL traits] de um algoritmo (semelhante) [!UICONTROL Model].
+Neste vídeo, saiba como e por que excluir características específicas (ou grupos de) de um modelo algorítmico (semelhante).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 Os casos de uso para esse recurso incluem:
 
-* Extremamente comum [!UICONTROL traits], como visitante do site [!UICONTROL traits], enviam o [!UICONTROL model], o que não será útil para encontrar um público-alvo semelhante de qualidade. Os clientes não precisam mais criar um [!UICONTROL data source] separado e armazenar [!UICONTROL traits] comum no novo [!UICONTROL data source], mas agora podem simplesmente excluí-los.
-* Agora há uma maneira de usar um subconjunto de [!UICONTROL traits] a partir de um [!UICONTROL third party], como apenas interesses comportamentais, em vez de todas as informações em um [!UICONTROL model]. [!UICONTROL Third parties] geralmente envia muitos dados que podem não ser úteis para o cliente. Em alguns casos, eles não poderão usar todos os dados de uma perspectiva legal em modelagem. Agora você pode excluir [!UICONTROL traits] ou pastas de [!UICONTROL traits] que não deseja incluir no [!UICONTROL model].
+* Características extremamente comuns, como características do visitante do site, influenciam o modelo, que não será útil para encontrar um público-alvo de qualidade semelhante. Os clientes não precisam mais criar uma fonte de dados separada e armazenar características comuns na nova fonte de dados, mas agora podem simplesmente excluí-las.
+* Agora há uma maneira de usar um subconjunto de características de terceiros, como apenas interesses comportamentais, em vez de todas as informações em um modelo. Geralmente, terceiros enviam muitos dados que podem não ser úteis para o cliente. Em alguns casos, eles não poderão usar todos os dados de uma perspectiva legal em modelagem. Agora, é possível excluir características ou pastas de características que você não deseja incluir no modelo.

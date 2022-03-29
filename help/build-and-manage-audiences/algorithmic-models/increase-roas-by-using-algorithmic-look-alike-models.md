@@ -1,6 +1,6 @@
 ---
-title: Aumente o ROAS usando modelos algorítmicos (semelhantes) no Audience Manager
-description: O poder real da modelagem semelhante do Audience Manager é quando você busca expandir seu público-alvo de linha de base em relação a um novo conjunto de usuários de qualidade de fontes de dados de terceiros e fontes de dados de terceiros. Neste tutorial, aprenda as etapas para criar um modelo a partir desses dados.
+title: Aumente o ROAS usando modelos algorítmicos (semelhantes)
+description: O poder real da modelagem semelhante do Audience Manager é quando você busca expandir seu público-alvo de linha de base em relação a uma qualidade, um novo conjunto de usuários de fontes de dados secundárias e de terceiros. Neste tutorial, aprenda as etapas para criar um modelo a partir desses dados.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -11,55 +11,55 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
 
-# Aumente o ROAS usando algorítmico (semelhante) [!UICONTROL Models] no Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
+# Aumente o ROAS usando modelos algorítmicos (semelhantes) no Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
-O poder real da aparência [!UICONTROL Modeling] do Audience Manager vem quando você procura expandir seu público-alvo básico contra uma qualidade, um novo conjunto de usuários de [!UICONTROL second party] e [!UICONTROL third party] [!UICONTROL data sources]. Neste tutorial, aprenda as etapas necessárias para criar um [!UICONTROL model] a partir desses dados.
+O verdadeiro poder do Audience Manager [!UICONTROL Modeling] vem quando você busca expandir seu público-alvo de linha de base em relação a um novo conjunto de usuários de qualidade e novidade de fontes de dados secundárias e de terceiros. Neste tutorial, aprenda as etapas necessárias para criar um modelo a partir desses dados.
 
-## Habilite [!UICONTROL Second Party] ou [!UICONTROL Third Party] Fluxos de dados do Audience Marketplace {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
+## Habilitar fluxos de dados de terceiros ou secundários do Audience Marketplace {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
-Para usar os dados [!UICONTROL second party] e [!UICONTROL third party] em uma aparência [!UICONTROL model], primeiro precisamos habilitar esses dados na interface do Audience Manager. O Adobe tem um grande número de provedores de dados [!UICONTROL second party] e [!UICONTROL third party] a partir dos quais você pode escolher. Eles estão disponíveis para você em uma interface de autoatendimento no AAM, por meio do Audience Marketplace. Navegue até o Audience Marketplace e navegue pelas possibilidades. O vídeo a seguir mostrará como fazer isso, incluindo como ativar fluxos gratuitos de &quot;tente antes de comprar&quot;, para que você possa se bloquear nos dados que serão mais úteis para sua organização antes de se comprometer com o preço do provedor de dados.
+Para usar dados secundários e de terceiros em um modelo semelhante, primeiro precisamos habilitar esses dados na interface do Audience Manager. O Adobe tem um grande número de provedores de dados secundários e de terceiros dos quais você pode escolher. Eles estão disponíveis para você em uma interface de autoatendimento no AAM, por meio do Audience Marketplace. Navegue até o Audience Marketplace e navegue pelas possibilidades. O vídeo a seguir mostrará como fazer isso, incluindo como ativar fluxos gratuitos de &quot;tente antes de comprar&quot;, para que você possa se bloquear nos dados que serão mais úteis para sua organização antes de se comprometer com o preço do provedor de dados.
 
 Além disso, para ajudá-lo a pesquisar e decidir qual provedor de dados usar, um grande recurso é o [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
-## Identificar/criar um usuário ideal (conversão) [!UICONTROL trait] ou [!UICONTROL segment] {#identify-create-an-ideal-user-conversion-trait-or-segment}
+## Identificar ou criar uma característica ou segmento ideal do usuário (conversão) {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-O que você está tentando fazer com que as pessoas façam em seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum AAM criar um [!UICONTROL trait] para visitantes que atenderam a esses critérios.
+O que você está tentando fazer com que as pessoas façam em seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum AAM criar uma característica para visitantes que atenderam a esses critérios.
 
-No vídeo abaixo, mostrarei como criar uma conversão [!UICONTROL trait], que você desejará ter em vigor à medida que continuar neste tutorial e criar um [!UICONTROL model] semelhante.
+No vídeo abaixo, mostrarei como criar uma característica de conversão, que você desejará ter em vigor à medida que continuar neste tutorial e criar um modelo semelhante.
 
-Além disso, ao usar eventos do Adobe Analytics para criar [!UICONTROL traits], há um grande gotcha que você precisa ter em mente, para que não colete mais usuários do que deveria no [!UICONTROL trait]. Assista ao vídeo a seguir para a grande revelação. :)
+Além disso, ao usar eventos do Adobe Analytics para criar características, há um grande ganho que você precisa ter em mente, para que não colete mais usuários do que deveria na característica. Assista ao vídeo a seguir para a grande revelação. :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**OBSERVAÇÃO:** no vídeo acima, o exemplo que mostro assume que você tem Adobe Analytics. Obviamente, pode não ser esse o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)), e se sua atividade de conversão no seu site for enviada para AAM por GA, você poderá criar sua conversão [!UICONTROL trait] a partir daí. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda poderá enviar dados para o AAM por meio do nosso código DIL e da função `submit`, etc. (consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Em seguida, crie a conversão [!UICONTROL trait] com base nos dados enviados quando a atividade de conversão é executada no site.
+**OBSERVAÇÃO:** No vídeo acima, o exemplo que mostro assume que você tem o Adobe Analytics. Obviamente, pode não ser esse o caso. Se você tiver o Google Analytics (GA), temos um módulo que pode ser usado para enviar dados para o AAM (consulte o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)) e se sua atividade de conversão no seu site for enviada para AAM por GA, você poderá criar sua característica de conversão a partir disso. Se você tiver uma solução de análise diferente (ou nenhuma solução de análise), ainda poderá enviar dados para o AAM por meio do nosso código de DIL e do `submit` , etc. (consulte o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Em seguida, crie a característica de conversão com base nos dados enviados quando a atividade de conversão for executada no site.
 
-## Criar uma semelhança [!UICONTROL Model] a partir de [!UICONTROL Second Party] ou [!UICONTROL Third Party] Dados {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
+## Criar um modelo semelhante a partir de dados secundários ou de terceiros {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
-Depois de concluir as etapas acima, agora estamos prontos para criar um Algorítmico (semelhança) [!UICONTROL Model]. À medida que configuramos o [!UICONTROL model], usaremos a conversão [!UICONTROL trait] como nossa base [!UICONTROL trait] (visitantes-chave que queremos duplicar) e usaremos o fluxo de dados [!UICONTROL third party] habilitado como nosso pool de pessoas para extrair.
+Depois de concluir as etapas acima, estamos prontos para criar um Modelo algorítmico (semelhança). À medida que configuramos o modelo, usaremos a característica de conversão como nossa característica base (visitantes principais que queremos duplicar) e usaremos o fluxo de dados de terceiros habilitado como nosso pool de pessoas para extrair.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
-## Uma Prática Recomendada Importante {#an-important-best-practice}
+## Prática recomendada importante {#an-important-best-practice}
 
-Ao criar o algoritmo [!UICONTROL model] no Audience Manager, obviamente queremos que [!UICONTROL model] seja o mais eficaz possível. Como o [!UICONTROL model] está considerando todos os [!UICONTROL traits] dos membros de sua base [!UICONTROL trait]/[!UICONTROL segment] fazem parte, isso não ajuda o [!UICONTROL model] se TODAS as pessoas estiverem em um [!UICONTROL trait]/[!UICONTROL segment]. Portanto, se você tiver um [!UICONTROL traits] super genérico (como todos que foram ao seu site, ou todos que receberam qualquer anúncio de você, etc.), verifique se o [!UICONTROL data source] ao qual ele pertence NÃO está incluído no [!UICONTROL data sources] em seu [!UICONTROL model]. No caso de uso deste artigo, é improvável que você faça isso, pois estamos nos concentrando em examinar os dados [!UICONTROL third party] para nossos novos aliques, mas vale a pena mencionar de qualquer forma, e nos aplica a TODOS os seus algoritmos [!UICONTROL models].
+Ao criar o modelo algorítmico no Audience Manager, obviamente queremos que o modelo seja o mais eficaz possível. Como o modelo está considerando todas as características das quais os membros de sua característica/segmento base fazem parte, ele não ajuda o modelo se TODAS as pessoas estiverem em uma característica/segmento. Portanto, se você tiver características supergenéricas (como todos que foram ao seu site, ou todos os que receberam qualquer anúncio de você, etc.), verifique se a fonte de dados à qual elas pertencem NÃO está incluída nas fontes de dados do seu modelo. No caso de uso deste artigo, é improvável que você faça isso, pois estamos focando em dados de terceiros para nossos novos aliques, mas vale a pena mencionar de qualquer forma, e nos aplica a TODOS os seus modelos algorítmicos.
 
-## Criação de um algoritmo [!UICONTROL Trait] {#creating-an-algorithmic-trait}
+## Criar um [!UICONTROL Algorithmic Trait] {#creating-an-algorithmic-trait}
 
-Em seguida, precisaremos criar um algorítmico [!UICONTROL Trait] para que os resultados do [!UICONTROL model] possam ser usados. Sem criar um [!UICONTROL trait], o modelo é inútil. Portanto, depois que o [!UICONTROL model] for executado, verifique se vai para a caixa de diálogo [!UICONTROL trait] e crie um Algorítmico [!UICONTROL Trait]. O vídeo a seguir apresenta o vídeo e mostra algumas dicas.
+Em seguida, será necessário criar um  [!UICONTROL Algorithmic Trait], para que os resultados do modelo possam ser usados. Sem criar uma característica, o modelo é inútil. Assim, depois que o modelo for executado, certifique-se de entrar na caixa de diálogo de características e criar um [!UICONTROL Algorithmic Trait]. O vídeo a seguir apresenta o vídeo e mostra algumas dicas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
-## Criação de um [!UICONTROL Segment] a partir dos dados [!UICONTROL Model] e seu envio para o DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
+## Criar um segmento a partir dos dados do modelo e enviá-lo para o DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
-Depois de criar um Algorítmico [!UICONTROL Trait], você pode criar um novo [!UICONTROL segment] para inseri-lo, para que possa ativar os dados (não é possível ativar um [!UICONTROL trait], mas criar um novo [!UICONTROL trait] [!UICONTROL segment] com o Algorítmico [!UICONTROL Trait] nele, para que você possa ativar (usar) o [!UICONTROL segment]).
+Depois de criar uma [!UICONTROL Algorithmic Trait], é possível criar um novo segmento para inseri-lo, de modo que você possa ativar os dados (não é possível ativar uma característica, mas criar um novo segmento de uma característica com a variável [!UICONTROL Algorithmic Trait] nela, para que você possa ativar (usar) o segmento).
 
-Depois de criar um [!UICONTROL segment] a partir deste [!UICONTROL trait] algorítmico, você terá um público-alvo de clientes potenciais que se pareçam com pessoas que já se converteram no seu site. Agora você pode mapear isso [!UICONTROL segment] para qualquer DSP [!UICONTROL destinations] no Audience Manager. Você poderá direcionar seu marketing para os sósias, que têm mais probabilidade de conversão em seu site do que apenas o público normal, aumentando seu retorno sobre o gasto com anúncio. Boa sorte!
+Depois de criar um segmento com base nessa característica algorítmica, você terá um público-alvo de clientes potenciais que se parecerão com pessoas que já se converteram em seu site. Agora você pode mapear esse segmento para qualquer destino de DSP no Audience Manager. Você poderá direcionar seu marketing para os sósias, que têm mais probabilidade de conversão em seu site do que apenas o público normal, aumentando seu retorno sobre o gasto com anúncio.

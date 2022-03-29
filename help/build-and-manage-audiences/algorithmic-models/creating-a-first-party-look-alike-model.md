@@ -1,7 +1,7 @@
 ---
-title: Criação de um modelo semelhante a primário no AAM
+title: Criar um modelo semelhante próprio
 description: Neste vídeo, você aprenderá a criar um modelo de semelhança primário, para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Criar um [!UICONTROL First Party] semelhante a [!UICONTROL Model] no AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Criar um modelo semelhante próprio no Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-Neste vídeo, você aprenderá a criar uma [!UICONTROL first party] semelhança [!UICONTROL model], para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
+Neste vídeo, você aprenderá a criar um modelo de semelhança primário, para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
