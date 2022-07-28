@@ -4,7 +4,7 @@ product: audience manager
 type: Tutorial
 feature-set: Audience Manager
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/audience-manager-learn.pt-BR
 index: true
 source-git-commit: 17276b61f22448a073d518755ae2ff32253bf23c
 workflow-type: tm+mt
