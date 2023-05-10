@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 9%
@@ -24,6 +24,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
 * Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
 * Use o campo de **pesquisa** na parte superior da página se você souber o que está procurando
 
+<div id="whats-new-section">
 ## Novidades
 
 * **[Visão geral da [!UICONTROL Profile Merge Rules] (Vídeo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
 * **[Criar e configurar destinos com base em pessoas](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Saiba como configurar um [!DNL People-Based Destination] na interface do usuário do Audience Manager*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Escolhas do pessoal
 
@@ -44,11 +55,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos em Swift para Mobile iOS"" src="assets/thumb_swift.png" />
+      <img alt="imagem em miniatura para o tutorial "Implementação do Experience Cloud em aplicativos móveis em Swift para iOS"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementação do Experience Cloud em aplicativos Mobile iOS</strong>
+    <strong>Implementação do Experience Cloud em aplicativos para dispositivos móveis iOS</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos Android do Mobile"" src="assets/thumb_android.png" />
+      <img alt="imagem em miniatura para o tutorial "Implementação do Experience Cloud em aplicativos para dispositivos móveis Android"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Implementação do Experience Cloud no Mobile [!DNL Android] Aplicativos</strong>
+    <strong>Implementação do Experience Cloud em dispositivos móveis [!DNL Android] Aplicativos</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos em Objetive-C para Mobile"" src="assets/thumb_objective_c.png" />
+      <img alt="imagem em miniatura do tutorial "Implementação do Experience Cloud em aplicativos móveis em Objetive-C"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementação do Experience Cloud em aplicativos Objetive-C para Mobile</strong>
+    <strong>Implementação do Experience Cloud em aplicativos móveis em Objetive-C</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
   </td>
 </tr>
 </table>
+</div>
