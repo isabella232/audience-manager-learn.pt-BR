@@ -1,6 +1,6 @@
 ---
 title: Criar uma característica de conversão
-description: Algumas de suas características são baseadas em conversões no site. Neste vídeo, saiba como designá-los como tal e aprenda uma dica/captucha muito importante.
+description: Algumas de suas características são baseadas em conversões no site. Neste vídeo, aprenda a designá-los como tal e aprenda uma dica/um ponto de contato muito importante.
 feature: Traits
 topics: null
 activity: use
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Criar uma característica de conversão no Audience Manager {#creating-conversion-traits-in-audience-manager}
 
-Algumas de suas características são baseadas em conversões no site. Neste vídeo, saiba como designá-los como tal e aprenda uma dica/captucha muito importante.
+Algumas de suas características são baseadas em conversões no site. Neste vídeo, aprenda a designá-los como tal e aprenda uma dica/um ponto de contato muito importante.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-O que você está tentando fazer com que as pessoas façam em seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum AAM criar características para visitantes que atenderam a esses critérios.
+O que você está tentando fazer com que as pessoas façam no seu site? Qual é o seu evento de conversão? É claro que há muitas respostas diferentes para essa pergunta, dependendo do tipo/vertical do site e das metas organizacionais. Em qualquer caso, é comum no AAM criar características para visitantes que atenderam a esses critérios.
 
-Em AAM, há um campo em que você pode marcar sua característica como uma característica de conversão, especialmente para uso em [!UICONTROL Audience Lab].
+No AAM, há um campo onde você pode marcar sua característica como uma característica de conversão, especialmente para uso no [!UICONTROL Audience Lab].
 
-Além disso, ao usar eventos para criar características, há um grande gotcha que você precisa ter em mente, para que não colete mais usuários do que deveria na característica. Assista a este vídeo para a grande revelação.
+Além disso, ao usar eventos para criar características, há uma grande falha que você precisa ter em mente para não coletar mais usuários do que deveria na característica. Assista a este vídeo para a grande revelação.

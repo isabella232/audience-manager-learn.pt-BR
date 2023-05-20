@@ -1,5 +1,5 @@
 ---
-title: Vídeos e tutoriais do Audience Manager
+title: vídeos e tutoriais do Audience Manager
 description: Uma coleção de vídeos e tutoriais do Adobe Audience Manager.
 feature: Overview
 topics: null
@@ -16,28 +16,28 @@ ht-degree: 16%
 
 ---
 
-# Tutoriais do Audience Manager
+# tutoriais do Audience Manager
 
-Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntamente com o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) O oferecerá uma melhor compreensão de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o melhor Adobe na classe [!DNL data management platform].
+Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) O fornecerá um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o Adobe melhor da categoria [!DNL data management platform].
 
-* **Pessoal** destaca alguns de nossos conteúdos favoritos
+* **Escolhas de pessoal** destaca alguns de nossos conteúdos favoritos
 * Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
 * Use o campo de **pesquisa** na parte superior da página se você souber o que está procurando
 
 <div id="whats-new-section">
 ## Novidades
 
-* **[Visão geral da [!UICONTROL Profile Merge Rules] (Vídeo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
+* **[Visão geral do [!UICONTROL Profile Merge Rules] (Vídeo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
    *Entender o que [!UICONTROL Profile Merge Rules] são, como funcionam e seu valor para o profissional de marketing.*
 
 * **[[!UICONTROL Profile Merge Rule]Exemplos e casos de uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *Neste vídeo você verá exemplos de [!UICONTROL Profile Merge Rules] e o que significam, assim como os casos de uso que [!UICONTROL Profile Merge Rules] resolver para.*
+   *Neste vídeo, você verá exemplos de [!UICONTROL Profile Merge Rules] e o que eles significam, bem como os casos de uso que [!UICONTROL Profile Merge Rules] resolver para.*
 
 * **[Criar e configurar destinos com base em pessoas](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Saiba como configurar um [!DNL People-Based Destination] na interface do usuário do Audience Manager*
+   *Saiba como configurar um [!DNL People-Based Destination] na interface do Audience Manager*
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -49,7 +49,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
 
 <div id="staff-picks-section">
 
-## Escolhas do pessoal
+## Escolhas de pessoal
 
 <table>
 <tr>
@@ -63,33 +63,33 @@ Bem-vindo ao site de tutoriais do Audience Manager. Uso desses tutoriais juntame
     </a>
     </div>
     <p>
-    <em>Saiba como implementar aplicativos Experience Cloud usando o SDK da Web da Adobe Experience Platform.</em>
+    <em>Saiba como implementar aplicativos Experience Cloud usando o Adobe Experience Platform Web SDK.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-      <img alt="imagem em miniatura do tutorial "Entendendo os segmentos na CDP em tempo real"" src="assets/331901.jpg" />
+      <img alt="imagem em miniatura para o tutorial "Entendendo os segmentos na Real-time CDP"" src="assets/331901.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Compreensão de segmentos na CDP em tempo real para usuários do Audience Manager</strong>
+    <strong>Noções básicas de segmentos na CDP em tempo real para usuários do Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Este vídeo analisa as diferenças nos segmentos e a criação de segmentos entre o Audience Manager e a CDP em tempo real.</em>
+    <em>Este vídeo analisa as diferenças nos segmentos e na criação de segmentos entre o Audience Manager e a CDP em tempo real.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="imagem em miniatura do tutorial "Configurar e criar relatórios sobre públicos-alvo preditivos no Audience Manager"" src="assets/33630.jpg" />
+      <img alt="imagem em miniatura do tutorial "Configurar e relatar públicos-alvo preditivos no Audience Manager"" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Configurar e relatar públicos-alvo preditivos no Audience Manager</strong>
+    <strong>Configurar e relatar Predictive Audiences no Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Neste vídeo, abordaremos a configuração de públicos-alvo preditivos na interface do Audience Manager.</em>
+    <em>Neste vídeo, abordamos a configuração de públicos-alvo preditivos na interface do Audience Manager.</em>
     <p>
   </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
-title: Como assimilar dados baseados em arquivos
-description: Neste vídeo, você aprenderá as etapas a serem seguidas enquanto integra os dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
+title: Como assimilar dados baseados em arquivo
+description: Neste vídeo, você aprenderá as etapas a serem seguidas ao integrar dados offline ao Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Etapas para assimilar dados baseados em arquivo
 
-Neste vídeo, você aprenderá as etapas a serem seguidas enquanto integra os dados offline no Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
+Neste vídeo, você aprenderá as etapas a serem seguidas ao integrar dados offline ao Audience Manager, incluindo os requisitos de nome de arquivo para o arquivo de dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-Para assistir a um vídeo sobre a formatação de dados de arquivos de entrada, clique em [AQUI](formatting-and-ingesting-file-based-data.md).
+Para assistir a um vídeo sobre formatação de dados para arquivos de entrada, clique em [AQUI](formatting-and-ingesting-file-based-data.md).
 
-Para obter mais informações, consulte o [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Para obter informações adicionais, consulte [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

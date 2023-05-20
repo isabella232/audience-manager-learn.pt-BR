@@ -1,6 +1,6 @@
 ---
-title: Planejar a criação de características a partir dos dados do Analytics
-description: Saiba mais sobre dicas e truques para ajudá-lo quando você planeja usar os dados do Adobe Analytics em suas características no Audience Manager.
+title: Criação de características do plano a partir de dados do Analytics
+description: Aprenda dicas e truques para quando estiver planejando usar dados do Adobe Analytics em suas características no Audience Manager.
 feature: Traits
 topics: null
 activity: implement
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Planejar a criação de características a partir dos dados do Analytics
+# Criação de características do plano a partir de dados do Analytics
 
-Saiba mais sobre dicas e truques para ajudá-lo quando você planeja usar os dados do Adobe Analytics em suas características no Audience Manager.
+Aprenda dicas e truques para quando estiver planejando usar dados do Adobe Analytics em suas características no Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

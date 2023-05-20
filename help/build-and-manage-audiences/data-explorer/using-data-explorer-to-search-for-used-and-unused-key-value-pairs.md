@@ -1,5 +1,5 @@
 ---
-title: Use o Data Explorer para procurar pares de chave/valor usados e não utilizados
+title: Usar o Data Explorer para procurar pares de chave/valor usados e não usados
 description: No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com o Data Explorer.
 feature: Data Explorer
 topics: null
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Use [!UICONTROL Data Explorer] para procurar pares de chave/valor usados e não utilizados em AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Uso [!UICONTROL Data Explorer] para procurar pares de chave/valor usados e não usados no AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
 No trabalho diário no Audience Manager, talvez seja necessário descobrir rapidamente se uma característica foi criada a partir de um par de chave/valor específico. Este vídeo mostra como descobrir com [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Para descobrir se um sinal foi criado em uma característica, não é mais necessário baixar um arquivo BAAAM e também a variável [!UICONTROL Unused Signals] relatório. Agora você pode simplesmente pesquisar esse par chave/valor em [!DNL Data Explorer], assim como o [!UICONTROL Signals] Aplicativo, em AAM, e encontrar pares de chave/valor que estejam nas características e aquelas que não estão, todos na mesma lista. Que bom tempo!
+Para descobrir se um sinal foi criado em uma característica, não é mais necessário baixar um arquivo BAAAM e também a variável [!UICONTROL Unused Signals] relatório. Agora você pode simplesmente pesquisar por esse par de chave/valor em [!DNL Data Explorer], também conhecido como [!UICONTROL Signals] App, no AAM e encontre pares chave-valor em características e aqueles que não estão, todos na mesma lista. Excelente economia de tempo!
 
 Para obter mais informações sobre [!UICONTROL Data Explorer], visita [Data Explorer - Visão geral, benefícios e casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

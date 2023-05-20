@@ -1,6 +1,6 @@
 ---
 title: Usar a visualização de código para criar e editar características
-description: Saiba como usar a visualização de código ao criar novas características ou editar características existentes. A visualização de código é uma alternativa ao Construtor de expressões ao definir a expressão de característica.
+description: Saiba como usar a visualização de código ao criar novas características ou editar características existentes. A visualização de código é uma alternativa ao Construtor de expressões ao configurar a expressão de características.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Usar a visualização de código para criar e editar características
 
-Saiba como usar a visualização de código ao criar novas características ou editar características existentes. A visualização de código é uma alternativa ao Construtor de expressões ao definir a expressão de característica.
+Saiba como usar a visualização de código ao criar novas características ou editar características existentes. A visualização de código é uma alternativa ao Construtor de expressões ao configurar a expressão de características.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)

@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Entender a interface Taxa de correspondência no Audience Manager
+# Compreender a interface Taxa de correspondência no Audience Manager
 
-Este vídeo o orienta pelo [!UICONTROL Destination] , mostrando e explicando os números associados às taxas de correspondência e públicos endereçáveis.
+Este vídeo o orienta durante a [!UICONTROL Destination] , mostrando e explicando os números associados às taxas de correspondência e públicos endereçáveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

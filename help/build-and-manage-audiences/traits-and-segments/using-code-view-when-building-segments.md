@@ -1,6 +1,6 @@
 ---
-title: Usar a exibição de código ao criar segmentos
-description: Saiba como usar a visualização de código para definir segmentos, permitindo criar combinações de características complexas, incluindo o uso de recenticidade e frequência.
+title: Usar a visualização de código ao construir segmentos
+description: Saiba como usar a visualização de código para definir segmentos, permitindo que você crie combinações de características complexas, incluindo o uso de recenticidade e frequência.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Usar a exibição de código ao criar segmentos
+# Usar a visualização de código ao construir segmentos
 
-Saiba como usar a visualização de código para definir segmentos, permitindo criar combinações de características complexas, incluindo o uso de recenticidade e frequência.
+Saiba como usar a visualização de código para definir segmentos, permitindo que você crie combinações de características complexas, incluindo o uso de recenticidade e frequência.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)

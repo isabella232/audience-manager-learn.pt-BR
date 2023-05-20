@@ -1,7 +1,7 @@
 ---
-title: Usar relatórios do Audience Optimization para entender o desempenho da mídia
-description: Saiba como usar os Relatórios de Audience Optimization para melhorar suas campanhas, entender onde investir seu investimento em marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
-feature: Relatórios de otimização de público-alvo
+title: Utilização de relatórios de Audience Optimization para entender o desempenho da mídia
+description: Saiba como usar os Relatórios de Audience Optimization para melhorar suas campanhas, entender onde investir seu orçamento de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros dados relevantes nesses relatórios.
+feature: Audience Optimization Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -13,15 +13,15 @@ level: Intermediate
 exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 2%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
-# Usar relatórios do Audience Optimization para entender o desempenho da mídia
+# Utilização de relatórios de Audience Optimization para entender o desempenho da mídia
 
-Saiba como usar os Relatórios de Audience Optimization para melhorar suas campanhas, entender onde investir seu investimento em marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros gems nesses relatórios.
+Saiba como usar os Relatórios de Audience Optimization para melhorar suas campanhas, entender onde investir seu orçamento de marketing e onde parar de investir. Saiba também como determinar o limite de frequência ideal e encontrar outros dados relevantes nesses relatórios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).
+Para obter mais informações, consulte [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).

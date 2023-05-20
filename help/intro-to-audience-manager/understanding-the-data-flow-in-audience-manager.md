@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Entender o fluxo de dados no Audience Manager
+# Compreender o fluxo de dados no Audience Manager
 
 Este vídeo ajuda você a entender o Adobe Audience Manager descrevendo o fluxo de dados para dentro, através e para fora do aplicativo.
 

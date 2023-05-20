@@ -1,6 +1,6 @@
 ---
-title: Como entender a assimilação de dados de PII com hash para destinos com base em pessoas
-description: Este vídeo aborda as coisas que você precisa considerar conforme se prepara para assimilar PII no Audience Manager para destinos com base em pessoas.
+title: Noções básicas da assimilação de dados de PII com hash para destinos com base em pessoas
+description: Este vídeo abordará as coisas que você precisa considerar ao se preparar para assimilar PII no Audience Manager para destinos com base em pessoas.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Como entender a assimilação de dados de PII com hash para destinos com base em pessoas
+# Noções básicas da assimilação de dados de PII com hash para destinos com base em pessoas
 
-Este vídeo aborda as coisas que você precisa considerar conforme se prepara para assimilar PII no Audience Manager para destinos com base em pessoas.
+Este vídeo abordará as coisas que você precisa considerar ao se preparar para assimilar PII no Audience Manager para destinos com base em pessoas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

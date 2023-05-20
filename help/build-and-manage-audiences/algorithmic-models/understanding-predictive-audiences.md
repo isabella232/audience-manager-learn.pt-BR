@@ -1,5 +1,5 @@
 ---
-title: Entender [!UICONTROL Predictive Audiences] no Audience Manager
+title: Compreender [!UICONTROL Predictive Audiences] no Audience Manager
 description: Neste vídeo, saiba mais sobre o Audience Manager [!UICONTROL Predictive Audiences], detalhes sobre como funcionam e casos de uso típicos.
 feature: Algorithmic Models
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Entender [!UICONTROL Predictive Audiences] no Audience Manager
+# Compreender [!UICONTROL Predictive Audiences] no Audience Manager
 
 Neste vídeo, saiba mais sobre o Audience Manager [!UICONTROL Predictive Audiences], detalhes sobre como funcionam e casos de uso típicos.
 

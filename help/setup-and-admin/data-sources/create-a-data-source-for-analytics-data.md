@@ -16,8 +16,8 @@ ht-degree: 68%
 
 ---
 
-# Crie um [!UICONTROL Data Source] para [!DNL Analytics] Dados {#create-a-data-source-for-analytics-data}
+# Criar um [!UICONTROL Data Source] para [!DNL Analytics] Dados {#create-a-data-source-for-analytics-data}
 
-Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criar uma [!UICONTROL Data Source] no Audience Manager, que você pode usar para dados que entram ao vivo de uma solução de análise como o Adobe Analytics. Isso deve ser feito antes da criação de características para os dados de análise.
+Neste vídeo, percorremos as etapas, incluindo dicas e truques, de criação de um [!UICONTROL Data Source] no Audience Manager, que você pode usar para dados que entram em funcionamento a partir de uma solução de análise, como o Adobe Analytics. Isso deve ser feito antes da criação de características para os dados de análise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

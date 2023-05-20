@@ -1,7 +1,7 @@
 ---
 title: Visão geral das regras de mesclagem de perfis
 description: Entenda o que são Regras de mesclagem de perfis, como elas funcionam e seu valor para o profissional de marketing.
-feature: Mesclar perfis
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Visão geral de [!UICONTROL Profile Merge Rules]
+# Visão geral do [!UICONTROL Profile Merge Rules]
 
-Entenda o que são [!UICONTROL Profile Merge Rules], como funcionam e seu valor para o profissional de marketing.
+Entender o que [!UICONTROL Profile Merge Rules] são, como funcionam e seu valor para o profissional de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

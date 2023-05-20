@@ -1,5 +1,5 @@
 ---
-title: Entender os números no gráfico de segmentos
+title: Compreender números no gráfico de segmentos
 description: Saiba mais sobre os números exibidos no gráfico da tela de informações do segmento.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Entender os números no gráfico de segmentos
+# Compreender números no gráfico de segmentos
 
 Saiba mais sobre os números exibidos no gráfico da tela de informações do segmento.
 

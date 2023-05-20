@@ -1,6 +1,6 @@
 ---
-title: Definir permissões com controle de acesso baseado em funções
-description: Saiba mais sobre o controle de acesso baseado em funções no Adobe Audience Manager e como gerenciar permissões em nível de grupo. Descubra como controlar quem pode ver e trabalhar com ativos, incluindo características, segmentos, destinos e modelos. Saiba como configurar grupos de permissão e adicionar usuários a eles.
+title: Definir permissões com controle de acesso baseado em função
+description: Saiba mais sobre o controle de acesso com base em funções no Adobe Audience Manager e como gerenciar permissões no nível do grupo. Descubra como controlar quem pode ver e trabalhar com ativos, incluindo características, segmentos, destinos e modelos. Saiba como configurar os grupos de permissões e adicionar usuários a eles.
 feature: Administration
 topics: null
 activity: setup
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Definir permissões com controle de acesso baseado em funções
+# Definir permissões com controle de acesso baseado em função
 
-O controle de acesso baseado em funções no Adobe Audience Manager permite gerenciar permissões em um nível de grupo, controlando quem pode ver e trabalhar com ativos, incluindo características, segmentos, destinos e modelos. Saiba como configurar grupos de permissão e adicionar usuários a eles.
+O controle de acesso com base em funções no Adobe Audience Manager permite gerenciar permissões em nível de grupo, controlando quem pode ver e trabalhar com ativos, incluindo características, segmentos, destinos e modelos. Saiba como configurar os grupos de permissões e adicionar usuários a eles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Aprimoramentos da Regra de mesclagem de perfis - pré-requisitos
-description: Uma visão geral de como se preparar melhor para o lançamento das Melhorias da Regra de mesclagem de perfis.
+description: Uma visão geral de como se preparar melhor para o lançamento das Melhorias da regra de mesclagem de perfis.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] melhorias - pré-requisitos
 
-Uma visão geral de como se preparar melhor para a versão de [!UICONTROL Profile Merge Rule] melhorias.
+Uma visão geral de como se preparar melhor para o lançamento do [!UICONTROL Profile Merge Rule] melhorias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: Integração da Adobe Advertising e Adobe Audience Manager
-description: Saiba como funciona a integração entre Adobe Audience Manager e Adobe Advertising. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
+title: Integração da Adobe Advertising e da Adobe Audience Manager
+description: Saiba como funciona a integração entre o Adobe Audience Manager e o Adobe Advertising. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
 feature: Advertising Integration
 topics: null
 activity: understand
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Integração da Adobe Advertising e Adobe Audience Manager
+# Integração da Adobe Advertising e da Adobe Audience Manager
 
-Saiba como a integração entre o Adobe Audience Manager e a [!DNL Adobe Advertising] funciona. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
+Saiba como a integração entre o Adobe Audience Manager e o [!DNL Adobe Advertising] funciona. Obtenha também respostas sobre taxas de correspondência e sincronização de cookies de terceiros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

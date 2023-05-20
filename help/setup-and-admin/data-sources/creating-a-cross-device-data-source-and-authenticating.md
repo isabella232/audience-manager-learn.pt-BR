@@ -1,6 +1,6 @@
 ---
 title: Criar uma fonte de dados entre dispositivos para autenticação
-description: Saiba como criar uma fonte de dados entre dispositivos para autenticação. Consulte como trazer seus dados de CRM próprios para o Audience Manager para melhor direcionar seus clientes e configurar o método setCustomerIDs() nas tags da plataforma para logons.
+description: Saiba como criar uma fonte de dados entre dispositivos para autenticação. Veja como trazer seus dados do CRM primários para o Audience Manager para direcionar melhor seus clientes e configurar o método setCustomerIDs() nas tags da Platform para logons.
 feature: Data Sources
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Criação de uma fonte de dados entre dispositivos e autenticação
 
-Quando quiser trazer seus dados de CRM próprios para o Audience Manager para direcionar melhor seus clientes, primeiro crie uma fonte de dados entre dispositivos para armazenar as IDs e os dados do CRM. Isso mostra como fazer isso e configurar o `setCustomerIDs()` nas tags Experience Platform para logons.
+Quando quiser trazer seus dados do CRM primários para o Audience Manager para direcionar melhor seus clientes, é necessário primeiro criar uma fonte de dados entre dispositivos para armazenar as IDs e os dados do CRM. Isso mostra como fazer isso e configurar o `setCustomerIDs()` método nas tags Experience Platform para logons.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

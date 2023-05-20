@@ -1,6 +1,6 @@
 ---
-title: Criar uma fonte de dados para Destinos com base em pessoas
-description: Saiba como criar uma fonte de dados no Audience Manager para ser usada em Destinos com base em pessoas.
+title: Criar uma fonte de dados para Destinos com base em Pessoas
+description: Saiba como criar uma fonte de dados no Audience Manager para ser usada para Destinos com base em pessoas.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Criação de um [!UICONTROL Data Source] para Destinos com base em pessoas
 
-Este vídeo o orienta pela criação de um [!UICONTROL Data Source] no Audience Manager para ser usado em Destinos com base em pessoas.
+Este vídeo o orienta durante a criação de um [!UICONTROL Data Source] em Audience Manager a ser usado para Destinos com base em pessoas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

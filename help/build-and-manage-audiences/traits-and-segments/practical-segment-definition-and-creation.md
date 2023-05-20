@@ -1,6 +1,6 @@
 ---
 title: Definição e criação prática de segmentos
-description: Obtenha uma apresentação do processo de definição de seus segmentos e depois detalhe-os pelas características ou sinais que você precisa para criá-los.
+description: Obtenha uma visão geral do processo de definição de segmentos e os classifique pelas características ou pelos sinais necessários para criá-los.
 feature: Segments
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Definição e criação prática de segmentos
 
-Este vídeo o orienta por um processo de definição de segmentos e depois os detalha pelas características/sinais que você precisará para criá-los.
+Este vídeo o orienta por um processo de definição de segmentos e depois os classifica pelas características/sinais que você precisará para criá-los.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

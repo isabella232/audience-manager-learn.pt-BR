@@ -1,6 +1,6 @@
 ---
-title: Configurar BAAAM para gerenciamento em massa de segmentos
-description: Saiba mais sobre o BAAAM, a ferramenta de gerenciamento em massa para características e segmentos no Audience Manager, incluindo como configurá-lo para se preparar para o uso.
+title: Configurar BAAAM para gerenciamento de segmentos em massa
+description: Saiba mais sobre o BAAAM, a ferramenta de gerenciamento em massa para características e segmentos no Audience Manager, incluindo como configurá-lo para se preparar para uso.
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Configurar BAAAM para gerenciamento em massa de segmentos
+# Configurar BAAAM para gerenciamento de segmentos em massa
 
-Saiba mais sobre o BAAAM, a ferramenta de gerenciamento em massa para características e segmentos no Audience Manager, incluindo como configurá-lo para se preparar para o uso.
+Saiba mais sobre o BAAAM, a ferramenta de gerenciamento em massa para características e segmentos no Audience Manager, incluindo como configurá-lo para se preparar para uso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

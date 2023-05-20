@@ -1,8 +1,8 @@
 ---
-title: Entendendo a assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
-description: Este vídeo mostra aos usuários do Audience Manager os conceitos sobre como trazer dados do site para a Plataforma de dados do cliente em tempo real (CDP em tempo real), e inclui um toque de alto nível sobre onde o Conector de dados do Audience Manager se encaixa, bem como como como os dados podem se mover do site diretamente pelo SDK da Web para a CDP em tempo real.
-feature: Integração da plataforma
-topic: Integrações
+title: Noções básicas da assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
+description: Este vídeo mostra aos usuários do Audience Manager os conceitos sobre como trazer dados do site para o Real-time Customer Data Platform (Real-time CDP) e inclui um comentário de alto nível sobre onde os Conectores de dados do Audience Manager se encaixam, bem como como como os dados podem se mover do site diretamente pelo SDK da Web para a Real-time CDP.
+feature: Platform Integration
+topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
@@ -11,20 +11,20 @@ kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 3%
 
 ---
 
-# Entendendo a assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
+# Noções básicas da assimilação de dados da Web na CDP em tempo real para usuários do Audience Manager
 
-Este vídeo mostra aos usuários do Audience Manager os conceitos sobre como trazer dados do site para a Plataforma de dados do cliente em tempo real (CDP em tempo real), e inclui um toque de alto nível sobre onde o Conector de dados do Audience Manager se encaixa, bem como como como os dados podem se mover do site diretamente pelo SDK da Web para a CDP em tempo real.
+Este vídeo mostra aos usuários do Audience Manager os conceitos sobre como trazer dados do site para o Real-time Customer Data Platform (Real-time CDP) e inclui um comentário de alto nível sobre onde os Conectores de dados do Audience Manager se encaixam, bem como como como os dados podem se mover do site diretamente pelo SDK da Web para a Real-time CDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## Recursos adicionais
 
-Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a aprender mais sobre a Plataforma de dados do cliente em tempo real. Você pode explorar outros vídeos e tutoriais sobre eles para saber mais sobre a Platform.
+Abaixo estão alguns vídeos e tutoriais existentes que podem ajudá-lo a saber mais sobre o Real-time Customer Data Platform. Sinta-se à vontade para explorar outros vídeos e tutoriais sobre isso para saber mais sobre a Platform.
 
 * [Assimilar dados usando o conector de dados do Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Tutoriais do SDK da Web da Adobe Experience Platform](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)

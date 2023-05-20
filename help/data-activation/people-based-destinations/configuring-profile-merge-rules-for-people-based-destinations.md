@@ -1,6 +1,6 @@
 ---
 title: Configurar regras de mesclagem de perfis para destinos com base em pessoas
-description: Neste vídeo, saiba como configurar uma Regra de mesclagem de perfis para ser usada em Destinos baseados em pessoas, incluindo quando usar uma nova opção entre dispositivos.
+description: Neste vídeo, saiba mais sobre como configurar uma Regra de mesclagem de perfis a ser usada para Destinos com base em pessoas, incluindo quando usar uma nova opção entre dispositivos.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Configurar [!UICONTROL Profile Merge Rules] para Destinos com base em pessoas
 
-Neste vídeo, saiba como configurar um [!UICONTROL Profile Merge Rule] a ser usado para Destinos baseados em pessoas, incluindo quando usar uma nova opção entre dispositivos.
+Neste vídeo, saiba mais sobre como configurar uma [!UICONTROL Profile Merge Rule] a ser usado para Destinos com base em pessoas, incluindo quando usar uma nova opção entre dispositivos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

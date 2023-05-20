@@ -1,6 +1,6 @@
 ---
-title: Interpretar relatórios de identidade do público-alvo
-description: O relatório de identidade de público-alvo fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
+title: Interpretar relatórios de identidade de público-alvo
+description: Os relatórios de identidade de público-alvo fornecem aos clientes a capacidade de relatar a população total de uma característica ou segmento por definições de identidade de pessoa/residência. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Interpretar o relatório de identidade do público-alvo
+# Interpretar relatórios de identidade de público-alvo
 
-O relatório de identidade de público-alvo fornece aos clientes a capacidade de relatar a população total de uma característica ou segmento por definição de identidade de pessoa/família. Assista a este vídeo para ver como ele se manifesta nos relatórios do Audience Manager.
+Os relatórios de identidade de público-alvo fornecem aos clientes a capacidade de relatar a população total de uma característica ou segmento por definições de identidade de pessoa/residência. Assista a este vídeo para ver como ele se manifesta nos relatórios de Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

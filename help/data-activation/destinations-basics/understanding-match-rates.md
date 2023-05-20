@@ -1,6 +1,6 @@
 ---
 title: Entender as taxas de correspondência
-description: Saiba mais sobre as Taxas de correspondência no Adobe Audience Manager, o que elas são e como são calculadas. Saiba também sobre as práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
+description: Saiba mais sobre as taxas de correspondência no Adobe Audience Manager, o que são e como são calculadas. Saiba também sobre as práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Entender as taxas de correspondência
 
-Este vídeo ajuda você a entender as Taxas de correspondência no Adobe Audience Manager, o que elas são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma baixa taxa de correspondência.
+Este vídeo ajuda você a entender as Taxas de correspondência no Adobe Audience Manager, o que elas são e como são calculadas. Você também aprenderá algumas práticas recomendadas, bem como o que pode causar uma taxa de correspondência baixa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 

@@ -1,6 +1,6 @@
 ---
-title: Salvar pesquisas no Data Explorer para reutilização conveniente
-description: Neste vídeo, saiba como configurar uma pesquisa no Data Explorer, executá-la e salvá-la para reutilização posteriormente. Você também pode colocar a pesquisa salva no painel para que fique imediatamente disponível ao entrar no aplicativo Sinais .
+title: Salve pesquisas no Data Explorer para reutilização conveniente
+description: Neste vídeo, saiba como configurar uma pesquisa no Data Explorer, executá-la e salvá-la para reutilização posteriormente. Você também pode colocar a pesquisa salva no painel para que ela fique disponível imediatamente ao entrar no aplicativo Sinais.
 feature: Data Explorer
 topics: null
 activity: use

@@ -1,5 +1,5 @@
 ---
-title: Escolha uma fonte de dados ao criar um segmento
+title: Escolher uma fonte de dados ao criar um segmento
 description: Saiba mais sobre como escolher a fonte de dados certa ao criar um novo segmento no Audience Manager.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Escolha uma fonte de dados ao criar um segmento
+# Escolher uma fonte de dados ao criar um segmento
 
 Saiba mais sobre como escolher a fonte de dados certa ao criar um novo segmento no Audience Manager.
 

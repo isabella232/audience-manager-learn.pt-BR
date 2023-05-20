@@ -1,5 +1,5 @@
 ---
-title: Entender os números no gráfico de características
+title: Entender números no Gráfico de características
 description: Obtenha algumas dicas sobre como entender os números relatados para características na tela de informações de características.
 feature: Traits
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Entender os números no gráfico de características
+# Entender números no Gráfico de características
 
 Obtenha algumas dicas sobre como entender os números relatados para características na tela de informações de características.
 

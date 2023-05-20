@@ -1,6 +1,6 @@
 ---
-title: Como os aprimoramentos da Regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios
-description: Entendendo como os aprimoramentos da regra de mesclagem de perfis afetarão o total de características e preenchimentos de segmentos na interface do usuário do Audience Manager
+title: Como as melhorias na Regra de mesclagem de perfis afetam a segmentação, a ativação e os relatórios
+description: Entender como as melhorias nas Regras de mesclagem de perfis afetarão as Populações totais de características e segmentos na interface do usuário do Audience Manager
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# How [!UICONTROL Profile Merge Rule] as melhorias afetam a segmentação, ativação e relatórios
+# Como [!UICONTROL Profile Merge Rule] melhorias afetam a segmentação, ativação e geração de relatórios
 
-Como entender [!UICONTROL Profile Merge Rule] As melhorias afetarão [!UICONTROL Total Trait] e [!UICONTROL Segment Populations] em Audience Manager.
+Entender como [!UICONTROL Profile Merge Rule] Os aprimoramentos afetarão [!UICONTROL Total Trait] e [!UICONTROL Segment Populations] em Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

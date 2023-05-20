@@ -1,6 +1,6 @@
 ---
-title: Criar e gerenciar características em massa com o BAAAM
-description: Ao criar, editar ou excluir características, usar a interface do usuário para fazer isso uma a uma pode ser ineficiente e demorado. Neste vídeo, saiba como usar o BAAAM, ferramenta de gerenciamento em massa do Audience Manager, para criar, editar e excluir características em massa, usando uma planilha Microsoft simples como uma interface com a REST API.
+title: Criar e gerenciar características em massa com BAAAM
+description: Ao criar, editar ou excluir características, usar a interface do usuário para fazer isso uma por uma pode ser ineficiente e demorado. Neste vídeo, saiba como usar o BAAAM, ferramenta de gerenciamento de Audience Manager em massa, para criar, editar e excluir características em massa, usando uma planilha simples do Microsoft como interface com a API REST.
 feature: Traits
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Criar e gerenciar características em massa com o BAAAM
+# Criar e gerenciar características em massa com BAAAM
 
-Ao criar, editar ou excluir características, usar a interface do usuário para fazer isso uma a uma pode ser ineficiente e demorado. Neste vídeo, saiba como usar o BAAAM, ferramenta de gerenciamento em massa do Audience Manager, para criar, editar e excluir características em massa, usando uma planilha Microsoft simples como uma interface com a REST API.
+Ao criar, editar ou excluir características, usar a interface do usuário para fazer isso uma por uma pode ser ineficiente e demorado. Neste vídeo, saiba como usar o BAAAM, ferramenta de gerenciamento de Audience Manager em massa, para criar, editar e excluir características em massa, usando uma planilha simples do Microsoft como interface com a API REST.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 

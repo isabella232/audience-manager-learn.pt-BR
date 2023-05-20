@@ -1,6 +1,6 @@
 ---
 title: Usar rótulos de exportação de dados para controlar o fluxo de dados
-description: Saiba mais sobre os rótulos de exportação de dados no Audience Manager. Eles fornecem um mecanismo no Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir os Controles de exportação de dados e os Rótulos de exportação de dados para trabalhar em conjunto com esse fim.
+description: Saiba mais sobre Rótulos de exportação de dados no Audience Manager. Eles fornecem um mecanismo no Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir os Controles de exportação de dados e os Rótulos de exportação de dados para trabalhar em conjunto com esse fim.
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Use [!UICONTROL Data Export Labels] para controlar o fluxo de dados
+# Uso [!UICONTROL Data Export Labels] para controlar o fluxo de dados
 
-[!UICONTROL Data Export Labels] forneça um mecanismo no Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir [!UICONTROL Data Export Controls] e [!UICONTROL Data Export Labels], para trabalhar em conjunto com esse fim.
+[!UICONTROL Data Export Labels] forneça um mecanismo no Audience Manager para controlar o fluxo de diferentes tipos/fontes de dados, para que você possa atender aos seus requisitos de privacidade. Saiba como e onde definir [!UICONTROL Data Export Controls] e [!UICONTROL Data Export Labels]para trabalhar em conjunto com esse fim.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

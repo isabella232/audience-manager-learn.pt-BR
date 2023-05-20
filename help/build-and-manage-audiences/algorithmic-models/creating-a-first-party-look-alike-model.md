@@ -1,6 +1,6 @@
 ---
 title: Criar um modelo semelhante próprio
-description: Neste vídeo, você aprenderá a criar um modelo de semelhança primário, para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
+description: Neste vídeo, você aprenderá a criar um modelo semelhante próprio, para encontrar mais de seus próprios visitantes que se parecem com seus conversores.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # Criar um modelo semelhante próprio no Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-Neste vídeo, você aprenderá a criar um modelo de semelhança primário, para que possa encontrar mais de seus próprios visitantes que se pareçam com seus conversores.
+Neste vídeo, você aprenderá a criar um modelo semelhante próprio, para encontrar mais de seus próprios visitantes que se parecem com seus conversores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 Os casos de uso para isso incluem:
 
-* Como editor, se seu inventário de &quot;conversores&quot; estiver esgotado, você também pode estendê-lo vendendo esse público-alvo semelhante.
-* Para aqueles que se parecem com seus conversores, mas ainda não o fizeram, forneça a eles marketing ou experiências específicas no site.
+* Como editor, se o inventário de &quot;conversores&quot; estiver esgotado, você poderá estendê-lo vendendo esse público semelhante também.
+* Para aqueles que se parecem com seus conversores, mas ainda não o fizeram, forneça a eles marketing específico ou experiências no site.
 
-Um benefício adicional aqui é que isso é totalmente gratuito para você, porque você só está usando os dados que possui. Isso, é claro, ajuda a maximizar seus lucros.
+Um benefício adicional é que isso é totalmente gratuito, porque você está usando apenas os dados que possui. Isso, é claro, ajuda a maximizar seus lucros.

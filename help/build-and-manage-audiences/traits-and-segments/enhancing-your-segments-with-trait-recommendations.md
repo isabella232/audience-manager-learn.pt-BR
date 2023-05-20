@@ -1,6 +1,6 @@
 ---
-title: Aprimorar seus segmentos com o Trait Recommendations
-description: Com o Trait Recommendations, ao criar ou editar um segmento, você recebe recomendações sobre características adicionais que pode incluir, semelhantes às características na regra de segmento.
+title: Aprimore seus segmentos com o Trait Recommendations
+description: Com o Trait Recommendations, ao criar ou editar um segmento, você recebe recomendações sobre as características adicionais que você pode incluir, semelhantes às características na regra de segmento.
 feature: Segments
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Melhore seus segmentos com [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Aprimore seus segmentos com o [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Com [!UICONTROL Trait Recommendations], ao criar ou editar um segmento no [!UICONTROL Segments], você recebe recomendações sobre características adicionais que podem ser incluídas, semelhantes às características na regra de segmento.
+Com [!UICONTROL Trait Recommendations], ao criar ou editar um segmento no [!UICONTROL Segments]Além disso, você recebe recomendações sobre as características adicionais que pode incluir, semelhantes às características na regra de segmento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] trabalhe com dados primários e de terceiros, para que você possa incluir dados adicionais recomendados [!UICONTROL Traits] e aumentar seu público-alvo.
+[!UICONTROL Trait Recommendations] trabalhar em dados primários e de terceiros, para que você possa incluir dados adicionais recomendados [!UICONTROL Traits] e aumente seu público-alvo.
 
 Para obter mais informações sobre esse recurso, visite o [documentação](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

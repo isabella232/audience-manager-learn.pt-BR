@@ -1,7 +1,7 @@
 ---
 title: Avaliação do ROI em um caso de uso de supressão de clientes
 description: Um centavo salvo é um centavo ganho, certo? Saiba como usar algumas fórmulas para determinar a economia de custos da campanha suprimindo os anúncios para clientes existentes.
-feature: Visão geral
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,8 +13,8 @@ level: Intermediate
 exl-id: 62d995d7-e216-4df9-b19d-d8e4a4f34b3a
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 

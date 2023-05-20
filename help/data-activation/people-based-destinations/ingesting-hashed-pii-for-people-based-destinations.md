@@ -1,6 +1,6 @@
 ---
 title: PII com hash de assimilação para destinos com base em pessoas
-description: Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash.
+description: Neste vídeo, saiba como formatar uma sincronização de ID com base em arquivo para unir as IDs do cliente (CRM IDs) com endereços de email com hash.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # PII com hash de assimilação para destinos com base em pessoas
 
-Neste vídeo, saiba como formatar uma sincronização de ID baseada em arquivo para unir as IDs do cliente (IDs CRM) com endereços de email com hash. Isso permitirá enviar os endereços de email com hash para Destinos com base em pessoas, como [!DNL Facebook].
+Neste vídeo, saiba como formatar uma sincronização de ID com base em arquivo para unir as IDs do cliente (CRM IDs) com endereços de email com hash. Isso permitirá enviar os endereços de email com hash para Destinos com base em pessoas, como [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

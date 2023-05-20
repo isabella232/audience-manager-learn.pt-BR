@@ -1,6 +1,6 @@
 ---
-title: Usar a Data Explorer para criar características e segmentos retroativos
-description: Saiba como criar características retroativas, como características que preenchem dados retroativamente na característica antes de sua criação. Este é um grande avanço na sua criação de características!
+title: Usar o Data Explorer para criar características e segmentos retroativos
+description: Saiba como criar características retroativas, como características que preenchem retroativamente os dados na característica antes de serem criadas. Este é um grande avanço na sua criação de características!
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Use [!UICONTROL Data Explorer] para criar características e segmentos retroativos {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# Uso [!UICONTROL Data Explorer] para criar características e segmentos retroativos {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-Este vídeo mostra como criar características retroativas, como características que preenchem dados retroativamente na característica antes de sua criação. Este é um grande avanço na sua criação de características!
+Este vídeo mostra como criar características retroativas, como características que preenchem retroativamente os dados na característica antes de serem criadas. Este é um grande avanço na sua criação de características!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Até agora, quando você criava características, elas coletavam dados somente quando avançavam. Isso significava que você tinha que criar muitas características caso elas recebessem tráfego ou dados. Agora, você pode esperar para ver quais pares de chave/valor recebem dados, em seguida, criar uma característica e preencher retroativamente os dados nessa característica. Isso economiza tempo e energia, e também ajuda você a manter sua taxonomia de características apertada, em vez de ter várias características que não têm dados.
+Até agora, quando você criava características, elas coletavam dados somente ao seguir em frente. Isso significava que você tinha que criar muitas características para o caso de eles receberem tráfego ou dados. Agora, você pode aguardar para ver quais pares de chave/valor recebem dados e, em seguida, criar uma característica e preencher os dados com essa característica. Isso economiza tempo e energia e também ajuda a manter a taxonomia de características rígida, em vez de ter várias características que não têm dados.
 
 Para obter mais informações sobre [!DNL Data Explorer], visita [Data Explorer - Visão geral, benefícios e casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

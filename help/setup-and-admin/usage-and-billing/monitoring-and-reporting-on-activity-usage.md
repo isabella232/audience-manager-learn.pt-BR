@@ -1,6 +1,6 @@
 ---
 title: Monitorar e relatar o uso da atividade
-description: Neste vídeo, saiba como usar o Relatório de uso de atividade, incluindo as opções de exibição e download.
+description: Neste vídeo, saiba como usar o Relatório de uso de atividade, incluindo opções de exibição e download.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Monitorar e relatar o uso da atividade
 
-Neste vídeo, abordaremos como usar o [!UICONTROL Activity Usage Report], incluindo as opções de exibição e download.
+Neste vídeo, abordaremos como usar o [!UICONTROL Activity Usage Report], incluindo opções de exibição e download.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

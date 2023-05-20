@@ -1,7 +1,7 @@
 ---
 title: Como um DMP pode mudar sua empresa
-description: As Plataformas de gerenciamento de dados são a palestra do mundo tecnológico agora, mas quais são e mais importante, como elas podem ajudá-lo enquanto profissionais de marketing a atingir suas metas? Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de casos reais em que os clientes tiveram um retorno surpreendente sobre seu investimento, desde compras de mídia mais eficientes a conversões significativamente maiores.
-feature: Visão geral
+description: As Plataformas de gerenciamento de dados são a conversa do mundo tecnológico atualmente, mas o que são e, mais importante, como elas podem ajudá-lo, à medida que os profissionais de marketing atingem seus objetivos? Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de caso reais, nos quais os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
+feature: Overview
 topics: null
 activity: understand
 doc-type: presentation
@@ -12,15 +12,15 @@ level: Beginner
 exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Como um DMP pode mudar sua empresa
 
-[!DNL Data Management Platforms] a conversa é sobre o mundo da tecnologia agora, mas quais são e mais importante, como eles podem ajudá-lo enquanto profissionais de marketing a realizar suas metas?
+[!DNL Data Management Platforms] são as conversas do mundo tecnológico agora, mas o que são e, mais importante, como eles podem ajudá-lo, enquanto profissionais de marketing, a atingir seus objetivos?
 
-Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de casos reais em que os clientes tiveram um retorno surpreendente sobre seu investimento, desde compras de mídia mais eficientes a conversões significativamente maiores.
+Durante esta sessão, explicaremos o que é um DMP e mostraremos alguns estudos de caso reais, nos quais os clientes têm visto retornos surpreendentes em seu investimento, desde compras de mídia mais eficientes até conversões significativamente maiores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

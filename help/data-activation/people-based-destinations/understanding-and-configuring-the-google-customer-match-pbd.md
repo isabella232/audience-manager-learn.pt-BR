@@ -1,6 +1,6 @@
 ---
 title: Como entender e configurar o destino baseado em pessoas que corresponde ao cliente do Google
-description: Este vídeo aborda os detalhes e o caso de uso do Destino baseado em pessoas da Correspondência de clientes do Google, e inclui uma apresentação sobre como criar um segmento e mapeá-lo para um destino. Também mostra a página inicial do público no Google Ad Console.
+description: Este vídeo aborda os detalhes e o caso de uso do Destino baseado em pessoas da Correspondência de clientes do Google, e inclui uma apresentação sobre como criar um segmento e mapeá-lo para um destino. Ele também mostra o público-alvo no Google Ad Console.
 feature: People-based Destinations
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Como entender e configurar o destino baseado em pessoas que corresponde ao cliente do Google
 
-Este vídeo aborda os detalhes e o caso de uso do Destino baseado em pessoas da Correspondência de clientes do Google, e inclui uma apresentação sobre como criar um segmento e mapeá-lo para um destino. Também mostra a página inicial do público no Google Ad Console.
+Este vídeo aborda os detalhes e o caso de uso do Destino baseado em pessoas da Correspondência de clientes do Google, e inclui uma apresentação sobre como criar um segmento e mapeá-lo para um destino. Ele também mostra o público-alvo no Google Ad Console.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

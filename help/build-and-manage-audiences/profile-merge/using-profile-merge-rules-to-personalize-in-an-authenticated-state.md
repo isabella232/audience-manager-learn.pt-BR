@@ -1,6 +1,6 @@
 ---
-title: Usar regras de mesclagem de perfis para personalizar em um estado autenticado
-description: Dê a seus clientes conectados uma experiência personalizada usando essas configurações de Regra de mesclagem de perfis.
+title: Usar as Regras de mesclagem de perfis para personalizar em um estado autenticado
+description: Ofereça aos clientes conectados uma experiência personalizada usando essas configurações de Regra de mesclagem de perfis.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Use [!UICONTROL Profile Merge Rules] para personalizar em um estado autenticado
+# Uso [!UICONTROL Profile Merge Rules] para personalizar em um estado autenticado
 
-Dê a seus clientes conectados uma experiência personalizada usando-os [!UICONTROL Profile Merge Rule] configurações.
+Ofereça aos clientes conectados uma experiência personalizada usando estes [!UICONTROL Profile Merge Rule] configurações.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

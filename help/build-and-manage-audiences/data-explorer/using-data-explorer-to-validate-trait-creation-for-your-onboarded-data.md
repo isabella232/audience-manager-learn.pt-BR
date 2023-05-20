@@ -1,5 +1,5 @@
 ---
-title: 'Usar o Data Explorer para validar a criação de características para dados integrados '
+title: Usar o Data Explorer para validar a criação de características para dados integrados
 description: Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar o Data Explorer para validar que você criou todas as características necessárias para aproveitar esses dados integrados.
 feature: Data Explorer
 topics: null
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Usar o Data Explorer para validar a criação de características para dados integrados {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar [!DNL Data Explorer] para validar que você criou todas as características necessárias para aproveitar esses dados integrados.
+Um dos recursos mais eficientes do Audience Manager é a capacidade de integrar dados offline e uni-los aos seus dados online. Neste vídeo, saiba como usar [!DNL Data Explorer] para validar se você criou todas as características necessárias para aproveitar esses dados integrados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-Em muitos casos, você cria características para dados integrados antes de realmente integrar os dados. No entanto, é possível que novas chaves e valores sejam adicionados ao longo do caminho, e talvez você não tenha mais todas as características criadas para aproveitar esses dados excelentes. Com [!UICONTROL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os dados integrados e filtrá-los por [!UICONTROL Data Source]ou até mesmo filtre-o para baixo até a chave e/ou valor. Essa pesquisa permite validar seus dados de forma eficiente.
+Em muitos casos, você cria características para dados integrados antes de realmente integrar os dados. No entanto, é possível que novas chaves e valores sejam adicionados ao longo do caminho e você não tenha mais todas as características criadas necessárias para aproveitar esses excelentes dados. Com [!UICONTROL Data Explorer], você pode fazer uma pesquisa rápida para ver todos os dados integrados e filtrá-los por [!UICONTROL Data Source], ou até mesmo filtrar até a chave e/ou valor. Essa pesquisa permite validar com eficiência os dados.
 
 Para obter mais informações sobre [!DNL Data Explorer], visita [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

@@ -1,6 +1,6 @@
 ---
-title: Exemplos de regras de mesclagem de perfis e casos de uso
-description: Saiba mais sobre exemplos de Regras de mesclagem de perfis e o que elas significam, bem como sobre os casos de uso que as Regras de mesclagem de perfis resolvem.
+title: Exemplos e casos de uso da Regra de mesclagem de perfis
+description: Saiba mais sobre exemplos de Regras de mesclagem de perfil e o que elas significam, bem como os casos de uso que as Regras de mesclagem de perfil resolvem.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Exemplos e casos de uso
 
-Neste vídeo você verá exemplos de [!UICONTROL Profile Merge Rules] e o que significam, assim como os casos de uso que [!UICONTROL Profile Merge Rules] resolver.
+Neste vídeo, você verá exemplos de [!UICONTROL Profile Merge Rules] e o que eles significam, bem como os casos de uso que [!UICONTROL Profile Merge Rules] resolver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

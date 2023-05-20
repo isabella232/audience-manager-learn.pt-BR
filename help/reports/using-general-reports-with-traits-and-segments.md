@@ -1,6 +1,6 @@
 ---
 title: Usar relatórios gerais com características e segmentos
-description: Neste vídeo, veja como usar os Relatórios gerais no Audience Manager para obter números para características e segmentos.
+description: Neste vídeo, veja como usar os Relatórios gerais no Audience Manager para obter números de características e segmentos.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Usar relatórios gerais com características e segmentos
 
-Neste vídeo, veja como usar os relatórios gerais no Audience Manager para obter números para características e segmentos.
+Neste vídeo, veja como usar os relatórios gerais no Audience Manager para obter números de características e segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

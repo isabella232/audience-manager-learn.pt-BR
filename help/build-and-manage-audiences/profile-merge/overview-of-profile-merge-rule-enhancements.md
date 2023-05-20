@@ -1,5 +1,5 @@
 ---
-title: Visão geral das melhorias nas Regras de mesclagem de perfis
+title: Visão geral dos aprimoramentos da Regra de mesclagem de perfis
 description: Este vídeo explica as melhorias nas Regras de mesclagem de perfis, lançadas em outubro de 2019.
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Visão geral da [!UICONTROL Profile Merge Rule] melhorias
+# Visão geral do [!UICONTROL Profile Merge Rule] melhorias
 
-Este vídeo explica as melhorias feitas ao [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
+Este vídeo explica as melhorias feitas no [!UICONTROL Profile Merge Rules], lançado em outubro de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

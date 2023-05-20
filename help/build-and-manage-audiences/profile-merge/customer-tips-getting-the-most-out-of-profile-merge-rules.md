@@ -1,6 +1,6 @@
 ---
 title: Dicas do cliente - Como aproveitar ao máximo as Regras de mesclagem de perfis
-description: Varun Kalra, consultor de várias soluções da empresa de acordo, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
+description: Varun Kalra, consultor de várias soluções da Accordant, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Dicas do cliente - Como aproveitar ao máximo as Regras de mesclagem de perfis
 
-**Varun Kalra**, consultor de várias soluções em **Conforme**, fornece dicas sobre como escolher e usar Regras de mesclagem de perfis (PMRs).
+**Varun Kalra**, consultor de várias soluções da **Acordante**, dá dicas sobre a escolha e o uso das Regras de mesclagem de perfis (PMRs).
 
-Varun Kalra é consultor de várias soluções que trabalha em um Adobe Solution Partner baseado em Sydney - Conformant. A Varun funciona principalmente em projetos Audience Manager, Adobe Analytics e AEP que envolvem detecção de dados, implementação, suporte e ativação. As dicas incluem tópicos como:
+Varun Kalra é um consultor de várias soluções que trabalha em um Adobe Solution Partner - Accordant com sede em Sydney. Varun trabalha principalmente em projetos Audience Manager, Adobe Analytics e AEP que envolvem descoberta, implementação, suporte e capacitação de dados. As dicas incluem tópicos como:
 
-* Identificação de metas de campanha para configuração de PMR
-* Detalhe sobre um caso de uso de direcionamento
+* Identificação de metas da campanha para a configuração do PMR
+* Aprofundamento de um caso de uso de direcionamento
 * Casos de uso para várias configurações de PMR
 
-[Leia as Dicas da Varun na Comunidade do Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leia as dicas de Varun na comunidade Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

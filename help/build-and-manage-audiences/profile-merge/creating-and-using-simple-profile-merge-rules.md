@@ -1,5 +1,5 @@
 ---
-title: Criar e usar regras de mesclagem de perfis simples
+title: Criar e usar Regras simples de mesclagem de perfis
 description: Saiba mais sobre as regras de mesclagem de perfis e como atribuí-las a segmentos. Saiba mais sobre o perfil padrão "Dispositivo atual" e quando ele pode/deve ser usado.
 feature: Profile Merge
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Crie e use o [!UICONTROL Profile Merge Rules]
+# Criar e usar simples [!UICONTROL Profile Merge Rules]
 
 Saiba mais sobre [!UICONTROL Profile Merge Rules] e como atribuí-los a segmentos. Saiba mais sobre o padrão [!UICONTROL Current Device] e quando pode e deve ser usado.
 
