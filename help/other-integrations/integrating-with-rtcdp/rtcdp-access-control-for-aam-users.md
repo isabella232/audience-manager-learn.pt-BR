@@ -1,7 +1,7 @@
 ---
 title: Compreensão do controle de acesso na Real-time CDP para usuários do Audience Manager
 description: Ao mudar do Audience Manager para o Real-time Customer Data Platform, você desejará saber onde as permissões de usuário e grupo estão definidas. Este vídeo mostra como o controle de acesso agora estará na Adobe Admin Console.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 exl-id: 27e8887b-6e02-452a-8526-ab235446505d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%

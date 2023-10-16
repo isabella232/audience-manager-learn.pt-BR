@@ -1,7 +1,7 @@
 ---
 title: Compreensão do controle de dados na CDP em tempo real para usuários do Audience Manager
 description: Este vídeo orienta os usuários do Audience Manager sobre a funcionalidade de governança de dados no Real-time Customer Data Platform, comparando-a com a que estava disponível no Audience Manager. Ele discute a estrutura Uso de dados e aplicação de rotulagem (DULE) e onde é possível aplicá-la na plataforma.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
