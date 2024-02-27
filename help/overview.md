@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
+source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 16%
+source-wordcount: '223'
+ht-degree: 0%
 
 ---
 
@@ -20,25 +20,12 @@ ht-degree: 16%
 
 Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutoriais junto com a [documentação](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) O fornecerá um melhor entendimento de como usar o Adobe Audience Manager para criar e ativar públicos-alvo em qualquer canal ou dispositivo usando o Adobe melhor da categoria [!DNL data management platform].
 
+* Consulte a **&quot;Novidades&quot;** abaixo para obter as atualizações e os recursos mais recentes
 * **Escolhas de pessoal** destaca alguns de nossos conteúdos favoritos
-* Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
-* Use o campo de **pesquisa** na parte superior da página se você souber o que está procurando
+* Explore o conteúdo por tópico e subtópico no **navegação à esquerda**
+* Use o **pesquisa** na parte superior da página se você souber o que está procurando
 
-<div id="whats-new-section">
-## Novidades
 
-* **[Visão geral do [!UICONTROL Profile Merge Rules] (Vídeo)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-   *Entender o que [!UICONTROL Profile Merge Rules] são, como funcionam e seu valor para o profissional de marketing.*
-
-* **[[!UICONTROL Profile Merge Rule]Exemplos e casos de uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-   *Neste vídeo, você verá exemplos de [!UICONTROL Profile Merge Rules] e o que eles significam, bem como os casos de uso que [!UICONTROL Profile Merge Rules] resolver para.*
-
-* **[Criar e configurar destinos com base em pessoas](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-   *Saiba como configurar um [!DNL People-Based Destination] na interface do Audience Manager*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -55,11 +42,11 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=pt-BR">
-      <img alt="imagem em miniatura do tutorial "Implementar o Adobe Experience Cloud com o SDK da Web"" src="assets/implement-web-sdk.jpg" />
+      <img alt="imagem em miniatura do tutorial &quot;Implementar o Adobe Experience Cloud com o SDK da Web&quot;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=pt-BR">
-    <strong>Implementar a Adobe Experience Cloud com o tutorial do SDK da web</strong>
+    <strong>Implementar o Adobe Experience Cloud com o tutorial do SDK da Web</strong>
     </a>
     </div>
     <p>
@@ -68,7 +55,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-      <img alt="imagem em miniatura para o tutorial "Entendendo os segmentos na Real-time CDP"" src="assets/331901.jpg" />
+      <img alt="imagem em miniatura para o tutorial &quot;Entendendo os segmentos na Real-time CDP&quot;" src="assets/331901.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
@@ -81,7 +68,7 @@ Bem-vindo ao site de tutoriais do Audience Manager. A utilização desses tutori
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="imagem em miniatura do tutorial "Configurar e relatar públicos-alvo preditivos no Audience Manager"" src="assets/33630.jpg" />
+      <img alt="imagem em miniatura do tutorial &quot;Configurar e relatar públicos-alvo preditivos no Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
